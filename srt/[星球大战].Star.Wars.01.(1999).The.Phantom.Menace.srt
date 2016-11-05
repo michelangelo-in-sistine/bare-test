@@ -1,0 +1,7462 @@
+1
+00:00:21,224 --> 00:00:26,218
+很久以前，在遥远的银河系…
+
+2
+00:00:28,218 --> 00:00:38,218
+星球大战
+
+3
+00:00:41,244 --> 00:00:46,238
+前传：魅影危机
+
+4
+00:00:52,255 --> 00:00:56,259
+银河共和国里动荡不安
+
+5
+00:00:56,259 --> 00:01:01,264
+为星际贸易通道上的税收问题纠纷
+
+6
+00:01:01,264 --> 00:01:08,260
+贪婪的贸易联盟派出战斗舰队
+
+7
+00:01:09,272 --> 00:01:14,277
+企图封锁一切运往纳布星系的货物
+
+8
+00:01:14,277 --> 00:01:18,281
+正当共和国会就这一连串危机争论不休的时候
+
+9
+00:01:18,281 --> 00:01:22,285
+共和国首相已经秘密派出两名
+
+10
+00:01:22,285 --> 00:01:26,289
+维护和平和正义的绝地武士
+
+11
+00:01:26,289 --> 00:01:29,281
+去解决冲突
+
+12
+00:02:00,400 --> 00:02:02,569
+- 船长 - 是，长官？
+{\fscx75\fscy75\1c&HFF8000&}- Captain. - Yes, sir?{\r}
+
+13
+00:02:02,694 --> 00:02:04,820
+通知他们我们要登舰了
+{\fscx75\fscy75\1c&HFF8000&}Tell them we wish to board at once.{\r}
+
+14
+00:02:06,320 --> 00:02:07,739
+满怀尊敬之意…
+{\fscx75\fscy75\1c&HFF8000&}With all due respect...{\r}
+
+15
+00:02:07,864 --> 00:02:11,079
+共和国首相的两位特使请求立即登舰
+{\fscx75\fscy75\1c&HFF8000&}the ambassadors for the supreme chancellor wish to board immediately.{\r}
+
+16
+00:02:11,203 --> 00:02:13,079
+当然可以
+{\fscx75\fscy75\1c&HFF8000&}Yes, of course.{\r}
+
+17
+00:02:13,204 --> 00:02:16,291
+如你所知，我们的封锁行动是合法的…
+{\fscx75\fscy75\1c&HFF8000&}As you know, our blockade is perfectly legal...{\r}
+
+18
+00:02:16,417 --> 00:02:20,502
+我们欢迎共和国特使
+{\fscx75\fscy75\1c&HFF8000&}and we'd be happy to receive the ambassadors.{\r}
+
+19
+00:02:42,982 --> 00:02:45,611
+我是TC-14，欢迎两位，
+{\fscx75\fscy75\1c&HFF8000&}I'm TC-14 at your service.{\r}
+
+20
+00:02:45,737 --> 00:02:47,612
+请这边走
+{\fscx75\fscy75\1c&HFF8000&}This way, please.{\r}
+
+21
+00:02:53,742 --> 00:02:56,786
+特使的到访让我们倍感荣幸
+{\fscx75\fscy75\1c&HFF8000&}We are greatly honoured by your visit, Ambassadors.{\r}
+
+22
+00:02:56,910 --> 00:02:58,789
+请稍候片刻
+{\fscx75\fscy75\1c&HFF8000&}Make yourselves comfortable.{\r}
+
+23
+00:02:58,914 --> 00:03:01,251
+我的主人马上就到
+{\fscx75\fscy75\1c&HFF8000&}My master will be with you shortly.{\r}
+
+24
+00:03:05,127 --> 00:03:07,421
+我有一种不详的感觉
+{\fscx75\fscy75\1c&HFF8000&}I have a bad feeling about this.{\r}
+
+25
+00:03:07,547 --> 00:03:10,549
+- 我倒没感觉到  - 我不是说这次任务，师父
+{\fscx75\fscy75\1c&HFF8000&}- I don't sense anything. - It's not about the mission, Master.{\r}
+
+26
+00:03:10,673 --> 00:03:14,594
+是一种模糊的预感
+{\fscx75\fscy75\1c&HFF8000&}It's something elsewhere, elusive.{\r}
+
+27
+00:03:14,719 --> 00:03:17,098
+你过于焦虑不安了，欧比旺
+{\fscx75\fscy75\1c&HFF8000&}Don't centre on your anxieties, Obi-Wan.{\r}
+
+28
+00:03:17,222 --> 00:03:20,351
+你应该把注意力放在这里，注意这里的情况
+{\fscx75\fscy75\1c&HFF8000&}Keep your concentration here and now, where it belongs.{\r}
+
+29
+00:03:20,475 --> 00:03:23,311
+可是尤达师父告诉我应该留意未来
+{\fscx75\fscy75\1c&HFF8000&}But Master Yoda said I should be mindful of the future.{\r}
+
+30
+00:03:23,437 --> 00:03:25,439
+那也不能不顾眼前的情况
+{\fscx75\fscy75\1c&HFF8000&}But not at the expense of the moment.{\r}
+
+31
+00:03:25,564 --> 00:03:28,481
+要欣赏生命的原动力，年轻的绝地学徒
+{\fscx75\fscy75\1c&HFF8000&}Be mindful of the living Force, young Padawan.{\r}
+
+32
+00:03:28,605 --> 00:03:30,526
+是，师父
+{\fscx75\fscy75\1c&HFF8000&}Yes, Master.{\r}
+
+33
+00:03:32,736 --> 00:03:36,365
+贸易总督会怎样回应首相的要求呢？
+{\fscx75\fscy75\1c&HFF8000&}How do you think this trade viceroy will deal with the chancellor's demands?{\r}
+
+34
+00:03:36,491 --> 00:03:38,617
+贸易联盟的人都是懦夫
+{\fscx75\fscy75\1c&HFF8000&}These Federation types are cowards.{\r}
+
+35
+00:03:38,741 --> 00:03:41,578
+谈判会很快结束的
+{\fscx75\fscy75\1c&HFF8000&}The negotiations will be short.{\r}
+
+36
+00:03:42,454 --> 00:03:44,997
+什么？你说什么？
+{\fscx75\fscy75\1c&HFF8000&}What? What did you say?{\r}
+
+37
+00:03:45,122 --> 00:03:48,085
+我看这两位特使一定是绝地武士
+{\fscx75\fscy75\1c&HFF8000&}The ambassadors are Jedi knights, I believe.{\r}
+
+38
+00:03:48,835 --> 00:03:50,043
+我知道
+{\fscx75\fscy75\1c&HFF8000&}I knew it.{\r}
+
+39
+00:03:50,169 --> 00:03:52,422
+他们来迫使我们答应条件
+{\fscx75\fscy75\1c&HFF8000&}They're here to force a settlement.{\r}
+
+40
+00:03:53,757 --> 00:03:56,843
+稳住他们，我来联系西迪厄斯大人
+{\fscx75\fscy75\1c&HFF8000&}Distract them. I will contact Lord Sidious.{\r}
+
+41
+00:03:56,968 --> 00:03:58,553
+你疯了吗？
+{\fscx75\fscy75\1c&HFF8000&}Are you brain-dead?{\r}
+
+42
+00:03:58,677 --> 00:04:01,512
+我才不去见那两个绝地武士
+{\fscx75\fscy75\1c&HFF8000&}I'm not going in there with two Jedi.{\r}
+
+43
+00:04:03,180 --> 00:04:04,599
+派机器人去吧
+{\fscx75\fscy75\1c&HFF8000&}Send a droid.{\r}
+
+44
+00:04:10,064 --> 00:04:11,939
+让我们等这么久是他们的习惯吗？
+{\fscx75\fscy75\1c&HFF8000&}Is it in their nature to make us wait this long?{\r}
+
+45
+00:04:12,065 --> 00:04:14,359
+不 我察觉到一种不同寻常的恐惧…
+{\fscx75\fscy75\1c&HFF8000&}No. I sense an unusual amount of fear...{\r}
+
+46
+00:04:14,484 --> 00:04:16,609
+对解决贸易纠纷的谈判不太相干
+{\fscx75\fscy75\1c&HFF8000&}for something as trivial as this trade dispute.{\r}
+
+47
+00:04:27,539 --> 00:04:29,415
+什么事啊？
+{\fscx75\fscy75\1c&HFF8000&}What is it?{\r}
+
+48
+00:04:29,540 --> 00:04:32,210
+你的计划失败了，西迪厄斯大人
+{\fscx75\fscy75\1c&HFF8000&}This scheme of yours has failed, Lord Sidious.{\r}
+
+49
+00:04:32,335 --> 00:04:35,877
+封锁结束了，我们不敢对抗绝地武士
+{\fscx75\fscy75\1c&HFF8000&}The blockade is finished. We dare not go against these Jedi.{\r}
+
+50
+00:04:36,003 --> 00:04:40,800
+总督，别叫这胆小鬼再出现我眼前
+{\fscx75\fscy75\1c&HFF8000&}Viceroy, I don't want this stunted slime in my sight again.{\r}
+
+51
+00:04:42,176 --> 00:04:46,222
+很不幸事情出现变化，要速战速决
+{\fscx75\fscy75\1c&HFF8000&}This turn of events is unfortunate. We must accelerate our plans.{\r}
+
+52
+00:04:46,346 --> 00:04:48,891
+叫你的军队开始登陆
+{\fscx75\fscy75\1c&HFF8000&}Begin landing your troops.{\r}
+
+53
+00:04:49,017 --> 00:04:52,729
+大人，那样做合法吗？
+{\fscx75\fscy75\1c&HFF8000&}My lord, is that legal?{\r}
+
+54
+00:04:52,853 --> 00:04:55,148
+我会让它合法的
+{\fscx75\fscy75\1c&HFF8000&}I will make it legal.{\r}
+
+55
+00:04:55,272 --> 00:04:57,567
+绝地武士怎么办？
+{\fscx75\fscy75\1c&HFF8000&}And the Jedi?{\r}
+
+56
+00:04:57,692 --> 00:05:00,193
+首相根本不应派他们来
+{\fscx75\fscy75\1c&HFF8000&}The chancellor should never have brought them into this.{\r}
+
+57
+00:05:00,319 --> 00:05:02,071
+立即干掉他们
+{\fscx75\fscy75\1c&HFF8000&}Kill them immediately.{\r}
+
+58
+00:05:02,196 --> 00:05:06,492
+是，大人，一定照办
+{\fscx75\fscy75\1c&HFF8000&}Yes, my lord . As you wish.{\r}
+
+59
+00:05:08,367 --> 00:05:10,161
+船长，看！
+{\fscx75\fscy75\1c&HFF8000&}Captain, look!{\r}
+
+60
+00:05:11,287 --> 00:05:12,664
+启动防护罩…
+{\fscx75\fscy75\1c&HFF8000&}Shields...{\r}
+
+61
+00:05:16,166 --> 00:05:18,044
+抱歉
+{\fscx75\fscy75\1c&HFF8000&}Sorry.{\r}
+
+62
+00:05:19,795 --> 00:05:21,672
+是毒气
+{\fscx75\fscy75\1c&HFF8000&}Dioxis.{\r}
+
+63
+00:05:26,553 --> 00:05:29,138
+他们应该已经死了
+{\fscx75\fscy75\1c&HFF8000&}They must be dead by now.{\r}
+
+64
+00:05:29,263 --> 00:05:31,929
+若未死的话，干掉他们
+{\fscx75\fscy75\1c&HFF8000&}Destroy what's left of them.{\r}
+
+65
+00:05:40,063 --> 00:05:42,443
+噢，对不起
+{\fscx75\fscy75\1c&HFF8000&}Oh! Excuse me.{\r}
+
+66
+00:05:42,566 --> 00:05:45,527
+- 查看一下，下士，我会掩护你的 - 收到，收到
+{\fscx75\fscy75\1c&HFF8000&}- Check it out, Corporal. We'll cover you. - Roger, roger.{\r}
+
+67
+00:05:46,486 --> 00:05:48,155
+干掉他们
+{\fscx75\fscy75\1c&HFF8000&}Blast them.{\r}
+
+68
+00:05:53,909 --> 00:05:55,453
+下面出什么事了？
+{\fscx75\fscy75\1c&HFF8000&}What is going on down there?{\r}
+
+69
+00:05:55,577 --> 00:05:57,538
+通讯中断了，长官
+{\fscx75\fscy75\1c&HFF8000&}We lost the transmission, sir.{\r}
+
+70
+00:06:02,043 --> 00:06:05,046
+你曾经和绝地武士交过手吗？
+{\fscx75\fscy75\1c&HFF8000&}Have you ever encountered a Jedi knight before, sir?{\r}
+
+71
+00:06:05,171 --> 00:06:08,133
+没有，封闭舰桥
+{\fscx75\fscy75\1c&HFF8000&}Well, no, but I don't... Seal off the bridge.{\r}
+
+72
+00:06:08,257 --> 00:06:10,970
+- 是，长官  - 那样阻止不了他们
+{\fscx75\fscy75\1c&HFF8000&}- Yes, sir. - That won't be enough, sir.{\r}
+
+73
+00:06:11,094 --> 00:06:13,052
+马上派机器人来
+{\fscx75\fscy75\1c&HFF8000&}I want droidekas up here at once!{\r}
+
+74
+00:06:13,179 --> 00:06:15,724
+这下我们可要完了
+{\fscx75\fscy75\1c&HFF8000&}We will not survive this.{\r}
+
+75
+00:06:27,276 --> 00:06:28,692
+关闭闸门
+{\fscx75\fscy75\1c&HFF8000&}Close the blast doors!{\r}
+
+76
+00:06:35,325 --> 00:06:37,493
+这下他们进不来了
+{\fscx75\fscy75\1c&HFF8000&}That will hold them.{\r}
+
+77
+00:06:45,959 --> 00:06:48,672
+我看他们仍可穿过
+{\fscx75\fscy75\1c&HFF8000&}They are still coming through.{\r}
+
+78
+00:06:48,797 --> 00:06:50,716
+这怎么可能！
+{\fscx75\fscy75\1c&HFF8000&}This is impossible!{\r}
+
+79
+00:06:55,217 --> 00:06:58,054
+我们的机器人怎么还不来？
+{\fscx75\fscy75\1c&HFF8000&}Where are those droidekas?{\r}
+
+80
+00:06:59,640 --> 00:07:01,391
+师父！小心！
+{\fscx75\fscy75\1c&HFF8000&}Master! Destroyers!{\r}
+
+81
+00:07:07,814 --> 00:07:09,191
+他们有防护罩
+{\fscx75\fscy75\1c&HFF8000&}They have shield generators!{\r}
+
+82
+00:07:10,648 --> 00:07:13,360
+这是个平局，我们走
+{\fscx75\fscy75\1c&HFF8000&}It's a standoff. Let's go.{\r}
+
+83
+00:07:17,530 --> 00:07:20,034
+他们挡不住机器人
+{\fscx75\fscy75\1c&HFF8000&}They're no match for droidekas.{\r}
+
+84
+00:07:20,159 --> 00:07:21,827
+长官！
+{\fscx75\fscy75\1c&HFF8000&}Sir!{\r}
+
+85
+00:07:21,951 --> 00:07:24,622
+他们进入了通风气道
+{\fscx75\fscy75\1c&HFF8000&}They've gone up the ventilation shaft.{\r}
+
+86
+00:07:33,420 --> 00:07:36,091
+- 战斗机器人 - 这是一支入侵部队
+{\fscx75\fscy75\1c&HFF8000&}- Battle droids. - It's an invasion army.{\r}
+
+87
+00:07:37,841 --> 00:07:40,511
+这是贸易联盟的诡计
+{\fscx75\fscy75\1c&HFF8000&}This is an odd play for the Trade Federation.{\r}
+
+88
+00:07:40,636 --> 00:07:43,722
+我们得警告纳布星球并联系维罗伦首相
+{\fscx75\fscy75\1c&HFF8000&}We've got to warn the Naboo and contact Chancellor Valorum.{\r}
+
+89
+00:07:43,846 --> 00:07:45,389
+我们分头行事
+{\fscx75\fscy75\1c&HFF8000&}Let's split up.{\r}
+
+90
+00:07:45,514 --> 00:07:48,724
+藏在不同的战舰里，着陆之后再会合
+{\fscx75\fscy75\1c&HFF8000&}Stow aboard separate ships and meet down on the planet.{\r}
+
+91
+00:07:48,850 --> 00:07:50,687
+有一件事你说对了，师父
+{\fscx75\fscy75\1c&HFF8000&}You were right about one thing, Master.{\r}
+
+92
+00:07:52,646 --> 00:07:55,316
+谈判的确结束得很快
+{\fscx75\fscy75\1c&HFF8000&}The negotiations were short.{\r}
+
+93
+00:07:56,483 --> 00:07:58,903
+长官，星球上有通讯来
+{\fscx75\fscy75\1c&HFF8000&}Sir, a transmission from the planet.{\r}
+
+94
+00:07:59,028 --> 00:08:01,112
+是阿米达拉女王
+{\fscx75\fscy75\1c&HFF8000&}It's Queen Amidala herself.{\r}
+
+95
+00:08:01,237 --> 00:08:03,655
+终于有结果了
+{\fscx75\fscy75\1c&HFF8000&}At last we are getting results.{\r}
+
+96
+00:08:05,031 --> 00:08:08,035
+我们又见到面了，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}Again you come before us, Your Highness.{\r}
+
+97
+00:08:08,160 --> 00:08:11,247
+你现在别高兴得太早
+{\fscx75\fscy75\1c&HFF8000&}You will not be so pleased when you hear what I have to say, Viceroy.{\r}
+
+98
+00:08:11,372 --> 00:08:15,085
+你们的贸易封锁行动已经失败了
+{\fscx75\fscy75\1c&HFF8000&}Your trade boycott of our planet has ended.{\r}
+
+99
+00:08:15,209 --> 00:08:17,752
+这个我怎么不知道？
+{\fscx75\fscy75\1c&HFF8000&}I was not aware of such failure.{\r}
+
+100
+00:08:17,878 --> 00:08:20,588
+我知道两位特使在你们那儿…
+{\fscx75\fscy75\1c&HFF8000&}I have word that the chancellor's ambassadors are with you now...{\r}
+
+101
+00:08:20,715 --> 00:08:23,424
+要求你们马上达成协议
+{\fscx75\fscy75\1c&HFF8000&}and that you have been commanded to reach settlement.{\r}
+
+102
+00:08:23,549 --> 00:08:25,802
+我没听说过什么特使
+{\fscx75\fscy75\1c&HFF8000&}I know nothing of any ambassadors.{\r}
+
+103
+00:08:25,928 --> 00:08:28,305
+你一定是搞错了，陛下
+{\fscx75\fscy75\1c&HFF8000&}You must be mistaken.{\r}
+
+104
+00:08:28,431 --> 00:08:30,433
+你要知道，总督
+{\fscx75\fscy75\1c&HFF8000&}Beware, Viceroy.{\r}
+
+105
+00:08:30,558 --> 00:08:33,269
+联盟这次做得太过分了
+{\fscx75\fscy75\1c&HFF8000&}The Federation has gone too far this time.{\r}
+
+106
+00:08:33,393 --> 00:08:37,437
+没有国会的同意我们是不敢乱来的
+{\fscx75\fscy75\1c&HFF8000&}We would never do anything without the approval of the senate.{\r}
+
+107
+00:08:37,563 --> 00:08:40,065
+你是太多心了吧
+{\fscx75\fscy75\1c&HFF8000&}You assume too much.{\r}
+
+108
+00:08:40,190 --> 00:08:41,567
+等着瞧吧
+{\fscx75\fscy75\1c&HFF8000&}We will see.{\r}
+
+109
+00:08:43,195 --> 00:08:47,198
+- 她说的对，国会绝对不会… - 现在说这个太晚了
+{\fscx75\fscy75\1c&HFF8000&}- She's right. The senate will never... - It's too late now.{\r}
+
+110
+00:08:47,324 --> 00:08:50,283
+- 她怀疑我们要进攻吗？   - 我不知道
+{\fscx75\fscy75\1c&HFF8000&}- Do you think she suspects an attack? - I don't know.{\r}
+
+111
+00:08:50,409 --> 00:08:54,746
+但是必须马上切断所有同纳布星的通讯
+{\fscx75\fscy75\1c&HFF8000&}But we must move quickly to disrupt all communications down there.{\r}
+
+112
+00:09:00,252 --> 00:09:04,007
+他们说共和国首相的两位特使不在那里？
+{\fscx75\fscy75\1c&HFF8000&}Negotiations haven 't started because the ambassadors aren't there?{\r}
+
+113
+00:09:04,132 --> 00:09:06,300
+这怎么可能？
+{\fscx75\fscy75\1c&HFF8000&}How could that be true?{\r}
+
+114
+00:09:06,425 --> 00:09:10,761
+我从首相那里得到消息是：特使们已经到了
+{\fscx75\fscy75\1c&HFF8000&}I have assurances from the chancellor his ambassadors did arrive.{\r}
+
+115
+00:09:10,886 --> 00:09:14,639
+一定是…谈判…特使们…后果…
+{\fscx75\fscy75\1c&HFF8000&}It must... handiwork... negotiate... ambassadors...{\r}
+
+116
+00:09:14,764 --> 00:09:17,394
+- 没有人可以… - 帕尔帕庭议员
+{\fscx75\fscy75\1c&HFF8000&}- nobody would... - Senator Palpatine.{\r}
+
+117
+00:09:17,518 --> 00:09:19,396
+怎么回事？
+{\fscx75\fscy75\1c&HFF8000&}What's happening?{\r}
+
+118
+00:09:19,520 --> 00:09:21,397
+检查一下通讯发射器
+{\fscx75\fscy75\1c&HFF8000&}Check the transmission generator.{\r}
+
+119
+00:09:21,522 --> 00:09:26,360
+通讯中断表明贸易联盟已经…入侵了
+{\fscx75\fscy75\1c&HFF8000&}A communications disruption can mean only one thing: invasion.{\r}
+
+120
+00:09:26,484 --> 00:09:28,779
+联盟现在还不敢这样
+{\fscx75\fscy75\1c&HFF8000&}The Federation would not dare go that far.{\r}
+
+121
+00:09:28,903 --> 00:09:32,699
+国会有权撤消他贸易的特权，那样他们就完了
+{\fscx75\fscy75\1c&HFF8000&}The senate would revoke their trade franchise, and they'd be finished.{\r}
+
+122
+00:09:32,824 --> 00:09:35,662
+我们必须继续进行谈判
+{\fscx75\fscy75\1c&HFF8000&}We must continue to rely on negotiation.{\r}
+
+123
+00:09:35,787 --> 00:09:38,997
+谈判？ 通讯完全中断了
+{\fscx75\fscy75\1c&HFF8000&}Negotiation? We've lost all communications.{\r}
+
+124
+00:09:39,121 --> 00:09:41,459
+又不知道特使在什么地方？
+{\fscx75\fscy75\1c&HFF8000&}And where are the chancellor's ambassadors?{\r}
+
+125
+00:09:42,791 --> 00:09:45,252
+情况非常危险，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}This is a dangerous situation, Your Highness.{\r}
+
+126
+00:09:45,377 --> 00:09:47,463
+我们的保安志愿军兵力有限…
+{\fscx75\fscy75\1c&HFF8000&}Our security volunteers will be no match...{\r}
+
+127
+00:09:47,588 --> 00:09:49,715
+抵挡不住贸易联盟的庞大军队
+{\fscx75\fscy75\1c&HFF8000&}against a battle-hardened Federation army.{\r}
+
+128
+00:09:51,300 --> 00:09:55,011
+我绝不允许任何导致战争的行为
+{\fscx75\fscy75\1c&HFF8000&}I will not condone a course of action that will lead us to war.{\r}
+
+129
+00:10:31,462 --> 00:10:34,548
+- 遵命，总督？ - 我们搜查了整个战舰…
+{\fscx75\fscy75\1c&HFF8000&}- Yes, Viceroy? - Captain, we've searched the ship...{\r}
+
+130
+00:10:34,673 --> 00:10:36,800
+没有发现绝地武士的踪迹
+{\fscx75\fscy75\1c&HFF8000&}and there is no trace of the Jedi.{\r}
+
+131
+00:10:36,924 --> 00:10:39,677
+他们也许藏在那艘登陆艇上
+{\fscx75\fscy75\1c&HFF8000&}They may have gotten on one of your landing craft.{\r}
+
+132
+00:10:39,801 --> 00:10:42,263
+如果他们真的在这我们会找到的
+{\fscx75\fscy75\1c&HFF8000&}If they're down here, sir, we'll find them.{\r}
+
+133
+00:10:42,389 --> 00:10:46,726
+多加小心，不要低估了这两个绝地武士
+{\fscx75\fscy75\1c&HFF8000&}Use caution. These Jedi are not to be underestimated.{\r}
+
+134
+00:11:00,531 --> 00:11:02,323
+- 哦，不！ - 走开！离开这儿！
+{\fscx75\fscy75\1c&HFF8000&}- Oh, no!  - Get away! Get out of here!{\r}
+
+135
+00:11:03,241 --> 00:11:05,160
+趴下！
+{\fscx75\fscy75\1c&HFF8000&}Get down!{\r}
+
+136
+00:11:15,168 --> 00:11:18,046
+是什么东西？等等！Was'n dat? Hey, wait!
+
+137
+00:11:18,965 --> 00:11:20,717
+我爱你！
+{\fscx75\fscy75\1c&HFF8000&}Oh, mooie-mooie, I love you.{\r}
+
+138
+00:11:20,841 --> 00:11:22,885
+你差点送了我们的命，你没脑筋吗？
+{\fscx75\fscy75\1c&HFF8000&}You almost got us killed. Are you brainless?{\r}
+
+139
+00:11:23,010 --> 00:11:24,636
+我会说话啊
+{\fscx75\fscy75\1c&HFF8000&}I spake.{\r}
+
+140
+00:11:24,761 --> 00:11:26,889
+会说话不证明你就有头脑
+{\fscx75\fscy75\1c&HFF8000&}The ability to speak does not make you intelligent.{\r}
+
+141
+00:11:27,014 --> 00:11:29,890
+- 好了，快走吧  - 不，不，我得留下
+{\fscx75\fscy75\1c&HFF8000&}- Now, get out of here. - No, no, mesa stay.{\r}
+
+142
+00:11:30,017 --> 00:11:33,062
+我叫加加宾可斯，你卑微的仆人
+{\fscx75\fscy75\1c&HFF8000&}Mesa culled JarJar Binks. Mesa your humble servant.{\r}
+
+143
+00:11:33,187 --> 00:11:35,272
+- 我不需要仆人  - 你得需要
+{\fscx75\fscy75\1c&HFF8000&}- That won't be necessary. - Oh, but it'tis.{\r}
+
+144
+00:11:35,397 --> 00:11:38,274
+这是神的旨意
+{\fscx75\fscy75\1c&HFF8000&}'Tis demanded by the gods, it'tis.{\r}
+
+145
+00:11:38,399 --> 00:11:40,319
+- 哦，不！ - 快趴下！
+{\fscx75\fscy75\1c&HFF8000&}- Oh, no!    - Stay down!{\r}
+
+146
+00:11:48,659 --> 00:11:50,411
+你又救了我一命
+{\fscx75\fscy75\1c&HFF8000&}You saved my again.{\r}
+
+147
+00:11:50,537 --> 00:11:52,413
+- 他是谁？ - 一个当地人
+{\fscx75\fscy75\1c&HFF8000&}- What's this? - A local.{\r}
+
+148
+00:11:52,538 --> 00:11:55,082
+还会有机械人来的，快走，还有？
+{\fscx75\fscy75\1c&HFF8000&}Let's get out of here before more droids show up.{\r}
+
+149
+00:11:55,208 --> 00:11:58,586
+还有？你是说还有机械人要来？
+{\fscx75\fscy75\1c&HFF8000&}More? "More" did you spake?{\r}
+
+150
+00:11:58,710 --> 00:12:03,589
+抱歉，但最安全的地方是冈根城
+{\fscx75\fscy75\1c&HFF8000&}Ex-squeeze-me, but de mostest safest place would be Gunga City.{\r}
+
+151
+00:12:03,715 --> 00:12:06,926
+我是在那里长大的，那城市很隐蔽
+{\fscx75\fscy75\1c&HFF8000&}Is where I grew up. 'Tis a hidden city.{\r}
+
+152
+00:12:08,553 --> 00:12:10,430
+- 城市？ - 是
+{\fscx75\fscy75\1c&HFF8000&}- A city? - Uh-huh.{\r}
+
+153
+00:12:10,554 --> 00:12:12,348
+你来带我们去吧
+{\fscx75\fscy75\1c&HFF8000&}Can you take us there?{\r}
+
+154
+00:12:12,891 --> 00:12:14,684
+那…那可不行
+{\fscx75\fscy75\1c&HFF8000&}On second thought, no.{\r}
+
+155
+00:12:14,810 --> 00:12:17,312
+- 我不能带你们去 - 为什么？
+{\fscx75\fscy75\1c&HFF8000&}- Not really, no.     - No?{\r}
+
+156
+00:12:17,436 --> 00:12:19,563
+说起来不好意思…
+{\fscx75\fscy75\1c&HFF8000&}'Tis embarrassing...{\r}
+
+157
+00:12:19,688 --> 00:12:23,649
+我是被流放出来的
+{\fscx75\fscy75\1c&HFF8000&}but my afraid my've been banished.{\r}
+
+158
+00:12:23,774 --> 00:12:26,861
+我刚才忘了，首领不会轻饶了我的
+{\fscx75\fscy75\1c&HFF8000&}My forgotten. Da bosses would do terrible tings to me.{\r}
+
+159
+00:12:26,986 --> 00:12:30,032
+我要是回去了就饶不了我的
+{\fscx75\fscy75\1c&HFF8000&}Terrible tings to me if me goen back dare.{\r}
+
+160
+00:12:30,157 --> 00:12:33,159
+- 你听到了吗？ - 听到了
+{\fscx75\fscy75\1c&HFF8000&}- You hear that? - Yah.{\r}
+
+161
+00:12:33,285 --> 00:12:37,037
+这么大批的机器人朝着这个方向杀来
+{\fscx75\fscy75\1c&HFF8000&}That is the sound of a thousand terrible things heading this way.{\r}
+
+162
+00:12:37,162 --> 00:12:39,749
+如果让他们发现了，我们可就…
+{\fscx75\fscy75\1c&HFF8000&}If they find us, they will crush us...{\r}
+
+163
+00:12:39,872 --> 00:12:44,419
+粉身粹骨了，到时候我们连渣都没有了
+{\fscx75\fscy75\1c&HFF8000&}grind us into tiny pieces and blast us into oblivion.{\r}
+
+164
+00:12:44,544 --> 00:12:46,255
+哦
+{\fscx75\fscy75\1c&HFF8000&}Oh.{\r}
+
+165
+00:12:46,379 --> 00:12:48,465
+你说的一点不错
+{\fscx75\fscy75\1c&HFF8000&}Yousa point is well seen.{\r}
+
+166
+00:12:48,590 --> 00:12:50,926
+这边走，快！
+{\fscx75\fscy75\1c&HFF8000&}Dis way. Hurry!{\r}
+
+167
+00:12:56,222 --> 00:12:59,518
+- 还有多远？ - 下面的路我们得从水下走
+{\fscx75\fscy75\1c&HFF8000&}- How much further? - Wesa goen underwater, okeyday?{\r}
+
+168
+00:12:59,643 --> 00:13:01,519
+我警告你们
+{\fscx75\fscy75\1c&HFF8000&}Ah, my warning you.{\r}
+
+169
+00:13:01,645 --> 00:13:05,774
+冈根人不喜欢外来人，别希望他们会欢迎你们
+{\fscx75\fscy75\1c&HFF8000&}Gungans no liken outsiders, so don't spect a warm welcome.{\r}
+
+170
+00:13:05,898 --> 00:13:09,235
+没关系，今天不光是他们不欢迎我们
+{\fscx75\fscy75\1c&HFF8000&}Don't worry. This hasn't been our day for warm welcomes.{\r}
+
+171
+00:13:19,661 --> 00:13:22,080
+好了，你们跟我来
+{\fscx75\fscy75\1c&HFF8000&}Yousa follow me now, okeyday?{\r}
+
+172
+00:14:07,372 --> 00:14:10,293
+回家的感觉真好啊！
+{\fscx75\fscy75\1c&HFF8000&}So good bein home!{\r}
+
+173
+00:14:16,547 --> 00:14:18,515
+- 是加加 - 他还敢回来呀
+{\fscx75\fscy75\1c&HFF8000&}- Oh, me gusa. - Hata-hata.{\r}
+
+174
+00:14:26,682 --> 00:14:29,268
+你们几个都站住
+{\fscx75\fscy75\1c&HFF8000&}Hey, yousa. Stopa dare.{\r}
+
+175
+00:14:29,392 --> 00:14:31,729
+你好，塔布斯队长
+{\fscx75\fscy75\1c&HFF8000&}Heyo-dales, Cap'n Tarpals.{\r}
+
+176
+00:14:31,854 --> 00:14:33,731
+我回来了
+{\fscx75\fscy75\1c&HFF8000&}Mesa back.{\r}
+
+177
+00:14:33,855 --> 00:14:36,773
+你还敢回来，加加，去见首领嘛
+{\fscx75\fscy75\1c&HFF8000&}Noah gain, JarJar. Yousa goen tada bosses.{\r}
+
+178
+00:14:36,899 --> 00:14:39,525
+这次你的麻烦可大了
+{\fscx75\fscy75\1c&HFF8000&}Yousa in big dudu dis time.{\r}
+
+179
+00:14:45,324 --> 00:14:46,909
+真粗鲁
+{\fscx75\fscy75\1c&HFF8000&}How wude.{\r}
+
+180
+00:14:55,541 --> 00:14:57,962
+你们不能留在这里
+{\fscx75\fscy75\1c&HFF8000&}Yousa cannot bees hair.{\r}
+
+181
+00:14:58,087 --> 00:15:02,631
+那些机械人部队是你们招惹来的，我说的没错吧
+{\fscx75\fscy75\1c&HFF8000&}Dis army of Mackineeks up dare is new weesong.{\r}
+
+182
+00:15:02,757 --> 00:15:07,636
+这些机械人部队马上就要进攻纳布城了 我们必须通知他们
+{\fscx75\fscy75\1c&HFF8000&}A droid army is about to attack the Naboo. We must warn them.{\r}
+
+183
+00:15:07,762 --> 00:15:11,348
+我们不喜欢纳布城的人
+{\fscx75\fscy75\1c&HFF8000&}Wesa no like da Naboo.{\r}
+
+184
+00:15:11,474 --> 00:15:14,267
+让他们自以为自己聪明
+{\fscx75\fscy75\1c&HFF8000&}Da Naboo tink day so smarty.{\r}
+
+185
+00:15:14,394 --> 00:15:17,314
+总觉得自己的脑子比我们的好用
+{\fscx75\fscy75\1c&HFF8000&}Day tink day brains so big.{\r}
+
+186
+00:15:17,438 --> 00:15:20,000
+机械人一旦控制了纳布城
+{\fscx75\fscy75\1c&HFF8000&}Once those droids take control of the surface,{\r}
+
+187
+00:15:20,002 --> 00:15:21,567
+也就会控制了你们
+{\fscx75\fscy75\1c&HFF8000&}they will take control of you.{\r}
+
+188
+00:15:21,692 --> 00:15:23,986
+.我觉得不会的
+{\fscx75\fscy75\1c&HFF8000&}Mesa no tink so.{\r}
+
+189
+00:15:24,111 --> 00:15:26,988
+你根本就不知道我们
+{\fscx75\fscy75\1c&HFF8000&}Day not know of uss-en.{\r}
+
+190
+00:15:27,114 --> 00:15:30,032
+你们和纳布人是共生关系
+{\fscx75\fscy75\1c&HFF8000&}You and the Naboo form a symbiont circle.{\r}
+
+191
+00:15:30,157 --> 00:15:32,300
+一方所受的灾难会影响另一方
+{\fscx75\fscy75\1c&HFF8000&}What happens to one of you will affect the other.{\r}
+
+192
+00:15:32,347 --> 00:15:33,537
+你必须明白
+{\fscx75\fscy75\1c&HFF8000&}You must understand this.{\r}
+
+193
+00:15:33,662 --> 00:15:38,458
+纳布人是死是活跟我没有关系
+{\fscx75\fscy75\1c&HFF8000&}Wesa no carrrre-nn about da Naboo.{\r}
+
+194
+00:15:38,582 --> 00:15:41,127
+那就赶快让我们走吧
+{\fscx75\fscy75\1c&HFF8000&}Then speed us on our way.{\r}
+
+195
+00:15:41,252 --> 00:15:43,755
+要滚，那就快滚吧
+{\fscx75\fscy75\1c&HFF8000&}Wesa ganna speed yous away.{\r}
+
+196
+00:15:43,879 --> 00:15:46,674
+可现在我们缺少交通工具
+{\fscx75\fscy75\1c&HFF8000&}We could use a transport.{\r}
+
+197
+00:15:46,798 --> 00:15:49,635
+我们会给你们一艘邦高
+{\fscx75\fscy75\1c&HFF8000&}Wesa give yousa una bongo.{\r}
+
+198
+00:15:49,761 --> 00:15:52,847
+到纳布城最快的途径
+{\fscx75\fscy75\1c&HFF8000&}Da speediest way tooda Naboo...{\r}
+
+199
+00:15:52,972 --> 00:15:57,685
+是从行星的地心穿过去
+{\fscx75\fscy75\1c&HFF8000&}'tis goen through the planet core.{\r}
+
+200
+00:15:57,809 --> 00:15:59,686
+好了…
+{\fscx75\fscy75\1c&HFF8000&}Now...{\r}
+
+201
+00:15:59,810 --> 00:16:01,605
+走吧
+{\fscx75\fscy75\1c&HFF8000&}go.{\r}
+
+202
+00:16:01,730 --> 00:16:03,982
+感谢你的帮助，我们会和平的离去
+{\fscx75\fscy75\1c&HFF8000&}Thank you for your help. We leave in peace.{\r}
+
+203
+00:16:04,107 --> 00:16:06,151
+师父，邦高是什么东西？
+{\fscx75\fscy75\1c&HFF8000&}Master, what's a bongo?{\r}
+
+204
+00:16:06,275 --> 00:16:08,237
+但愿是一座飞船
+{\fscx75\fscy75\1c&HFF8000&}A transport, I hope.{\r}
+
+205
+00:16:08,361 --> 00:16:10,446
+他是在耍你们
+{\fscx75\fscy75\1c&HFF8000&}Deysa setten yousa up.{\r}
+
+206
+00:16:10,571 --> 00:16:14,200
+从地心穿过去？那是会要人命的
+{\fscx75\fscy75\1c&HFF8000&}Goen through da planet core? Bad bombin'.{\r}
+
+207
+00:16:15,700 --> 00:16:18,495
+学雷锋做好事嘛
+{\fscx75\fscy75\1c&HFF8000&}Any help here would be hot.{\r}
+
+208
+00:16:19,831 --> 00:16:21,707
+师父，我们时间不多了
+{\fscx75\fscy75\1c&HFF8000&}Master, we're short on time.{\r}
+
+209
+00:16:22,833 --> 00:16:25,460
+我们需要一位领航员才能穿过地心
+{\fscx75\fscy75\1c&HFF8000&}We'll need a navigator to get us through the planet's core.{\r}
+
+210
+00:16:25,587 --> 00:16:27,546
+这个冈根人也许能帮助我们
+{\fscx75\fscy75\1c&HFF8000&}This Gungan may be of help.{\r}
+
+211
+00:16:29,674 --> 00:16:32,716
+能不能告诉我们，你们要把加加怎么样？
+{\fscx75\fscy75\1c&HFF8000&}What is to become of JarJar Binks here?{\r}
+
+212
+00:16:32,841 --> 00:16:37,764
+严厉惩罚
+{\fscx75\fscy75\1c&HFF8000&}Hisen to be pune-ished.{\r}
+
+213
+00:16:38,681 --> 00:16:40,056
+我救过他的命
+{\fscx75\fscy75\1c&HFF8000&}I saved his life.{\r}
+
+214
+00:16:40,181 --> 00:16:42,686
+所以他也欠我一条命
+{\fscx75\fscy75\1c&HFF8000&}He owes me what you call a "life-debt."{\r}
+
+215
+00:16:42,811 --> 00:16:46,647
+依你们神的旨意，他的命应该是属于我的
+{\fscx75\fscy75\1c&HFF8000&}Your gods demand that his life belongs to me now.{\r}
+
+216
+00:16:46,772 --> 00:16:49,107
+宾可斯…
+{\fscx75\fscy75\1c&HFF8000&}Binks...{\r}
+
+217
+00:16:49,233 --> 00:16:53,196
+你真的欠他一条命吗？
+{\fscx75\fscy75\1c&HFF8000&}yousa havena liveplay with thisen hisen?{\r}
+
+218
+00:16:53,251 --> 00:16:56,453
+是的
+{\fscx75\fscy75\1c&HFF8000&}Mm, uh-huh.{\r}
+
+219
+00:16:59,951 --> 00:17:01,786
+那你跟他去吧！
+{\fscx75\fscy75\1c&HFF8000&}Begone wit him!{\r}
+
+220
+00:17:04,456 --> 00:17:06,832
+我还是不要跟你去了吧
+{\fscx75\fscy75\1c&HFF8000&}Count me outta dis one.{\r}
+
+221
+00:17:06,956 --> 00:17:10,086
+我宁可死在这也不愿死在地心里
+{\fscx75\fscy75\1c&HFF8000&}Better dead here than dead in da core.{\r}
+
+222
+00:17:10,210 --> 00:17:13,338
+天哪！我在说些什么？
+{\fscx75\fscy75\1c&HFF8000&}Yee gods! What mesa sayin?{\r}
+
+223
+00:17:31,564 --> 00:17:34,357
+真是疯了，是恐怖鱼！
+{\fscx75\fscy75\1c&HFF8000&}Dis is nutsen. Oh, gooberfish!{\r}
+
+224
+00:17:34,484 --> 00:17:37,736
+- 你为什么被流放了，加加？ - 说来话长了…
+{\fscx75\fscy75\1c&HFF8000&}- Why were you banished, JarJar? - It's a longo tale-o...{\r}
+
+225
+00:17:37,860 --> 00:17:42,908
+归根到底应该是…  我太笨了吧
+{\fscx75\fscy75\1c&HFF8000&}buta a small part of it would be mesa... clumsy.{\r}
+
+226
+00:17:43,033 --> 00:17:45,430
+因为笨就把你流放吗？
+{\fscx75\fscy75\1c&HFF8000&}You were banished for being clumsy?{\r}
+
+227
+00:17:45,430 --> 00:17:47,828
+也可以这么说吧
+{\fscx75\fscy75\1c&HFF8000&}Yousa might'n be sayin dat.{\r}
+
+228
+00:18:00,758 --> 00:18:04,969
+我这个人太粗心，以前出过一两个小事故
+{\fscx75\fscy75\1c&HFF8000&}Mesa caused mabee one two-y lettle bitty axadentes, huh?{\r}
+
+229
+00:18:05,094 --> 00:18:07,139
+爆掉一个油库…
+{\fscx75\fscy75\1c&HFF8000&}Yud-say boom da gasser...{\r}
+
+230
+00:18:07,264 --> 00:18:10,057
+不小心把首领的船撞烂了，就被流放了
+{\fscx75\fscy75\1c&HFF8000&}den crashin der boss's heyblibber, den banished.{\r}
+
+231
+00:18:17,316 --> 00:18:19,400
+大恐怖鱼！好大的牙齿！
+{\fscx75\fscy75\1c&HFF8000&}Big gooberfish! Huge-o teeth!{\r}
+
+232
+00:18:30,201 --> 00:18:32,224
+总是大鱼吃小鱼
+{\fscx75\fscy75\1c&HFF8000&}There's always a bigger fish. {\r}
+
+233
+00:18:32,224 --> 00:18:34,248
+我认为咱们还是回去吧
+{\fscx75\fscy75\1c&HFF8000&}Mesa tink we goen back now.{\r}
+
+234
+00:18:45,634 --> 00:18:48,845
+入侵行动按时进行，大人
+{\fscx75\fscy75\1c&HFF8000&}The invasion is on schedule, my lord .{\r}
+
+235
+00:18:48,970 --> 00:18:51,972
+我一直拖延了国会的议程
+{\fscx75\fscy75\1c&HFF8000&}I have the senate bogged down in procedures.{\r}
+
+236
+00:18:52,097 --> 00:18:56,517
+他们别无选择，只有接受你对纳布城的控制
+{\fscx75\fscy75\1c&HFF8000&}They will have no choice but to accept your control of the system.{\r}
+
+237
+00:18:56,644 --> 00:19:01,355
+可是艾米达拉女王坚持，国会会站在她那边
+{\fscx75\fscy75\1c&HFF8000&}The queen has great faith that the senate will side with her.{\r}
+
+238
+00:19:01,480 --> 00:19:04,443
+那位阿米达拉女王年轻又幼稚
+{\fscx75\fscy75\1c&HFF8000&}Queen Amidala is young and naive.{\r}
+
+239
+00:19:04,568 --> 00:19:08,029
+控制着她不会是一件困难的事
+{\fscx75\fscy75\1c&HFF8000&}You will find controlling her will not be difficult.{\r}
+
+240
+00:19:08,154 --> 00:19:10,031
+是，大人
+{\fscx75\fscy75\1c&HFF8000&}Yes, my lord .{\r}
+
+241
+00:19:11,491 --> 00:19:14,368
+你没跟他提那两个失踪的绝地武士
+{\fscx75\fscy75\1c&HFF8000&}You didn't tell him about the missing Jedi.{\r}
+
+242
+00:19:14,493 --> 00:19:18,997
+没必要向他报告，直到我们需要报告再说
+{\fscx75\fscy75\1c&HFF8000&}No need to report that to him until we have something to report.{\r}
+
+243
+00:19:23,502 --> 00:19:27,213
+- 我们这要去哪儿？ - 别担心，原力会指引我们
+{\fscx75\fscy75\1c&HFF8000&}- Where wesa goin? - Don't worry. The Force will guide us.{\r}
+
+244
+00:19:27,339 --> 00:19:30,132
+嘿，好厉害的原力
+{\fscx75\fscy75\1c&HFF8000&}Oh, maxi big, da Force.{\r}
+
+245
+00:19:31,049 --> 00:19:33,052
+我可不相信什么原力
+{\fscx75\fscy75\1c&HFF8000&}Well, dat smells stinkowiff.{\r}
+
+246
+00:19:34,427 --> 00:19:36,805
+- 失去动力了 - 哦，不！
+{\fscx75\fscy75\1c&HFF8000&}- We're losing power. - Oh, no!{\r}
+
+247
+00:19:42,770 --> 00:19:45,021
+那我们死定了
+{\fscx75\fscy75\1c&HFF8000&}Wesa dyin' here.{\r}
+
+248
+00:19:45,148 --> 00:19:47,815
+- 别紧张，情况没那么严重  - 还没什么？
+{\fscx75\fscy75\1c&HFF8000&}- Just relax. We're not in trouble yet. - What "yet"?{\r}
+
+249
+00:19:47,940 --> 00:19:50,903
+外面是怪物，船又漏水
+{\fscx75\fscy75\1c&HFF8000&}Monsters out dare. Leak'n in here.{\r}
+
+250
+00:19:51,027 --> 00:19:53,509
+就快要沉了又没有动力？
+{\fscx75\fscy75\1c&HFF8000&}All sink'n and no power?{\r}
+
+251
+00:19:53,509 --> 00:19:55,991
+都这样了还不算严重吗？
+{\fscx75\fscy75\1c&HFF8000&}Whena yousa tinkin wesa in trouble?{\r}
+
+252
+00:19:57,283 --> 00:19:59,576
+动力恢复了
+{\fscx75\fscy75\1c&HFF8000&}Power's back.{\r}
+
+253
+00:19:59,703 --> 00:20:01,788
+怪物回来了！
+{\fscx75\fscy75\1c&HFF8000&}Monster's back!{\r}
+
+254
+00:20:09,629 --> 00:20:11,380
+别紧张
+{\fscx75\fscy75\1c&HFF8000&}Relax.{\r}
+
+255
+00:20:11,506 --> 00:20:12,966
+你把它吓到了
+{\fscx75\fscy75\1c&HFF8000&}You overdid it.{\r}
+
+256
+00:20:28,164 --> 00:20:29,700
+恐怖
+{\fscx75\fscy75\1c&HFF8000&}Horrible.{\r}
+
+257
+00:20:29,732 --> 00:20:31,774
+去那边
+{\fscx75\fscy75\1c&HFF8000&}Head for that outcropping.{\r}
+
+258
+00:20:31,899 --> 00:20:33,818
+哦，孩子
+{\fscx75\fscy75\1c&HFF8000&}Oh, boy.{\r}
+
+259
+00:21:09,143 --> 00:21:11,228
+总督，我们抓到女王了
+{\fscx75\fscy75\1c&HFF8000&}Viceroy, we have captured the queen.{\r}
+
+260
+00:21:11,352 --> 00:21:14,022
+哈，胜利了
+{\fscx75\fscy75\1c&HFF8000&}Ah, victory.{\r}
+
+261
+00:21:27,534 --> 00:21:29,701
+这真漂亮呀
+{\fscx75\fscy75\1c&HFF8000&}Dis'n loverly.{\r}
+
+262
+00:21:35,877 --> 00:21:38,211
+对此你怎么向国会作出解释？
+{\fscx75\fscy75\1c&HFF8000&}How will you explain this invasion to the senate?{\r}
+
+263
+00:21:38,336 --> 00:21:40,421
+我要女王和我签署一个协议
+{\fscx75\fscy75\1c&HFF8000&}The queen and I will sign a treaty {\r}
+
+264
+00:21:40,421 --> 00:21:42,507
+使我们在这里的行动合法化
+{\fscx75\fscy75\1c&HFF8000&}that will legitimize our occupation here.{\r}
+
+265
+00:21:42,631 --> 00:21:45,800
+我相信国会一定会同意我这么做的
+{\fscx75\fscy75\1c&HFF8000&}I have assurances it will be ratified by the senate.{\r}
+
+266
+00:21:45,925 --> 00:21:49,389
+- 我是不会合作的   - 行了，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}- I will not cooperate. - Now, now, Your Highness.{\r}
+
+267
+00:21:49,513 --> 00:21:51,577
+到那时，你人民蒙受苦难
+{\fscx75\fscy75\1c&HFF8000&}In time, your people's suffering{\r}
+
+268
+00:21:51,577 --> 00:21:53,641
+这将会劝说你答应我们的意见
+{\fscx75\fscy75\1c&HFF8000&}will persuade you to see our point of view.{\r}
+
+269
+00:21:54,976 --> 00:21:56,894
+- 指挥官 - 是，长官
+{\fscx75\fscy75\1c&HFF8000&}- Commander. - Yes, sir.{\r}
+
+270
+00:21:57,019 --> 00:21:58,647
+把他们带走
+{\fscx75\fscy75\1c&HFF8000&}Process them.{\r}
+
+271
+00:21:58,772 --> 00:22:00,565
+上尉，把他们关到四号监狱里
+{\fscx75\fscy75\1c&HFF8000&}Captain, take them to Camp 4.{\r}
+
+272
+00:22:00,690 --> 00:22:02,316
+收到，收到
+{\fscx75\fscy75\1c&HFF8000&}Roger, roger.{\r}
+
+273
+00:22:57,203 --> 00:22:59,413
+我们得离开街道，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}We should leave the street, Your Highness.{\r}
+
+274
+00:22:59,537 --> 00:23:01,163
+拿他们的武器
+{\fscx75\fscy75\1c&HFF8000&}Get their weapons.{\r}
+
+275
+00:23:02,999 --> 00:23:05,250
+你们真够棒的！
+{\fscx75\fscy75\1c&HFF8000&}Yousa guys bombad!{\r}
+
+276
+00:23:06,877 --> 00:23:09,256
+我们是最高议会的特使
+{\fscx75\fscy75\1c&HFF8000&}We're ambassadors for the supreme chancellor.{\r}
+
+277
+00:23:09,380 --> 00:23:11,258
+看来你们的谈判失败了，先生
+{\fscx75\fscy75\1c&HFF8000&}Your negotiations seemed to have failed, Ambassador.{\r}
+
+278
+00:23:11,382 --> 00:23:13,218
+根本没有开始谈
+{\fscx75\fscy75\1c&HFF8000&}The negotiations never took place.{\r}
+
+279
+00:23:13,342 --> 00:23:15,720
+我们必须和共和国取得联系
+{\fscx75\fscy75\1c&HFF8000&}It's urgent that we make contact with the Republic.{\r}
+
+280
+00:23:15,845 --> 00:23:17,931
+通讯全都被他们切断了
+{\fscx75\fscy75\1c&HFF8000&}They've knocked out all our communications.{\r}
+
+281
+00:23:18,056 --> 00:23:21,392
+- 你们有飞船吗？   - 总机库里有，那边走
+{\fscx75\fscy75\1c&HFF8000&}- Do you have transports? - In the main hangar. This way.{\r}
+
+282
+00:23:26,355 --> 00:23:29,441
+- 他们人太多了     - 别担心，没问题
+{\fscx75\fscy75\1c&HFF8000&}- There are too many of them. - That won't be a problem.{\r}
+
+283
+00:23:29,567 --> 00:23:31,339
+女王陛下，在这种情况下
+{\fscx75\fscy75\1c&HFF8000&}Your Highness, under the circumstances,{\r}
+
+284
+00:23:31,339 --> 00:23:33,111
+我建议请你跟我们到科罗斯肯特星球去
+{\fscx75\fscy75\1c&HFF8000&}I suggest you come to Coruscant with us.{\r}
+
+285
+00:23:33,236 --> 00:23:36,281
+谢谢特使先生，我要和我的人民在一起
+{\fscx75\fscy75\1c&HFF8000&}Thank you, Ambassador, but my place is with my people.{\r}
+
+286
+00:23:36,406 --> 00:23:39,117
+- 他们会杀死你的 - 他们不敢
+{\fscx75\fscy75\1c&HFF8000&}- They will kill you if you stay. - They wouldn't dare.{\r}
+
+287
+00:23:39,242 --> 00:23:41,285
+他们需要女王签署入侵合法化
+{\fscx75\fscy75\1c&HFF8000&}They need her to sign a treaty to make this invasion legal.{\r}
+
+288
+00:23:41,411 --> 00:23:42,955
+所以不会杀死她的
+{\fscx75\fscy75\1c&HFF8000&}They can't afford to kill her.{\r}
+
+289
+00:23:43,079 --> 00:23:45,205
+我看他们在背后另有阴谋，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}There is something else behind all this, Your Highness.{\r}
+
+290
+00:23:45,331 --> 00:23:47,290
+我看他们另有阴谋，入侵行动不合逻辑
+{\fscx75\fscy75\1c&HFF8000&}There's no logic in the Federation's move here.{\r}
+
+291
+00:23:47,417 --> 00:23:49,376
+我觉得他们是要除掉你们
+{\fscx75\fscy75\1c&HFF8000&}My feelings tell me they will destroy you.{\r}
+
+292
+00:23:49,501 --> 00:23:51,879
+我们只能期盼国会站在我们一边
+{\fscx75\fscy75\1c&HFF8000&}Our only hope is for the senate to side with us.{\r}
+
+293
+00:23:52,004 --> 00:23:54,464
+帕尔帕庭议员会需要你们的帮助
+{\fscx75\fscy75\1c&HFF8000&}Senator Palpatine will need your help.{\r}
+
+294
+00:23:54,590 --> 00:23:58,551
+不管怎样，我们的处境都很危险
+{\fscx75\fscy75\1c&HFF8000&}Either choice presents great danger... to us all.{\r}
+
+295
+00:23:58,676 --> 00:24:00,554
+我们都会勇敢，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}We are brave, Your Highness.{\r}
+
+296
+00:24:00,678 --> 00:24:03,930
+如果要走，女王陛下，现在就得走
+{\fscx75\fscy75\1c&HFF8000&}If you are to leave, Your Highness, it must be now.{\r}
+
+297
+00:24:04,057 --> 00:24:06,517
+我会向国会请求的
+{\fscx75\fscy75\1c&HFF8000&}Then I will plead our case to the senate.{\r}
+
+298
+00:24:07,558 --> 00:24:09,353
+多加小心，总督
+{\fscx75\fscy75\1c&HFF8000&}Be careful, Governor.{\r}
+
+299
+00:24:18,279 --> 00:24:20,363
+我们得拯救那些飞行员
+{\fscx75\fscy75\1c&HFF8000&}We'll need to free those pilots.{\r}
+
+300
+00:24:21,614 --> 00:24:23,490
+让我来吧
+{\fscx75\fscy75\1c&HFF8000&}I'll deal with that.{\r}
+
+301
+00:24:26,953 --> 00:24:27,995
+站住
+{\fscx75\fscy75\1c&HFF8000&}Halt.{\r}
+
+302
+00:24:28,120 --> 00:24:29,788
+我是首相的特使
+{\fscx75\fscy75\1c&HFF8000&}I'm ambassador to the supreme chancellor.{\r}
+
+303
+00:24:29,913 --> 00:24:31,498
+我正在和这些科罗斯肯特人交谈
+{\fscx75\fscy75\1c&HFF8000&}I'm taking these people to Coruscant.{\r}
+
+304
+00:24:31,623 --> 00:24:34,835
+- 你们要去哪？ - 去科罗斯肯特
+{\fscx75\fscy75\1c&HFF8000&}- Where are you taking them? - To Coruscant.{\r}
+
+305
+00:24:34,960 --> 00:24:37,587
+科罗斯肯特？这名字无法验测
+{\fscx75\fscy75\1c&HFF8000&}Coruscant? Uh, that doesn't compute.{\r}
+
+306
+00:24:37,712 --> 00:24:39,631
+嘿，等等，你们被捕了
+{\fscx75\fscy75\1c&HFF8000&}Uh, wait. Uh, you're under arrest.{\r}
+
+307
+00:24:45,094 --> 00:24:46,302
+快走！
+{\fscx75\fscy75\1c&HFF8000&}Come on. Move!{\r}
+
+308
+00:24:51,685 --> 00:24:52,644
+走！
+{\fscx75\fscy75\1c&HFF8000&}Go!{\r}
+
+309
+00:25:18,209 --> 00:25:21,504
+你就待在这儿，不要惹麻烦
+{\fscx75\fscy75\1c&HFF8000&}Now, stay here and keep out of trouble.{\r}
+
+310
+00:25:25,299 --> 00:25:27,466
+你们好啊，夥计们
+{\fscx75\fscy75\1c&HFF8000&}Hello, boyos.{\r}
+
+311
+00:25:33,807 --> 00:25:35,433
+是联盟的战舰
+{\fscx75\fscy75\1c&HFF8000&}There's the blockade.{\r}
+
+312
+00:25:45,860 --> 00:25:47,487
+防护罩起动器被击中了
+{\fscx75\fscy75\1c&HFF8000&}The shield generator's been hit!{\r}
+
+313
+00:25:55,995 --> 00:25:57,579
+真粗鲁！
+{\fscx75\fscy75\1c&HFF8000&}How wude!{\r}
+
+314
+00:26:07,589 --> 00:26:09,174
+我们的机械人损失惨重
+{\fscx75\fscy75\1c&HFF8000&}We're losing droids fast.{\r}
+
+315
+00:26:10,008 --> 00:26:12,635
+没有防护罩，我们就成了活靶子了
+{\fscx75\fscy75\1c&HFF8000&}If we can't get the shield generator fixed, we'll be sitting ducks.{\r}
+
+316
+00:26:14,804 --> 00:26:16,056
+防护罩没了
+{\fscx75\fscy75\1c&HFF8000&}The shields are gone.{\r}
+
+317
+00:26:24,187 --> 00:26:25,521
+现在恢复了！
+{\fscx75\fscy75\1c&HFF8000&}The power's back!{\r}
+
+318
+00:26:28,316 --> 00:26:31,778
+那个小机器人修复了主动力引擎，
+{\fscx75\fscy75\1c&HFF8000&}That little droid did it. He bypassed the main power drive.{\r}
+
+319
+00:26:31,903 --> 00:26:34,488
+防护罩调到最大
+{\fscx75\fscy75\1c&HFF8000&}Deflector shields up at maximum.{\r}
+
+320
+00:26:44,082 --> 00:26:46,500
+我们到不了科罗斯肯特了
+{\fscx75\fscy75\1c&HFF8000&}There's not enough power to get us to Coruscant.{\r}
+
+321
+00:26:46,508 --> 00:26:47,794
+超光速引擎在漏油
+{\fscx75\fscy75\1c&HFF8000&}The hyperdrive is leaking.{\r}
+
+322
+00:26:47,918 --> 00:26:50,795
+我们先找个地方着陆，修补飞船再加防护
+{\fscx75\fscy75\1c&HFF8000&}We'll have to land somewhere to refuel and repair the ship.{\r}
+
+323
+00:26:50,920 --> 00:26:53,090
+这儿，师父，塔图因
+{\fscx75\fscy75\1c&HFF8000&}Here, Master. Tatooine.{\r}
+
+324
+00:26:53,214 --> 00:26:54,883
+这里离航道非常远
+{\fscx75\fscy75\1c&HFF8000&}It's small, out of the way, poor.{\r}
+
+325
+00:26:55,008 --> 00:26:56,760
+不太可能有贸易联盟的人
+{\fscx75\fscy75\1c&HFF8000&}The Trade Federation have no presence there.{\r}
+
+326
+00:26:56,884 --> 00:26:58,762
+你怎么这样肯定？
+{\fscx75\fscy75\1c&HFF8000&}How can you be sure?{\r}
+
+327
+00:26:58,887 --> 00:27:00,806
+这是赫特人的地盘
+{\fscx75\fscy75\1c&HFF8000&}It's controlled by the Hutts.{\r}
+
+328
+00:27:00,930 --> 00:27:03,726
+在那儿你不能抓他们的女王殿下 赫特人都是匪徒
+{\fscx75\fscy75\1c&HFF8000&}You can't take Her Royal Highness there. The Hutts are gangsters.{\r}
+
+329
+00:27:03,850 --> 00:27:06,143
+- 如果他们发现她… - 那跟…
+{\fscx75\fscy75\1c&HFF8000&}- If they discovered her... - It'd be no different than landing...{\r}
+
+330
+00:27:06,268 --> 00:27:08,146
+在贸易联盟控制的星球没什么两样…
+{\fscx75\fscy75\1c&HFF8000&}on a system controlled by the Federation...{\r}
+
+331
+00:27:08,270 --> 00:27:10,355
+除非赫特人没想要抓她…
+{\fscx75\fscy75\1c&HFF8000&}except that the Hutts aren't looking for her...{\r}
+
+332
+00:27:10,480 --> 00:27:12,567
+这样给我们优势
+{\fscx75\fscy75\1c&HFF8000&}which gives us the advantage.{\r}
+
+333
+00:27:17,030 --> 00:27:20,033
+阿米达拉女王在协议上签字了吗？
+{\fscx75\fscy75\1c&HFF8000&}And Queen Amidala, has she signed the treaty?{\r}
+
+334
+00:27:20,158 --> 00:27:23,785
+她逃跑了，大人
+{\fscx75\fscy75\1c&HFF8000&}She has disappeared, my lord .{\r}
+
+335
+00:27:23,910 --> 00:27:28,082
+你说纳布星的飞船通过我们的封锁线？
+{\fscx75\fscy75\1c&HFF8000&}One Naboo cruiser got past the blockade.{\r}
+
+336
+00:27:28,749 --> 00:27:31,126
+我要她签协议
+{\fscx75\fscy75\1c&HFF8000&}I want that treaty signed.{\r}
+
+337
+00:27:31,251 --> 00:27:33,294
+大人
+{\fscx75\fscy75\1c&HFF8000&}My lord...{\r}
+
+338
+00:27:33,419 --> 00:27:35,964
+可是我们现在找不到那些飞船
+{\fscx75\fscy75\1c&HFF8000&}it's impossible to locate the ship.{\r}
+
+339
+00:27:36,089 --> 00:27:38,300
+它飞出了我们的探侧范围
+{\fscx75\fscy75\1c&HFF8000&}It's out of our range.{\r}
+
+340
+00:27:38,424 --> 00:27:40,676
+西斯人可以
+{\fscx75\fscy75\1c&HFF8000&}Not for a Sith.{\r}
+
+341
+00:27:41,260 --> 00:27:43,137
+这是我的徒弟
+{\fscx75\fscy75\1c&HFF8000&}This is my apprentice...{\r}
+
+342
+00:27:43,263 --> 00:27:45,180
+达斯·摩尔
+{\fscx75\fscy75\1c&HFF8000&}Darth Maul.{\r}
+
+343
+00:27:46,515 --> 00:27:49,809
+他会帮助你找那艘飞船的
+{\fscx75\fscy75\1c&HFF8000&}He will find your lost ship.{\r}
+
+344
+00:27:54,147 --> 00:27:56,439
+现在更麻烦了
+{\fscx75\fscy75\1c&HFF8000&}This is getting out of hand.{\r}
+
+345
+00:27:56,565 --> 00:27:58,608
+又来了一个君主
+{\fscx75\fscy75\1c&HFF8000&}Now there are two of them.{\r}
+
+346
+00:27:58,735 --> 00:28:01,737
+我们不听他的就好了
+{\fscx75\fscy75\1c&HFF8000&}We should not have made this bargain.{\r}
+
+347
+00:28:07,033 --> 00:28:10,579
+多亏了这个精巧的机器人，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}An extremely well-put-together little droid, Your Highness.{\r}
+
+348
+00:28:10,704 --> 00:28:13,581
+它救了飞船，也救了我们大家的命
+{\fscx75\fscy75\1c&HFF8000&}Without a doubt, it saved the ship, as well as our lives.{\r}
+
+349
+00:28:13,706 --> 00:28:17,044
+我要奖赏他，他的号码是多少？
+{\fscx75\fscy75\1c&HFF8000&}It is to be commended. What is its number?{\r}
+
+350
+00:28:19,711 --> 00:28:21,839
+是R2D2，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}R2-D2, Your Highness.{\r}
+
+351
+00:28:21,963 --> 00:28:23,382
+谢谢你，R2D2
+{\fscx75\fscy75\1c&HFF8000&}Thank you, R2-D2.{\r}
+
+352
+00:28:27,178 --> 00:28:28,595
+帕德梅
+{\fscx75\fscy75\1c&HFF8000&}Padme{\r}
+
+353
+00:28:30,137 --> 00:28:32,264
+好好给他清洗一下
+{\fscx75\fscy75\1c&HFF8000&}Clean this droid up as best you can.{\r}
+
+354
+00:28:32,390 --> 00:28:34,350
+我们应该感谢他
+{\fscx75\fscy75\1c&HFF8000&}It deserves our gratitude.{\r}
+
+355
+00:28:36,145 --> 00:28:37,688
+接着说吧，船长
+{\fscx75\fscy75\1c&HFF8000&}Continue, Captain.{\r}
+
+356
+00:28:40,649 --> 00:28:42,483
+女王陛下，请允许…
+{\fscx75\fscy75\1c&HFF8000&}Your Highness, with your permission...{\r}
+
+357
+00:28:42,608 --> 00:28:45,360
+我们现在正飞往一个叫塔普尼的遥远的星球
+{\fscx75\fscy75\1c&HFF8000&}we're heading for a remote planet called Tatooine.{\r}
+
+358
+00:28:45,485 --> 00:28:48,822
+那是贸易联盟势力之外的星球
+{\fscx75\fscy75\1c&HFF8000&}It's in a system far beyond the reach of the Trade Federation.{\r}
+
+359
+00:28:48,947 --> 00:28:51,534
+可我不同意到那个星球去
+{\fscx75\fscy75\1c&HFF8000&}I do not agree with the Jedi on this.{\r}
+
+360
+00:28:51,659 --> 00:28:54,577
+请相信我的判断，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}You must trust my judgment, Your Highness.{\r}
+
+361
+00:28:57,998 --> 00:28:59,709
+你好
+{\fscx75\fscy75\1c&HFF8000&}Hello.{\r}
+
+362
+00:28:59,833 --> 00:29:02,794
+对不起，能问问你是谁吗？
+{\fscx75\fscy75\1c&HFF8000&}Sorry. Husa are yousa?{\r}
+
+363
+00:29:03,961 --> 00:29:05,379
+我叫帕德梅
+{\fscx75\fscy75\1c&HFF8000&}I'm Padme{\r}
+
+364
+00:29:06,505 --> 00:29:08,508
+我叫加加宾可斯
+{\fscx75\fscy75\1c&HFF8000&}Mesa JarJar Binks.{\r}
+
+365
+00:29:09,343 --> 00:29:10,635
+你是冈根人？
+{\fscx75\fscy75\1c&HFF8000&}You're a Gungan, aren't you?{\r}
+
+366
+00:29:12,930 --> 00:29:16,515
+- 那你怎么跑到这儿来了？ - 我也不知道
+{\fscx75\fscy75\1c&HFF8000&}- How'd you end up here with us? - My no know.{\r}
+
+367
+00:29:16,640 --> 00:29:20,310
+今天早晨，我正高高兴兴的吃早饭
+{\fscx75\fscy75\1c&HFF8000&}Mesa day starten pitty okeyday witda brisky morning munchen.{\r}
+
+368
+00:29:20,435 --> 00:29:23,230
+突然，砰的一声吓坏我了
+{\fscx75\fscy75\1c&HFF8000&}Den boom! Getten berry scared...{\r}
+
+369
+00:29:23,355 --> 00:29:26,649
+那个绝地武士就救了我一命
+{\fscx75\fscy75\1c&HFF8000&}and grabben dat Jedi, and pow... mesa here.{\r}
+
+370
+00:29:28,025 --> 00:29:30,529
+你知道吗？我非常非常害怕
+{\fscx75\fscy75\1c&HFF8000&}Mesa getten berry, berry scared.{\r}
+
+371
+00:29:36,827 --> 00:29:39,913
+- 那就是… 塔图因星球 - 那是一个市镇
+{\fscx75\fscy75\1c&HFF8000&}- That's it... Tatooine. - There's a settlement.{\r}
+
+372
+00:29:40,038 --> 00:29:44,125
+着陆时离市镇远一点，不要引起人们的注意
+{\fscx75\fscy75\1c&HFF8000&}Land near the outskirts. We don't want to attract attention.{\r}
+
+373
+00:30:01,390 --> 00:30:04,186
+超光速已经失灵了，得换个新的
+{\fscx75\fscy75\1c&HFF8000&}The hyperdrive generator's gone, Master. We'll need a new one.{\r}
+
+374
+00:30:04,311 --> 00:30:06,772
+情况很棘手，要小心
+{\fscx75\fscy75\1c&HFF8000&}That'll complicate things. Be wary.{\r}
+
+375
+00:30:06,897 --> 00:30:10,025
+- 我感到原力受到干扰了 - 我也感觉到了，师父
+{\fscx75\fscy75\1c&HFF8000&}- I sense a disturbance in the Force. - I feel it also, Master.{\r}
+
+376
+00:30:10,150 --> 00:30:12,193
+要他们别再传输信息了
+{\fscx75\fscy75\1c&HFF8000&}Don't let them send any transmissions.{\r}
+
+377
+00:30:18,283 --> 00:30:20,703
+噢，这太阳真的是　死人了
+{\fscx75\fscy75\1c&HFF8000&}The sun doen murder to mesa skin.{\r}
+
+378
+00:30:20,828 --> 00:30:22,328
+等一下
+{\fscx75\fscy75\1c&HFF8000&}Wait!{\r}
+
+379
+00:30:23,412 --> 00:30:24,830
+等一下
+{\fscx75\fscy75\1c&HFF8000&}Wait.{\r}
+
+380
+00:30:28,249 --> 00:30:31,128
+女王陛下命令你们带上她的女仆
+{\fscx75\fscy75\1c&HFF8000&}Her Highness commands you to take her handmaiden with you.{\r}
+
+381
+00:30:31,254 --> 00:30:35,006
+女王今天就别再发布命令了，船长
+{\fscx75\fscy75\1c&HFF8000&}No more commands from Her Highness today, Captain.{\r}
+
+382
+00:30:35,131 --> 00:30:37,216
+这个太空站很危险
+{\fscx75\fscy75\1c&HFF8000&}The spaceport is not going to be pleasant.{\r}
+
+383
+00:30:37,342 --> 00:30:39,469
+这是女王的意思
+{\fscx75\fscy75\1c&HFF8000&}The queen wishes it.{\r}
+
+384
+00:30:39,593 --> 00:30:41,512
+她对这个星球很好奇
+{\fscx75\fscy75\1c&HFF8000&}She's curious about the planet.{\r}
+
+385
+00:30:44,097 --> 00:30:47,141
+真拿她没办法 不要离我太远
+{\fscx75\fscy75\1c&HFF8000&}This is not a good idea. Stay close to me.{\r}
+
+386
+00:31:00,946 --> 00:31:03,783
+湿气农场，是主要部分
+{\fscx75\fscy75\1c&HFF8000&}Moisture farms, for the most part.{\r}
+
+387
+00:31:05,077 --> 00:31:08,787
+住的一些本土部落和一些外来定居的人
+{\fscx75\fscy75\1c&HFF8000&}Some indigenous tribes and scavengers.{\r}
+
+388
+00:31:08,911 --> 00:31:10,789
+像这种偏远的太空站…
+{\fscx75\fscy75\1c&HFF8000&}The few spaceports like this one...{\r}
+
+389
+00:31:10,915 --> 00:31:13,209
+是那些不希望被找到人的天堂
+{\fscx75\fscy75\1c&HFF8000&}are havens for those that don't wish to be found.{\r}
+
+390
+00:31:13,335 --> 00:31:15,251
+就像我们
+{\fscx75\fscy75\1c&HFF8000&}Like us.{\r}
+
+391
+00:31:16,586 --> 00:31:19,380
+这也太糟糕了
+{\fscx75\fscy75\1c&HFF8000&}Dissen berry, berry bad.{\r}
+
+392
+00:31:20,756 --> 00:31:22,465
+这什么破路啊！
+{\fscx75\fscy75\1c&HFF8000&}Icky, icky goo!{\r}
+
+393
+00:31:35,477 --> 00:31:37,897
+去一家小一点的店　
+{\fscx75\fscy75\1c&HFF8000&}We'll try one of the smaller dealers.{\r}
+
+394
+00:31:43,610 --> 00:31:45,488
+你们好啊
+{\fscx75\fscy75\1c&HFF8000&}Good day to you.{\r}
+
+395
+00:31:47,155 --> 00:31:48,532
+想买点什么？
+{\fscx75\fscy75\1c&HFF8000&}What do you want?{\r}
+
+396
+00:31:48,658 --> 00:31:51,744
+有没有J型327雷比亚飞船的零件
+{\fscx75\fscy75\1c&HFF8000&}I need parts for a J-type 327 Nubian.{\r}
+
+397
+00:31:51,869 --> 00:31:55,914
+有，雷比亚！有的是
+{\fscx75\fscy75\1c&HFF8000&}Ah, yes! Nubian. We have lots of that.{\r}
+
+398
+00:31:56,665 --> 00:31:58,543
+孩子，起来吧
+{\fscx75\fscy75\1c&HFF8000&}Boy, get in here now!{\r}
+
+399
+00:31:58,667 --> 00:32:00,544
+我的机械人有我所需要的零件清单
+{\fscx75\fscy75\1c&HFF8000&}My droid has a readout of what I need.{\r}
+
+400
+00:32:03,172 --> 00:32:04,840
+怎么耽搁这么久啊？
+{\fscx75\fscy75\1c&HFF8000&}What took you so long?{\r}
+
+401
+00:32:05,673 --> 00:32:07,049
+我在擦风扇的开关
+{\fscx75\fscy75\1c&HFF8000&}I was cleaning the fan switches.{\r}
+
+402
+00:32:07,174 --> 00:32:09,929
+看着铺子，我有笔生意要做
+{\fscx75\fscy75\1c&HFF8000&}Watch the store. I've got some selling to do.{\r}
+
+403
+00:32:10,053 --> 00:32:13,306
+先生，咱们到后面去吧？
+{\fscx75\fscy75\1c&HFF8000&}So, let me take thee out back, huh?{\r}
+
+404
+00:32:13,431 --> 00:32:15,307
+那儿有你需要的东西
+{\fscx75\fscy75\1c&HFF8000&}We'll find what you need.{\r}
+
+405
+00:32:17,810 --> 00:32:19,520
+什么也不要碰
+{\fscx75\fscy75\1c&HFF8000&}Don't touch anything.{\r}
+
+406
+00:32:29,863 --> 00:32:32,742
+- 你是个天使吗？ - 什么？
+{\fscx75\fscy75\1c&HFF8000&}- Are you an angel? - What?{\r}
+
+407
+00:32:32,866 --> 00:32:36,577
+天使，我听外太空飞行员说起过天使
+{\fscx75\fscy75\1c&HFF8000&}An angel. I heard the deep space pilots talk about them.{\r}
+
+408
+00:32:36,703 --> 00:32:39,582
+他们是宇宙中最漂亮的动物
+{\fscx75\fscy75\1c&HFF8000&}They're the most beautiful creatures in the universe.{\r}
+
+409
+00:32:39,706 --> 00:32:42,292
+他们住在伊国月球上，我想是的
+{\fscx75\fscy75\1c&HFF8000&}They live on the moons of Iego, I think.{\r}
+
+410
+00:32:43,084 --> 00:32:46,754
+你这个孩子真有意思 你怎么知道那么多？
+{\fscx75\fscy75\1c&HFF8000&}You're a funny little boy. How do you know so much?{\r}
+
+411
+00:32:46,879 --> 00:32:50,717
+我是听路过这的商贩和星际飞行员说的
+{\fscx75\fscy75\1c&HFF8000&}I listen to all the traders and star pilots who come through here.{\r}
+
+412
+00:32:50,842 --> 00:32:52,990
+我是飞行员，你知道吗，总有一天
+{\fscx75\fscy75\1c&HFF8000&}I'm a pilot, you know, and someday{\r}
+
+413
+00:32:52,990 --> 00:32:55,138
+我会飞出这个地方的
+{\fscx75\fscy75\1c&HFF8000&}I'm gonna fly away from this place.{\r}
+
+414
+00:32:55,262 --> 00:32:59,224
+- 你是飞行员？ - 当了一辈子了
+{\fscx75\fscy75\1c&HFF8000&}- You're a pilot? - Mm-hmm. All my life.{\r}
+
+415
+00:32:59,349 --> 00:33:01,644
+你来这里多久了？
+{\fscx75\fscy75\1c&HFF8000&}How long have you been here?{\r}
+
+416
+00:33:01,768 --> 00:33:05,771
+小时候就来了，大概三岁吧
+{\fscx75\fscy75\1c&HFF8000&}Since I was very little. Three, I think.{\r}
+
+417
+00:33:05,896 --> 00:33:08,607
+我和我妈妈被卖给赫特人歌杜拿，
+{\fscx75\fscy75\1c&HFF8000&}My mom and I were sold to Gardulla the Hutt...{\r}
+
+418
+00:33:08,733 --> 00:33:11,444
+在飞行比赛中他把我们输给了别人
+{\fscx75\fscy75\1c&HFF8000&}but she lost us betting on the Podraces.{\r}
+
+419
+00:33:11,569 --> 00:33:13,364
+你是奴隶？
+{\fscx75\fscy75\1c&HFF8000&}You're a slave?{\r}
+
+420
+00:33:13,488 --> 00:33:17,615
+- 我是个人，我的名字是安纳金 - 对不起
+{\fscx75\fscy75\1c&HFF8000&}- I'm a person, and my name is Anakin. - I'm sorry.{\r}
+
+421
+00:33:17,741 --> 00:33:21,495
+我还是不太明白，这个地方对我来说太奇怪了
+{\fscx75\fscy75\1c&HFF8000&}I don't fully understand. This is a strange place to me.{\r}
+
+422
+00:33:24,945 --> 00:33:28,382
+你要去哪？
+{\fscx75\fscy75\1c&HFF8000&}Where... Wheres yousa goin?{\r}
+
+423
+00:33:33,924 --> 00:33:35,467
+我拿到了
+{\fscx75\fscy75\1c&HFF8000&}I got ya.{\r}
+
+424
+00:33:35,592 --> 00:33:37,343
+什么？敲它的鼻子
+{\fscx75\fscy75\1c&HFF8000&}Hit the nose.{\r}
+
+425
+00:33:42,014 --> 00:33:45,560
+你要的是T-14超光速引擎，你真走运
+{\fscx75\fscy75\1c&HFF8000&}A T-1 4 hyperdrive generator. Thee in luck.{\r}
+
+426
+00:33:45,685 --> 00:33:48,312
+这东西只有我这里有
+{\fscx75\fscy75\1c&HFF8000&}I'm the only one hereabouts who has one.{\r}
+
+427
+00:33:48,437 --> 00:33:51,940
+不过你还是买艘新飞船那样更合算
+{\fscx75\fscy75\1c&HFF8000&}But thee might as well buy a new ship. It would be cheaper, I think, huh.{\r}
+
+428
+00:33:53,608 --> 00:33:54,985
+说到这个…
+{\fscx75\fscy75\1c&HFF8000&}Saying of which...{\r}
+
+429
+00:33:55,109 --> 00:33:57,487
+你打算怎样付款呢？
+{\fscx75\fscy75\1c&HFF8000&}how's thee gonna pay for all this, huh?{\r}
+
+430
+00:33:57,612 --> 00:33:59,655
+我有两万的共和国信用额
+{\fscx75\fscy75\1c&HFF8000&}I have 20,000 Republic dataries.{\r}
+
+431
+00:33:59,780 --> 00:34:01,614
+共和国信用？
+{\fscx75\fscy75\1c&HFF8000&}Republic credits?{\r}
+
+432
+00:34:01,740 --> 00:34:04,662
+共和国的信贷在这里不通用，我要比较实在的
+{\fscx75\fscy75\1c&HFF8000&}Republic credits are no good out here. I need something more real.{\r}
+
+433
+00:34:04,787 --> 00:34:07,914
+我没有其它东西了，但信用是可用的
+{\fscx75\fscy75\1c&HFF8000&}I don't have anything else, but credits will do fine.{\r}
+
+434
+00:34:08,039 --> 00:34:11,668
+- 不，那不行  - 信用可用
+{\fscx75\fscy75\1c&HFF8000&}- No, they won't. - Credits will do fine.{\r}
+
+435
+00:34:11,792 --> 00:34:13,628
+不，信用不行！
+{\fscx75\fscy75\1c&HFF8000&}No, they won't!{\r}
+
+436
+00:34:13,752 --> 00:34:15,837
+你以为你是绝地武士吗？
+{\fscx75\fscy75\1c&HFF8000&}What, you think you're some kind of Jedi,{\r}
+
+437
+00:34:15,837 --> 00:34:17,923
+就像这样子挥挥手吗？
+{\fscx75\fscy75\1c&HFF8000&}waving your hand around like that?{\r}
+
+438
+00:34:18,048 --> 00:34:22,305
+我可是陶达人，心灵控制对我无效，我要现金
+{\fscx75\fscy75\1c&HFF8000&}I'm a Toydarian. Mind tricks don't work on me. Only money.{\r}
+
+439
+00:34:23,137 --> 00:34:26,514
+没钱，就没零件，没交易
+{\fscx75\fscy75\1c&HFF8000&}No money, no parts, no deal.{\r}
+
+440
+00:34:26,639 --> 00:34:31,187
+我可告诉你这没有人有P-14引擎了
+{\fscx75\fscy75\1c&HFF8000&}And no one else has a T-1 4 hyperdrive, I promise you that.{\r}
+
+441
+00:34:38,069 --> 00:34:40,195
+我能够生存这么久
+{\fscx75\fscy75\1c&HFF8000&}Wouldn't have lasted long anyways {\r}
+
+442
+00:34:40,195 --> 00:34:42,321
+是因为我精于手艺
+{\fscx75\fscy75\1c&HFF8000&}if I wasn't so good at building things.{\r}
+
+443
+00:34:46,074 --> 00:34:47,951
+我们走吧，加加
+{\fscx75\fscy75\1c&HFF8000&}We're leaving. JarJar.{\r}
+
+444
+00:34:50,578 --> 00:34:53,124
+认识你很高兴，安纳金
+{\fscx75\fscy75\1c&HFF8000&}I'm glad to have met you, Anakin.{\r}
+
+445
+00:34:53,248 --> 00:34:55,084
+认识你我也很高兴
+{\fscx75\fscy75\1c&HFF8000&}I was glad to meet you too.{\r}
+
+446
+00:34:57,765 --> 00:35:00,757
+噢，哪儿去了？
+{\fscx75\fscy75\1c&HFF8000&}What? Wha... Oh.{\r}
+
+447
+00:35:03,465 --> 00:35:08,010
+外来人，他们以为我们什么都不懂
+{\fscx75\fscy75\1c&HFF8000&}Outlanders. They think we know nothing.{\r}
+
+448
+00:35:08,135 --> 00:35:10,055
+他们对我挺好的
+{\fscx75\fscy75\1c&HFF8000&}They seemed nice to me.{\r}
+
+449
+00:35:10,180 --> 00:35:12,099
+清洗货架，
+{\fscx75\fscy75\1c&HFF8000&}Clean the racks.{\r}
+
+450
+00:35:12,225 --> 00:35:13,559
+然后就回家吧
+{\fscx75\fscy75\1c&HFF8000&}Then you can go home.{\r}
+
+451
+00:35:13,684 --> 00:35:15,476
+{\fscx75\fscy75\1c&HFF8000&}Yippee!{\r}
+
+452
+00:35:21,522 --> 00:35:23,900
+飞船上有没有贵重物品？
+{\fscx75\fscy75\1c&HFF8000&}And you're sure there 's nothing left on board?{\r}
+
+453
+00:35:24,025 --> 00:35:25,903
+飞船上有些食粮补给
+{\fscx75\fscy75\1c&HFF8000&}A few containers of supplies.{\r}
+
+454
+00:35:26,028 --> 00:35:29,074
+女王的外衣也许值钱，但肯定不够交易…
+{\fscx75\fscy75\1c&HFF8000&}The queen's ward robe, maybe, but not enough for you to barter with...{\r}
+
+455
+00:35:29,199 --> 00:35:31,532
+那个引擎所需的金额数量
+{\fscx75\fscy75\1c&HFF8000&}not in the amount you're talking about.{\r}
+
+456
+00:35:31,657 --> 00:35:34,577
+好吧，没关系，我相信一定会有别的办法
+{\fscx75\fscy75\1c&HFF8000&}All right. I'm sure another solution will present itself.{\r}
+
+457
+00:35:34,702 --> 00:35:36,078
+我一会再跟你联系
+{\fscx75\fscy75\1c&HFF8000&}I'll check back later.{\r}
+
+458
+00:35:36,871 --> 00:35:38,539
+不能去，不能去
+{\fscx75\fscy75\1c&HFF8000&}Noah gain. Noah gain.{\r}
+
+459
+00:35:38,664 --> 00:35:41,501
+这里的人都是疯子
+{\fscx75\fscy75\1c&HFF8000&}Da beings hereabouts, cawazy!{\r}
+
+460
+00:35:41,626 --> 00:35:44,086
+他们会抢劫我们的
+{\fscx75\fscy75\1c&HFF8000&}Wesa be wobbed un crunched.{\r}
+
+461
+00:35:44,211 --> 00:35:47,381
+不会的，我们没有什么值钱的东西，这就是我们的问题
+{\fscx75\fscy75\1c&HFF8000&}Not likely. We have nothing of value. That's our problem.{\r}
+
+462
+00:36:02,646 --> 00:36:04,064
+你打算要付钱？
+{\fscx75\fscy75\1c&HFF8000&}Are you going to pay for that?{\r}
+
+463
+00:36:06,065 --> 00:36:07,942
+他值7个乌比奥(货币)
+{\fscx75\fscy75\1c&HFF8000&}It costs seven wupiupi.{\r}
+
+464
+00:36:13,238 --> 00:36:14,574
+{\fscx75\fscy75\1c&HFF8000&}Oops.{\r}
+
+465
+00:36:19,077 --> 00:36:20,954
+这是你的吗？
+{\fscx75\fscy75\1c&HFF8000&}Is this yours?{\r}
+
+466
+00:36:21,081 --> 00:36:22,831
+是谁的…
+{\fscx75\fscy75\1c&HFF8000&}Who, mesa...{\r}
+
+467
+00:36:27,003 --> 00:36:29,128
+当心呀，泽布巴
+{\fscx75\fscy75\1c&HFF8000&}Careful, Sebulba.{\r}
+
+468
+00:36:29,254 --> 00:36:31,256
+他可是个厉害的外星人
+{\fscx75\fscy75\1c&HFF8000&}He's a big-time outlander.{\r}
+
+469
+00:36:31,382 --> 00:36:34,927
+在比赛之前我可不想见到你送命
+{\fscx75\fscy75\1c&HFF8000&}I'd hate to see you diced before we race again.{\r}
+
+470
+00:36:35,052 --> 00:36:38,932
+下一次我们比赛的时候，小子，你就要完蛋了
+{\fscx75\fscy75\1c&HFF8000&}Next time we race, boy, it will be the end of you.{\r}
+
+471
+00:36:39,056 --> 00:36:42,099
+你要不是个奴隶，我早就宰了你了
+{\fscx75\fscy75\1c&HFF8000&}If you weren't a slave, I'd squash you now.{\r}
+
+472
+00:36:42,808 --> 00:36:45,643
+是啊，那么遗憾的是你就得为我的命赔钱了
+{\fscx75\fscy75\1c&HFF8000&}Yeah, it'd be a pity if you had to pay for me.{\r}
+
+473
+00:36:46,771 --> 00:36:49,900
+- 你好 - 你好吗
+{\fscx75\fscy75\1c&HFF8000&}- Hi. - Hi there.{\r}
+
+474
+00:36:50,025 --> 00:36:51,815
+你的朋友差点变成了烂桔子了
+{\fscx75\fscy75\1c&HFF8000&}Your buddy here was about to be turned into orange goo.{\r}
+
+475
+00:36:51,942 --> 00:36:53,819
+他挑起了一场争斗，和一个德格人…
+{\fscx75\fscy75\1c&HFF8000&}He picked a fight with a Dug...{\r}
+
+476
+00:36:53,944 --> 00:36:56,447
+一个特别危险的德格人，叫泽布巴
+{\fscx75\fscy75\1c&HFF8000&}an especially dangerous Dug called Sebulba.{\r}
+
+477
+00:36:56,573 --> 00:37:00,159
+我不喜欢打架，能不打还是不打的好
+{\fscx75\fscy75\1c&HFF8000&}Mesa haten crunchen. Das da las ting mesa want.{\r}
+
+478
+00:37:00,283 --> 00:37:04,288
+虽然这样，这小子是对的，你没少惹麻烦
+{\fscx75\fscy75\1c&HFF8000&}Nevertheless, the boy is right. You were heading into trouble.{\r}
+
+479
+00:37:04,830 --> 00:37:06,290
+谢谢你，我的小朋友
+{\fscx75\fscy75\1c&HFF8000&}Thanks, my young friend.{\r}
+
+480
+00:37:07,001 --> 00:37:09,060
+但是… 但是…
+{\fscx75\fscy75\1c&HFF8000&}But... But...{\r}
+
+481
+00:37:09,183 --> 00:37:10,461
+可我没做什么错事啊！
+{\fscx75\fscy75\1c&HFF8000&}But mesa doen nutten!{\r}
+
+482
+00:37:18,967 --> 00:37:21,554
+沙暴会减慢他们的速度
+{\fscx75\fscy75\1c&HFF8000&}This storm will slow them down.{\r}
+
+483
+00:37:21,679 --> 00:37:23,180
+真糟糕
+{\fscx75\fscy75\1c&HFF8000&}Looks pretty bad.{\r}
+
+484
+00:37:24,516 --> 00:37:27,016
+- 什么事？ - 收到总部的消息
+{\fscx75\fscy75\1c&HFF8000&}- Panaka. - Receiving a message from home.{\r}
+
+485
+00:37:27,141 --> 00:37:28,936
+我们会等着的
+{\fscx75\fscy75\1c&HFF8000&}We'll be right there.{\r}
+
+486
+00:37:35,357 --> 00:37:37,527
+给你，你会喜欢这些水果的
+{\fscx75\fscy75\1c&HFF8000&}Here, you'll like these pallies.{\r}
+
+487
+00:37:37,652 --> 00:37:40,237
+- 给你 - 谢谢
+{\fscx75\fscy75\1c&HFF8000&}- Here. - Thank you.{\r}
+
+488
+00:37:41,404 --> 00:37:43,699
+噢，我的骨头又疼了
+{\fscx75\fscy75\1c&HFF8000&}My bones are aching.{\r}
+
+489
+00:37:43,823 --> 00:37:48,371
+沙暴马上就要来了，快点回家吧
+{\fscx75\fscy75\1c&HFF8000&}Storm's coming up, Ani. You better get home quick.{\r}
+
+490
+00:37:48,496 --> 00:37:51,330
+- 你们有防风的地方吗？ - 我们回飞船去
+{\fscx75\fscy75\1c&HFF8000&}- Do you have shelter? - We'll head back to our ship.{\r}
+
+491
+00:37:51,456 --> 00:37:54,041
+- 远不远？   - 在市镇外面
+{\fscx75\fscy75\1c&HFF8000&}- Is it far? - It's on the outskirts.{\r}
+
+492
+00:37:54,167 --> 00:37:56,545
+你们没时间赶回飞船了
+{\fscx75\fscy75\1c&HFF8000&}You'll never reach the outskirts in time.{\r}
+
+493
+00:37:56,670 --> 00:38:00,547
+沙风暴要来了，是非常非常危险的
+{\fscx75\fscy75\1c&HFF8000&}Sandstorms are very, very dangerous.{\r}
+
+494
+00:38:00,672 --> 00:38:03,134
+来吧，我带你们去我们家
+{\fscx75\fscy75\1c&HFF8000&}Come on. I'll take you to my place.{\r}
+
+495
+00:38:17,856 --> 00:38:19,066
+妈妈！
+{\fscx75\fscy75\1c&HFF8000&}Mom!{\r}
+
+496
+00:38:19,192 --> 00:38:22,901
+- 妈妈，我回来了！ - 噢，这真舒服
+{\fscx75\fscy75\1c&HFF8000&}- Mom, I'm home! - Ah, dissen cosy.{\r}
+
+497
+00:38:23,026 --> 00:38:25,403
+- 他们是我的朋友，妈妈 - 你好
+{\fscx75\fscy75\1c&HFF8000&}- These are my friends, Mom. - Hello.{\r}
+
+498
+00:38:25,528 --> 00:38:29,074
+- 我叫奎刚·金 - 我正在制造一个机器人，要看看吗？
+{\fscx75\fscy75\1c&HFF8000&}- I'm Qui-Gon Jinn. - I'm building a droid. You wanna see?{\r}
+
+499
+00:38:29,199 --> 00:38:31,576
+是你儿子让我们来这儿躲避沙暴的
+{\fscx75\fscy75\1c&HFF8000&}Your son was kind enough to offer us shelter.{\r}
+
+500
+00:38:31,702 --> 00:38:33,660
+来呀，看看我的3PO
+{\fscx75\fscy75\1c&HFF8000&}Come on. I'll show you 3PO.{\r}
+
+501
+00:38:43,464 --> 00:38:46,716
+怎么样，不错吧？我还没做完呢
+{\fscx75\fscy75\1c&HFF8000&}Isn't he great? He's not finished yet.{\r}
+
+502
+00:38:46,842 --> 00:38:48,134
+真是太棒了
+{\fscx75\fscy75\1c&HFF8000&}He's wonderful.{\r}
+
+503
+00:38:49,385 --> 00:38:51,095
+你真的喜欢？
+{\fscx75\fscy75\1c&HFF8000&}You really like him?{\r}
+
+504
+00:38:51,220 --> 00:38:54,141
+他是公关机器人，能帮助妈妈，你看
+{\fscx75\fscy75\1c&HFF8000&}He's a protocol droid to help Mom. Watch.{\r}
+
+505
+00:38:58,560 --> 00:38:59,854
+人都哪儿去了？
+{\fscx75\fscy75\1c&HFF8000&}Where is everybody?{\r}
+
+506
+00:38:59,978 --> 00:39:01,147
+{\fscx75\fscy75\1c&HFF8000&}Whoops.{\r}
+
+507
+00:39:04,357 --> 00:39:05,526
+你好
+{\fscx75\fscy75\1c&HFF8000&}Oh, hello.{\r}
+
+508
+00:39:05,650 --> 00:39:08,944
+你好，我是C-3PO，公关机器人
+{\fscx75\fscy75\1c&HFF8000&}I am C-3PO, human cyborg relations.{\r}
+
+509
+00:39:09,070 --> 00:39:10,947
+愿意为你效劳？
+{\fscx75\fscy75\1c&HFF8000&}How might I serve you?{\r}
+
+510
+00:39:11,072 --> 00:39:13,866
+- 他太完美了 - 完美？
+{\fscx75\fscy75\1c&HFF8000&}- He's perfect. - Oh. Perfect.{\r}
+
+511
+00:39:13,991 --> 00:39:17,537
+等沙暴过去了，我带你去看看我的赛艇，是我制作的
+{\fscx75\fscy75\1c&HFF8000&}When the storm is over, I'll show you my racer. I'm building a Podracer.{\r}
+
+512
+00:39:18,913 --> 00:39:21,457
+这个地方好像有些不平
+{\fscx75\fscy75\1c&HFF8000&}I'm not sure this floor is entirely stable.{\r}
+
+513
+00:39:21,582 --> 00:39:24,793
+你好， 我们好像没有见过面的
+{\fscx75\fscy75\1c&HFF8000&}Hello. I don't believe we have been introduced.{\r}
+
+514
+00:39:26,713 --> 00:39:28,965
+R2-D2，很高兴认识你
+{\fscx75\fscy75\1c&HFF8000&}R2-D2. A pleasure to meet you.{\r}
+
+515
+00:39:29,090 --> 00:39:32,133
+我是C-3PO，公关机器人
+{\fscx75\fscy75\1c&HFF8000&}I am C-3PO, human cyborg relations.{\r}
+
+516
+00:39:34,762 --> 00:39:37,972
+对不起，你说'赤裸'？'赤裸'是什么意思？
+{\fscx75\fscy75\1c&HFF8000&}I beg your pardon, but what do you mean, "naked"?{\r}
+
+517
+00:39:39,641 --> 00:39:42,894
+我的内部零件裸露？ 我的上帝！
+{\fscx75\fscy75\1c&HFF8000&}My parts are showing? My goodness!{\r}
+
+518
+00:39:47,524 --> 00:39:49,984
+纳布星的人民死伤惨重
+{\fscx75\fscy75\1c&HFF8000&}The death toll is catastrophic.{\r}
+
+519
+00:39:50,108 --> 00:39:52,487
+我们还是让步吧
+{\fscx75\fscy75\1c&HFF8000&}We must bow to their wishes.{\r}
+
+520
+00:39:52,612 --> 00:39:54,654
+你们必须和我联系
+{\fscx75\fscy75\1c&HFF8000&}You must contact me.{\r}
+
+521
+00:39:54,779 --> 00:39:57,448
+是个圈套，不要回覆
+{\fscx75\fscy75\1c&HFF8000&}It's a trick. Send no reply.{\r}
+
+522
+00:39:57,574 --> 00:39:59,575
+什么信息也不要发过去
+{\fscx75\fscy75\1c&HFF8000&}Send no transmissions of any kind.{\r}
+
+523
+00:40:01,870 --> 00:40:04,747
+他们想利用通讯信号来确定我们的位置
+{\fscx75\fscy75\1c&HFF8000&}It sounds like bait to establish a connection trace.{\r}
+
+524
+00:40:04,873 --> 00:40:08,834
+如果是真的呢？ 真的死伤惨重呢？
+{\fscx75\fscy75\1c&HFF8000&}What if it is true, and the people are dying?{\r}
+
+525
+00:40:08,960 --> 00:40:11,420
+我们的时间不多了
+{\fscx75\fscy75\1c&HFF8000&}Either way, we're running out of time.{\r}
+
+526
+00:40:25,059 --> 00:40:27,184
+塔普尼是人口稀疏
+{\fscx75\fscy75\1c&HFF8000&}Tatooine is sparsely populated.{\r}
+
+527
+00:40:27,309 --> 00:40:30,104
+如果位置正确，定能找到他们
+{\fscx75\fscy75\1c&HFF8000&}If the trace was correct, I will find them quickly, Master.{\r}
+
+528
+00:40:30,229 --> 00:40:32,107
+先对付绝地武士
+{\fscx75\fscy75\1c&HFF8000&}Move against the Jedi first.{\r}
+
+529
+00:40:32,232 --> 00:40:34,942
+到时候你就轻而易举地把女王带到纳布星来…
+{\fscx75\fscy75\1c&HFF8000&}You will then have no difficulty in taking the queen to Naboo...{\r}
+
+530
+00:40:35,067 --> 00:40:36,945
+签署协议了
+{\fscx75\fscy75\1c&HFF8000&}to sign the treaty.{\r}
+
+531
+00:40:37,072 --> 00:40:39,239
+我们终于可以向绝地武士显露身份了
+{\fscx75\fscy75\1c&HFF8000&}At last we will reveal ourselves to the Jedi.{\r}
+
+532
+00:40:39,364 --> 00:40:41,782
+可以有机会报仇了
+{\fscx75\fscy75\1c&HFF8000&}At last we will have revenge.{\r}
+
+533
+00:40:41,907 --> 00:40:44,785
+你已经训练有素了，我的小徒弟
+{\fscx75\fscy75\1c&HFF8000&}You have been well-trained, my young apprentice.{\r}
+
+534
+00:40:44,910 --> 00:40:47,287
+他们不是你的对手
+{\fscx75\fscy75\1c&HFF8000&}They will be no match for you.{\r}
+
+535
+00:40:52,166 --> 00:40:56,172
+他们在每一个奴隶的体内都安装了一个发射器
+{\fscx75\fscy75\1c&HFF8000&}All slaves have a transmitter placed inside their bodies somewhere.{\r}
+
+536
+00:40:57,256 --> 00:41:00,258
+我想做一个扫描器把我的发射器找出来
+{\fscx75\fscy75\1c&HFF8000&}I've been working on a scanner to try and locate mine.{\r}
+
+537
+00:41:00,384 --> 00:41:03,886
+- 要是逃跑的话… - 就会被发射器炸死！
+{\fscx75\fscy75\1c&HFF8000&}- Any attempt to escape... - And they blow you up!{\r}
+
+538
+00:41:04,804 --> 00:41:06,389
+太没礼貌了！
+{\fscx75\fscy75\1c&HFF8000&}How wude!{\r}
+
+539
+00:41:06,515 --> 00:41:08,933
+真没想到银河系还有奴隶制
+{\fscx75\fscy75\1c&HFF8000&}I can't believe there's still slavery in the galaxy.{\r}
+
+540
+00:41:09,057 --> 00:41:10,937
+共和国有反奴隶法啊…
+{\fscx75\fscy75\1c&HFF8000&}The Republic's antislavery laws...{\r}
+
+541
+00:41:11,061 --> 00:41:13,397
+共和国管不到我们这儿
+{\fscx75\fscy75\1c&HFF8000&}The Republic doesn't exist out here.{\r}
+
+542
+00:41:13,521 --> 00:41:15,689
+我们要生存就得靠自己
+{\fscx75\fscy75\1c&HFF8000&}We must survive on our own.{\r}
+
+543
+00:41:16,690 --> 00:41:18,192
+对不起
+{\fscx75\fscy75\1c&HFF8000&}Xcuse me.{\r}
+
+544
+00:41:20,277 --> 00:41:22,822
+你们有谁看过飞艇赛吗？
+{\fscx75\fscy75\1c&HFF8000&}Has anybody ever seen a Podrace?{\r}
+
+545
+00:41:22,946 --> 00:41:24,739
+马拉斯代尔星球有飞艇赛
+{\fscx75\fscy75\1c&HFF8000&}They have Podracing on Malastare.{\r}
+
+546
+00:41:24,864 --> 00:41:27,576
+速度很快，非常危险
+{\fscx75\fscy75\1c&HFF8000&}Very fast, very dangerous.{\r}
+
+547
+00:41:28,368 --> 00:41:30,245
+我是唯一能开的人类
+{\fscx75\fscy75\1c&HFF8000&}I'm the only human who can do it.{\r}
+
+548
+00:41:30,371 --> 00:41:33,372
+那你得有绝地武士的反应速度才行
+{\fscx75\fscy75\1c&HFF8000&}You must have Jedi reflexes if you race pods.{\r}
+
+549
+00:41:34,499 --> 00:41:35,875
+别这么吃东西
+{\fscx75\fscy75\1c&HFF8000&}Don't do that again.{\r}
+
+550
+00:41:41,337 --> 00:41:43,926
+你是个绝地武士，对吧？
+{\fscx75\fscy75\1c&HFF8000&}You're a Jedi knight, aren't you?{\r}
+
+551
+00:41:46,885 --> 00:41:49,762
+- 你怎么知道的？ - 我看见你的激光剑了
+{\fscx75\fscy75\1c&HFF8000&}- What makes you think that? - I saw your laser sword.{\r}
+
+552
+00:41:49,887 --> 00:41:52,765
+只有绝地武士才有这种武器
+{\fscx75\fscy75\1c&HFF8000&}Only Jedis carry that kind of weapon.{\r}
+
+553
+00:41:52,890 --> 00:41:56,018
+那也许我是杀了绝地武士缴获的呢
+{\fscx75\fscy75\1c&HFF8000&}Perhaps I killed a Jedi and took it from him.{\r}
+
+554
+00:41:56,143 --> 00:41:57,770
+那是不可能的
+{\fscx75\fscy75\1c&HFF8000&}I don't think so.{\r}
+
+555
+00:41:57,894 --> 00:42:00,064
+没有人能杀得了绝地武士
+{\fscx75\fscy75\1c&HFF8000&}No one can kill a Jedi.{\r}
+
+556
+00:42:00,899 --> 00:42:02,943
+但愿你说的是对的
+{\fscx75\fscy75\1c&HFF8000&}I wish that were so.{\r}
+
+557
+00:42:03,068 --> 00:42:05,112
+有一次我梦见我自己成了绝地武士
+{\fscx75\fscy75\1c&HFF8000&}I had a dream I was a Jedi.{\r}
+
+558
+00:42:05,236 --> 00:42:08,405
+回来解放所有的奴隶
+{\fscx75\fscy75\1c&HFF8000&}I came back here and freed all the slaves.{\r}
+
+559
+00:42:08,529 --> 00:42:11,866
+- 你们是来解放我们的吗？ - 不，很遗憾
+{\fscx75\fscy75\1c&HFF8000&}- Have you come to free us? - No, I'm afraid not.{\r}
+
+560
+00:42:11,991 --> 00:42:16,329
+我觉得你们是 要不然你们来这儿干什么？
+{\fscx75\fscy75\1c&HFF8000&}I think you have. Why else would you be here?{\r}
+
+561
+00:42:21,208 --> 00:42:23,959
+我并不想欺骗你啊，安纳金
+{\fscx75\fscy75\1c&HFF8000&}I can see there's no fooling you, Anakin.{\r}
+
+562
+00:42:24,084 --> 00:42:27,089
+我们是要到银河系的首府
+{\fscx75\fscy75\1c&HFF8000&}We're on our way to Coruscant, the central system in the Republic...{\r}
+
+563
+00:42:27,213 --> 00:42:29,215
+科斯肯特去执行一项重要任务
+{\fscx75\fscy75\1c&HFF8000&}on a very important mission.{\r}
+
+564
+00:42:29,341 --> 00:42:32,385
+那你们怎么跑到银河系的外围来了？
+{\fscx75\fscy75\1c&HFF8000&}How did you end up out here in the outer rim?{\r}
+
+565
+00:42:32,509 --> 00:42:36,140
+我们的飞船坏了，这里好修理飞船
+{\fscx75\fscy75\1c&HFF8000&}Our ship was damaged, and we're stranded here until we can repair it.{\r}
+
+566
+00:42:37,391 --> 00:42:40,602
+我能帮你们，我什么都会修
+{\fscx75\fscy75\1c&HFF8000&}I can help. I can fix anything.{\r}
+
+567
+00:42:40,726 --> 00:42:42,229
+我相信你会
+{\fscx75\fscy75\1c&HFF8000&}I believe you can.{\r}
+
+568
+00:42:42,353 --> 00:42:45,147
+可是我们得需要搞到所需要的零件
+{\fscx75\fscy75\1c&HFF8000&}But first we must acquire the parts we need.{\r}
+
+569
+00:42:45,272 --> 00:42:47,983
+但是我们又没钱去买
+{\fscx75\fscy75\1c&HFF8000&}Wit no-nutten mula to trade.{\r}
+
+570
+00:42:48,108 --> 00:42:51,654
+那些小商贩一定有某些弱点，我们可以利用
+{\fscx75\fscy75\1c&HFF8000&}These junk dealers must have a weakness of some kind.{\r}
+
+571
+00:42:51,779 --> 00:42:56,075
+赌博，他们为了赛艇比赛什么东西都愿意赌
+{\fscx75\fscy75\1c&HFF8000&}Gambling. Everything here revolves around betting on those awful races.{\r}
+
+572
+00:42:56,199 --> 00:42:57,451
+飞梭赛车
+{\fscx75\fscy75\1c&HFF8000&}Podracing.{\r}
+
+573
+00:42:57,576 --> 00:43:00,495
+我们可以利用他们的贪心
+{\fscx75\fscy75\1c&HFF8000&}Greed can be a powerful ally.{\r}
+
+574
+00:43:00,619 --> 00:43:03,496
+我造的飞艇是速度最快的
+{\fscx75\fscy75\1c&HFF8000&}I built a racer. It's the fastest ever.{\r}
+
+575
+00:43:03,622 --> 00:43:05,916
+明天嘣嗒前夕有场大赛
+{\fscx75\fscy75\1c&HFF8000&}There's a big race tomorrow on Boonta Eve.{\r}
+
+576
+00:43:06,043 --> 00:43:08,001
+你们帮我报名吧
+{\fscx75\fscy75\1c&HFF8000&}You could enter my pod.{\r}
+
+577
+00:43:08,962 --> 00:43:10,484
+安纳金，瓦图不会同意的
+{\fscx75\fscy75\1c&HFF8000&}Anakin, Watto won't let you.{\r}
+
+578
+00:43:10,484 --> 00:43:12,006
+瓦图不知道我造了赛艇
+{\fscx75\fscy75\1c&HFF8000&}Watto doesn't know I've built it.{\r}
+
+579
+00:43:12,131 --> 00:43:14,007
+就说是你们的赛艇
+{\fscx75\fscy75\1c&HFF8000&}You could make him think it was yours...{\r}
+
+580
+00:43:14,133 --> 00:43:16,345
+想办法让他们允许我开就行了
+{\fscx75\fscy75\1c&HFF8000&}and get him to let me pilot it for you.{\r}
+
+581
+00:43:16,469 --> 00:43:18,054
+我不想让你去，那太可怕了
+{\fscx75\fscy75\1c&HFF8000&}I don't want you to race. It's awful.{\r}
+
+582
+00:43:18,178 --> 00:43:20,681
+每次瓦图让你比赛都让我担心死了
+{\fscx75\fscy75\1c&HFF8000&}I die every time Watto makes you do it.{\r}
+
+583
+00:43:20,807 --> 00:43:22,934
+可是妈妈，我非常喜欢
+{\fscx75\fscy75\1c&HFF8000&}But, Mom, I love it.{\r}
+
+584
+00:43:23,058 --> 00:43:26,606
+再说赢了奖金还可以帮他们买零件
+{\fscx75\fscy75\1c&HFF8000&}The prize money would more than pay for the parts they need.{\r}
+
+585
+00:43:26,730 --> 00:43:29,024
+安纳金，
+{\fscx75\fscy75\1c&HFF8000&}Anakin.{\r}
+
+586
+00:43:29,147 --> 00:43:31,901
+你妈妈是对的
+{\fscx75\fscy75\1c&HFF8000&}Your mother's right.{\r}
+
+587
+00:43:32,025 --> 00:43:35,111
+有谁对共和国比较友好可以帮助我们的吗？
+{\fscx75\fscy75\1c&HFF8000&}Is there anyone friendly to the Republic who can help us?{\r}
+
+588
+00:43:36,611 --> 00:43:38,282
+.没有
+{\fscx75\fscy75\1c&HFF8000&}No.{\r}
+
+589
+00:43:43,370 --> 00:43:46,200
+妈妈，你不是说宇宙中最大的问题
+{\fscx75\fscy75\1c&HFF8000&}Mom, you say the biggest problem in this universe{\r}
+
+590
+00:43:46,204 --> 00:43:47,999
+就是人们不互相帮助吗？
+{\fscx75\fscy75\1c&HFF8000&}is nobody helps each other.{\r}
+
+591
+00:43:52,835 --> 00:43:55,714
+奎刚他是不想让你的儿子去冒险
+{\fscx75\fscy75\1c&HFF8000&}I'm sure Qui-Gon doesn't want to put your son in danger.{\r}
+
+592
+00:43:55,840 --> 00:43:57,758
+我们会另想办法的
+{\fscx75\fscy75\1c&HFF8000&}We'll find some other way.{\r}
+
+593
+00:44:00,219 --> 00:44:02,680
+不，没有别的办法
+{\fscx75\fscy75\1c&HFF8000&}There is no other way.{\r}
+
+594
+00:44:02,806 --> 00:44:07,141
+虽然我不愿意让他去，可他能帮助你们
+{\fscx75\fscy75\1c&HFF8000&}I may not like it, but he can help you.{\r}
+
+595
+00:44:08,017 --> 00:44:09,894
+他注定是要帮助你们的
+{\fscx75\fscy75\1c&HFF8000&}He was meant to help you.{\r}
+
+596
+00:44:23,449 --> 00:44:25,325
+你真想这么干吗？
+{\fscx75\fscy75\1c&HFF8000&}Are you sure about this?{\r}
+
+597
+00:44:25,451 --> 00:44:28,077
+把我们的命运寄托在一个孩子身上
+{\fscx75\fscy75\1c&HFF8000&}Trusting our fate to a boy we hardly know?{\r}
+
+598
+00:44:28,202 --> 00:44:30,246
+女王是不会同意的
+{\fscx75\fscy75\1c&HFF8000&}The queen will not approve.{\r}
+
+599
+00:44:30,372 --> 00:44:32,248
+没必要让女王知道
+{\fscx75\fscy75\1c&HFF8000&}The queen doesn't need to know.{\r}
+
+600
+00:44:33,375 --> 00:44:35,002
+我也不同意
+{\fscx75\fscy75\1c&HFF8000&}Well, I don't approve.{\r}
+
+601
+00:44:36,127 --> 00:44:38,754
+这孩子说你们要资助他参加比赛
+{\fscx75\fscy75\1c&HFF8000&}The boy tells me you want to sponsor him in the race.{\r}
+
+602
+00:44:38,879 --> 00:44:40,506
+你们用什么资助？
+{\fscx75\fscy75\1c&HFF8000&}How can you do this?{\r}
+
+603
+00:44:40,632 --> 00:44:43,926
+不会是用共和国信贷吧？
+{\fscx75\fscy75\1c&HFF8000&}Not on the Republic credits, I think.{\r}
+
+604
+00:44:44,050 --> 00:44:46,219
+我用我的飞船作抵压，作参赛费
+{\fscx75\fscy75\1c&HFF8000&}My ship will be the entry fee.{\r}
+
+605
+00:44:46,720 --> 00:44:48,430
+不错，不错
+{\fscx75\fscy75\1c&HFF8000&}Not bad!{\r}
+
+606
+00:44:48,555 --> 00:44:51,514
+一艘露比亚？
+{\fscx75\fscy75\1c&HFF8000&}Not bad, huh? Nubian, huh?{\r}
+
+607
+00:44:51,641 --> 00:44:54,937
+飞船状况良好，只是缺一点零件
+{\fscx75\fscy75\1c&HFF8000&}It's in good order, except for the parts I need.{\r}
+
+608
+00:44:55,061 --> 00:44:57,564
+那孩子会驾驶什么呢？
+{\fscx75\fscy75\1c&HFF8000&}What would the boy ride?{\r}
+
+609
+00:44:57,689 --> 00:44:59,461
+上次比赛，他把我的飞艇撞毁了
+{\fscx75\fscy75\1c&HFF8000&}He smashed up my pod in the last race. {\r}
+
+610
+00:44:59,461 --> 00:45:01,233
+得需要较长一段时间来修好它
+{\fscx75\fscy75\1c&HFF8000&}It would take some long time to fix it.{\r}
+
+611
+00:45:01,358 --> 00:45:03,693
+那不能怪我，真的
+{\fscx75\fscy75\1c&HFF8000&}It wasn't my fault. Really.{\r}
+
+612
+00:45:03,819 --> 00:45:05,445
+是泽布巴用他的排气管袭击我
+{\fscx75\fscy75\1c&HFF8000&}Sebulba flashed me with his vents.{\r}
+
+613
+00:45:05,570 --> 00:45:08,949
+其实还是我保住了飞艇，大部分的
+{\fscx75\fscy75\1c&HFF8000&}I actually saved the pod, mostly.{\r}
+
+614
+00:45:10,075 --> 00:45:12,535
+你保住的
+{\fscx75\fscy75\1c&HFF8000&}That you did.{\r}
+
+615
+00:45:12,660 --> 00:45:15,455
+这孩子的身手的确不错
+{\fscx75\fscy75\1c&HFF8000&}The boy's good. No doubts there, huh?{\r}
+
+616
+00:45:15,580 --> 00:45:18,083
+我在一次赛事中赢了一艘飞船
+{\fscx75\fscy75\1c&HFF8000&}I have acquired a pod in a game of chance.{\r}
+
+617
+00:45:18,207 --> 00:45:19,875
+是速度最快的
+{\fscx75\fscy75\1c&HFF8000&}The fastest ever built.{\r}
+
+618
+00:45:20,000 --> 00:45:25,128
+但愿你不是杀人越货抢来的吧？
+{\fscx75\fscy75\1c&HFF8000&}I hope you didn't kill anyone I know for it, huh?{\r}
+
+619
+00:45:27,091 --> 00:45:30,636
+好，你提供飞艇和参赛费…
+{\fscx75\fscy75\1c&HFF8000&}So, you supply the pod and the entry fee...{\r}
+
+620
+00:45:30,762 --> 00:45:32,138
+我提供这孩子
+{\fscx75\fscy75\1c&HFF8000&}and I supply the boy.{\r}
+
+621
+00:45:32,263 --> 00:45:36,140
+赢了钱五五分怎么样？
+{\fscx75\fscy75\1c&HFF8000&}We split the winnings 50-50, I think, huh?{\r}
+
+622
+00:45:36,265 --> 00:45:38,143
+如果说五五分的话…
+{\fscx75\fscy75\1c&HFF8000&}If it's going to be 50-50...{\r}
+
+623
+00:45:38,268 --> 00:45:40,895
+那参赛费得由你来预支
+{\fscx75\fscy75\1c&HFF8000&}I suggest you front the cash for the entry.{\r}
+
+624
+00:45:41,020 --> 00:45:43,065
+如果我们赢了…
+{\fscx75\fscy75\1c&HFF8000&}If we win...{\r}
+
+625
+00:45:43,190 --> 00:45:46,985
+奖金都归你，你给我零件就行了
+{\fscx75\fscy75\1c&HFF8000&}you keep all the winnings, minus the cost of the parts I need.{\r}
+
+626
+00:45:47,109 --> 00:45:50,321
+要是我们输了的话，我的飞艇归你
+{\fscx75\fscy75\1c&HFF8000&}And if we lose, you keep my ship.{\r}
+
+627
+00:45:52,782 --> 00:45:54,200
+怎么你都合算
+{\fscx75\fscy75\1c&HFF8000&}Either way, you win.{\r}
+
+628
+00:45:59,997 --> 00:46:01,332
+说定了！
+{\fscx75\fscy75\1c&HFF8000&}Deal!{\r}
+
+629
+00:46:06,546 --> 00:46:10,799
+我看你的朋友是个大傻瓜
+{\fscx75\fscy75\1c&HFF8000&}Your friend is a foolish one, methinks.{\r}
+
+630
+00:46:18,766 --> 00:46:21,685
+师父，要是计划失败了呢？
+{\fscx75\fscy75\1c&HFF8000&}What if this plan fails, Master?{\r}
+
+631
+00:46:21,810 --> 00:46:24,520
+那我们就困在这里，走不了啦
+{\fscx75\fscy75\1c&HFF8000&}We could be stuck here a very long time.{\r}
+
+632
+00:46:24,644 --> 00:46:27,189
+现在发求救信息太危险了
+{\fscx75\fscy75\1c&HFF8000&}Well, it 's too dangerous to call for help...{\r}
+
+633
+00:46:27,315 --> 00:46:30,692
+没有动力的飞船根本没用，
+{\fscx75\fscy75\1c&HFF8000&}and a ship without a power supply isn't going to get us anywhere.{\r}
+
+634
+00:46:30,817 --> 00:46:32,776
+再说
+{\fscx75\fscy75\1c&HFF8000&}And...{\r}
+
+635
+00:46:32,902 --> 00:46:34,779
+这个孩子很特别
+{\fscx75\fscy75\1c&HFF8000&}there's something about this boy.{\r}
+
+636
+00:46:41,621 --> 00:46:43,955
+真该为你的儿子感到骄傲
+{\fscx75\fscy75\1c&HFF8000&}You should be very proud of your son.{\r}
+
+637
+00:46:44,705 --> 00:46:47,040
+他施予，但不求回报
+{\fscx75\fscy75\1c&HFF8000&}He gives without any thought of reward .{\r}
+
+638
+00:46:47,165 --> 00:46:50,043
+心里毫无贪念
+{\fscx75\fscy75\1c&HFF8000&}He knows nothing of greed.{\r}
+
+639
+00:46:50,168 --> 00:46:51,254
+他有…
+{\fscx75\fscy75\1c&HFF8000&}He has...{\r}
+
+640
+00:46:52,254 --> 00:46:54,131
+他有超常的能力
+{\fscx75\fscy75\1c&HFF8000&}He has special powers.{\r}
+
+641
+00:46:55,924 --> 00:46:57,134
+是的
+{\fscx75\fscy75\1c&HFF8000&}Yes.{\r}
+
+642
+00:46:57,259 --> 00:46:59,886
+他能预知将要发生的事情
+{\fscx75\fscy75\1c&HFF8000&}He can see things before they happen.{\r}
+
+643
+00:47:00,011 --> 00:47:02,805
+所以他的反应很快，
+{\fscx75\fscy75\1c&HFF8000&}That's why he appears to have such quick reflexes.{\r}
+
+644
+00:47:02,930 --> 00:47:04,807
+这种特徵是绝地武士的
+{\fscx75\fscy75\1c&HFF8000&}It's a Jedi trait.{\r}
+
+645
+00:47:04,931 --> 00:47:07,725
+他不该过奴隶的生活
+{\fscx75\fscy75\1c&HFF8000&}He deserves better than a slave's life.{\r}
+
+646
+00:47:07,850 --> 00:47:09,540
+要是他出生在共和国
+{\fscx75\fscy75\1c&HFF8000&}Had he been born in the Republic, {\r}
+
+647
+00:47:09,540 --> 00:47:11,231
+我们可以早点定位他
+{\fscx75\fscy75\1c&HFF8000&}we would have identified him early.{\r}
+
+648
+00:47:13,649 --> 00:47:17,403
+他身上的生命原力很强，也很清晰
+{\fscx75\fscy75\1c&HFF8000&}The Force is unusually strong with him. That much is clear.{\r}
+
+649
+00:47:17,527 --> 00:47:19,279
+他父亲是谁？
+{\fscx75\fscy75\1c&HFF8000&}Who was his father?{\r}
+
+650
+00:47:21,990 --> 00:47:23,909
+他没有父亲
+{\fscx75\fscy75\1c&HFF8000&}There was no father.{\r}
+
+651
+00:47:25,368 --> 00:47:28,706
+我怀了他，生了他，抚养他…
+{\fscx75\fscy75\1c&HFF8000&}I carried him, I gave birth, I raised him.{\r}
+
+652
+00:47:29,582 --> 00:47:32,084
+我也解释不清楚，我怎么怀上他的
+{\fscx75\fscy75\1c&HFF8000&}I can't explain what happened.{\r}
+
+653
+00:47:33,752 --> 00:47:35,544
+能帮他吗？
+{\fscx75\fscy75\1c&HFF8000&}Can you help him?{\r}
+
+654
+00:47:35,669 --> 00:47:37,546
+我也不知道
+{\fscx75\fscy75\1c&HFF8000&}I don't know.{\r}
+
+655
+00:47:40,047 --> 00:47:43,677
+我不是来解救奴隶的
+{\fscx75\fscy75\1c&HFF8000&}I didn't actually come here to free slaves.{\r}
+
+656
+00:47:56,815 --> 00:47:58,693
+哗，是工程机器人
+{\fscx75\fscy75\1c&HFF8000&}Wow, a real astro droid!{\r}
+
+657
+00:48:00,612 --> 00:48:04,364
+- 你怎么这么幸运？  - 这算什么呀
+{\fscx75\fscy75\1c&HFF8000&}- How do you get so lucky? - That isn't the half of it.{\r}
+
+658
+00:48:04,490 --> 00:48:07,452
+- 我还要参加邦塔大赛呢 - 什么？
+{\fscx75\fscy75\1c&HFF8000&}- I'm in the Boonta race tomorrow. - What?{\r}
+
+659
+00:48:07,576 --> 00:48:09,284
+用这个？
+{\fscx75\fscy75\1c&HFF8000&}With this?{\r}
+
+660
+00:48:09,409 --> 00:48:12,162
+你真会开玩笑，安
+{\fscx75\fscy75\1c&HFF8000&}You're such a joker, Ani.{\r}
+
+661
+00:48:12,287 --> 00:48:15,500
+- 这个你造了好几年了  - 它跑不起来
+{\fscx75\fscy75\1c&HFF8000&}- You've been working on that for years. - It's never gonna run.{\r}
+
+662
+00:48:15,625 --> 00:48:17,793
+走，咱们去打球吧
+{\fscx75\fscy75\1c&HFF8000&}Come on. Let's go and play ball.{\r}
+
+663
+00:48:17,919 --> 00:48:21,213
+你好好比赛吧，安 你会被压扁的
+{\fscx75\fscy75\1c&HFF8000&}Keep racing, Ani. You're gonna be bug squash.{\r}
+
+664
+00:48:29,762 --> 00:48:32,140
+别碰那个动力电流夹
+{\fscx75\fscy75\1c&HFF8000&}Keep away from those energy binders.{\r}
+
+665
+00:48:32,265 --> 00:48:35,727
+手要是碰到了那个电流，会麻木好几个小时的
+{\fscx75\fscy75\1c&HFF8000&}If your hand gets caught in the beam, it's gonna go numb for hours.{\r}
+
+666
+00:48:35,852 --> 00:48:37,228
+好的
+{\fscx75\fscy75\1c&HFF8000&}Okay.{\r}
+
+667
+00:48:40,940 --> 00:48:43,482
+我的舌头太肥了
+{\fscx75\fscy75\1c&HFF8000&}My tongue is fat.{\r}
+
+668
+00:48:43,608 --> 00:48:46,694
+我的舌头… 扳手
+{\fscx75\fscy75\1c&HFF8000&}My tongue... Wrench.{\r}
+
+669
+00:48:46,819 --> 00:48:49,489
+扳手丢哪儿了？哦，竟敢这样
+{\fscx75\fscy75\1c&HFF8000&}Where is de wrench? Oh, dare it is.{\r}
+
+670
+00:48:53,952 --> 00:48:55,495
+被夹住了
+{\fscx75\fscy75\1c&HFF8000&}I'm stuck.{\r}
+
+671
+00:48:55,620 --> 00:48:59,622
+你知道吗，我觉得加加这家伙有点奇怪啊
+{\fscx75\fscy75\1c&HFF8000&}You know, I find that JarJar creature to be a little odd.{\r}
+
+672
+00:49:01,457 --> 00:49:04,294
+你都不知道它能不能跑起来
+{\fscx75\fscy75\1c&HFF8000&}You don't even know if this thing's gonna run.{\r}
+
+673
+00:49:04,419 --> 00:49:06,504
+- 它能跑  - 我想是时候试一试了
+{\fscx75\fscy75\1c&HFF8000&}- It will. - I think it's time we found out.{\r}
+
+674
+00:49:06,628 --> 00:49:08,841
+- 给你，用这个充电 - 好的，先生！
+{\fscx75\fscy75\1c&HFF8000&}- Here, use this power charge. - Yes, sir!{\r}
+
+675
+00:49:08,966 --> 00:49:11,009
+起来，克斯特，我们让开
+{\fscx75\fscy75\1c&HFF8000&}Come on, Kitster. Let's move away.{\r}
+
+676
+00:49:11,133 --> 00:49:13,344
+我的嘴
+{\fscx75\fscy75\1c&HFF8000&}My mouth.{\r}
+
+677
+00:49:13,471 --> 00:49:14,803
+安，我卡住了
+{\fscx75\fscy75\1c&HFF8000&}Ani, I'm stuck.{\r}
+
+678
+00:49:20,017 --> 00:49:22,185
+我舌头卡住了
+{\fscx75\fscy75\1c&HFF8000&}My tongue is fat.{\r}
+
+679
+00:49:22,311 --> 00:49:25,273
+你说得对，他很奇怪
+{\fscx75\fscy75\1c&HFF8000&}You're quite right. He's very odd indeed.{\r}
+
+680
+00:49:27,483 --> 00:49:29,526
+谢谢
+{\fscx75\fscy75\1c&HFF8000&}Thank you.{\r}
+
+681
+00:49:29,652 --> 00:49:31,069
+走
+{\fscx75\fscy75\1c&HFF8000&}Go.{\r}
+
+682
+00:49:45,583 --> 00:49:49,211
+发动了！发动了！
+{\fscx75\fscy75\1c&HFF8000&}It's working! It's working!{\r}
+
+683
+00:49:59,847 --> 00:50:02,349
+坐好别动，我帮你清理伤口
+{\fscx75\fscy75\1c&HFF8000&}Stay still, Ani. Let me clean this cut.{\r}
+
+684
+00:50:02,474 --> 00:50:06,395
+这么多星星，每个星星都有行星组成的星系吗？
+{\fscx75\fscy75\1c&HFF8000&}There's so many. Do they all have a system of planets?{\r}
+
+685
+00:50:06,519 --> 00:50:08,395
+多数都有
+{\fscx75\fscy75\1c&HFF8000&}Most of them.{\r}
+
+686
+00:50:08,520 --> 00:50:10,482
+有人去过所有星球吗？
+{\fscx75\fscy75\1c&HFF8000&}Has anyone been to'em all?{\r}
+
+687
+00:50:12,191 --> 00:50:13,400
+好像没有
+{\fscx75\fscy75\1c&HFF8000&}Not likely.{\r}
+
+688
+00:50:14,527 --> 00:50:16,739
+我要成为第一个人
+{\fscx75\fscy75\1c&HFF8000&}I wanna be the first one to see 'em all.{\r}
+
+689
+00:50:17,947 --> 00:50:20,324
+安，该睡觉了！
+{\fscx75\fscy75\1c&HFF8000&}Ani, bedtime!{\r}
+
+690
+00:50:20,449 --> 00:50:23,202
+好了，没问题了
+{\fscx75\fscy75\1c&HFF8000&}There we are. Good as new.{\r}
+
+691
+00:50:23,327 --> 00:50:26,205
+安，你听见了没有
+{\fscx75\fscy75\1c&HFF8000&}Ani, I'm not gonna tell you again.{\r}
+
+692
+00:50:26,331 --> 00:50:29,750
+- 这是干什么？ - 它看你的血液有没有感染
+{\fscx75\fscy75\1c&HFF8000&}- What are you doing? - Checking your blood for infections.{\r}
+
+693
+00:50:29,875 --> 00:50:31,417
+去睡吧
+{\fscx75\fscy75\1c&HFF8000&}Go on.{\r}
+
+694
+00:50:31,542 --> 00:50:33,504
+明天有你忙的
+{\fscx75\fscy75\1c&HFF8000&}You have a big day tomorrow.{\r}
+
+695
+00:50:33,629 --> 00:50:35,505
+睡个好觉
+{\fscx75\fscy75\1c&HFF8000&}Sleep well, Ani.{\r}
+
+696
+00:50:38,257 --> 00:50:40,259
+- 欧比旺？ - 是，师父？
+{\fscx75\fscy75\1c&HFF8000&}- Obi-Wan? - Yes, Master?{\r}
+
+697
+00:50:40,385 --> 00:50:43,096
+我发送过去一个血样，你分析一下
+{\fscx75\fscy75\1c&HFF8000&}I need an analysis of this blood sample I'm sending you.{\r}
+
+698
+00:50:43,221 --> 00:50:44,931
+稍等
+{\fscx75\fscy75\1c&HFF8000&}Wait a minute.{\r}
+
+699
+00:50:46,641 --> 00:50:48,601
+midi-chlorian的读数是多少？
+{\fscx75\fscy75\1c&HFF8000&}I need a midi-chlorian count.{\r}
+
+700
+00:50:51,563 --> 00:50:54,189
+读数非常高
+{\fscx75\fscy75\1c&HFF8000&}The reading is off the chart.{\r}
+
+701
+00:50:54,314 --> 00:50:56,191
+已经大大超过了两万
+{\fscx75\fscy75\1c&HFF8000&}Over 20,000.{\r}
+
+702
+00:50:56,317 --> 00:50:59,946
+尤达师父也没有这么高的读数…
+{\fscx75\fscy75\1c&HFF8000&}Even Master Yoda doesn't have a midi-chlorian count that high.{\r}
+
+703
+00:51:00,071 --> 00:51:01,862
+绝地武士都没有这么高
+{\fscx75\fscy75\1c&HFF8000&}No Jedi has.{\r}
+
+704
+00:51:01,989 --> 00:51:04,032
+这意味着什么？
+{\fscx75\fscy75\1c&HFF8000&}What does that mean?{\r}
+
+705
+00:51:04,908 --> 00:51:06,534
+还不太清楚
+{\fscx75\fscy75\1c&HFF8000&}I'm not sure.{\r}
+
+706
+00:52:16,473 --> 00:52:19,351
+比赛以前我就想看看你的飞船
+{\fscx75\fscy75\1c&HFF8000&}I wanna see your spaceship the moment the race is over.{\r}
+
+707
+00:52:19,477 --> 00:52:21,229
+耐心点，我蓝色的朋友
+{\fscx75\fscy75\1c&HFF8000&}Patience, my blue friend.{\r}
+
+708
+00:52:21,355 --> 00:52:23,608
+日落之前你会看到奖金
+{\fscx75\fscy75\1c&HFF8000&}You'll have your winnings before the suns set.{\r}
+
+709
+00:52:23,732 --> 00:52:25,523
+我们也可以离开这里了
+{\fscx75\fscy75\1c&HFF8000&}And we'll be far away from here.{\r}
+
+710
+00:52:25,650 --> 00:52:29,695
+要不就你那可爱的飞艇归我？
+{\fscx75\fscy75\1c&HFF8000&}Not if your ship belongs to me, I think, huh?{\r}
+
+711
+00:52:29,819 --> 00:52:33,199
+我警告你，别玩花样
+{\fscx75\fscy75\1c&HFF8000&}I warn you, no funny business.{\r}
+
+712
+00:52:33,324 --> 00:52:36,451
+- 你觉得安纳金赢不了吗？ - 别误解我的信息
+{\fscx75\fscy75\1c&HFF8000&}- You don't think Anakin can win? - Don't get me wrongo.{\r}
+
+713
+00:52:36,576 --> 00:52:39,039
+我对那孩子很有信心
+{\fscx75\fscy75\1c&HFF8000&}I have great faith in the boy.{\r}
+
+714
+00:52:39,163 --> 00:52:41,289
+他会为你们赢得荣誉…
+{\fscx75\fscy75\1c&HFF8000&}He's a credit to your race...{\r}
+
+715
+00:52:41,415 --> 00:52:44,625
+不过我看还是萨布巴能赢
+{\fscx75\fscy75\1c&HFF8000&}but Sebulba there is going to win, I think.{\r}
+
+716
+00:52:46,753 --> 00:52:48,503
+哦，不！
+{\fscx75\fscy75\1c&HFF8000&}Oh, no!{\r}
+
+717
+00:52:52,674 --> 00:52:54,511
+你怎么会这么想的？
+{\fscx75\fscy75\1c&HFF8000&}Why do you think that?{\r}
+
+718
+00:52:54,636 --> 00:52:56,514
+他总是赢！
+{\fscx75\fscy75\1c&HFF8000&}He always wins!{\r}
+
+719
+00:52:58,514 --> 00:53:00,975
+我把赌注都押在泽布巴身上
+{\fscx75\fscy75\1c&HFF8000&}I am betting heavily on Sebulba.{\r}
+
+720
+00:53:02,809 --> 00:53:05,520
+- 那我跟你赌 - 什么？
+{\fscx75\fscy75\1c&HFF8000&}- I'll take that bet. - What?{\r}
+
+721
+00:53:06,271 --> 00:53:09,609
+我以我的新赛艇跟你赌，就用…
+{\fscx75\fscy75\1c&HFF8000&}I'll wager my new racing pod against, say...{\r}
+
+722
+00:53:09,735 --> 00:53:11,611
+那孩子和他妈妈
+{\fscx75\fscy75\1c&HFF8000&}the boy and his mother.{\r}
+
+723
+00:53:11,735 --> 00:53:15,446
+赛艇哪能值两个奴隶，绝对不行
+{\fscx75\fscy75\1c&HFF8000&}No pod is worth two slaves, not by a long shot.{\r}
+
+724
+00:53:16,365 --> 00:53:18,116
+只赌那个孩子呢？
+{\fscx75\fscy75\1c&HFF8000&}The boy, then.{\r}
+
+725
+00:53:24,329 --> 00:53:26,833
+那就让运气来决定吧
+{\fscx75\fscy75\1c&HFF8000&}We'll let fate decide, huh?{\r}
+
+726
+00:53:26,958 --> 00:53:30,378
+这么巧，我这刚好带了一粒骰子
+{\fscx75\fscy75\1c&HFF8000&}I just happen to have a chance cube here.{\r}
+
+727
+00:53:30,502 --> 00:53:33,547
+蓝色，是那孩子
+{\fscx75\fscy75\1c&HFF8000&}Blue, it's the boy.{\r}
+
+728
+00:53:33,672 --> 00:53:34,797
+红色是…
+{\fscx75\fscy75\1c&HFF8000&}Red...{\r}
+
+729
+00:53:36,215 --> 00:53:37,842
+他的妈妈
+{\fscx75\fscy75\1c&HFF8000&}his mother.{\r}
+
+730
+00:53:47,559 --> 00:53:49,979
+这次掷骰子你赢了，异乡人…
+{\fscx75\fscy75\1c&HFF8000&}You won this small toss, outlander...{\r}
+
+731
+00:53:50,104 --> 00:53:52,231
+但你是赢不了比赛的！
+{\fscx75\fscy75\1c&HFF8000&}but you won't win the race!{\r}
+
+732
+00:53:52,356 --> 00:53:54,442
+所以这没差别！
+{\fscx75\fscy75\1c&HFF8000&}So it makes little difference!{\r}
+
+733
+00:54:04,242 --> 00:54:09,163
+最好劝劝你的朋友别赌了，不然他可要输惨了
+{\fscx75\fscy75\1c&HFF8000&}Better stop your friend's betting or I'll end up owning him too.{\r}
+
+734
+00:54:12,916 --> 00:54:15,419
+- 他这话什么意思？ - 待会告诉你
+{\fscx75\fscy75\1c&HFF8000&}- What'd he mean by that? - I'll tell you later.{\r}
+
+735
+00:54:15,546 --> 00:54:16,922
+早上好
+{\fscx75\fscy75\1c&HFF8000&}Good morning.{\r}
+
+736
+00:54:19,048 --> 00:54:21,800
+天哪，太空旅行听起来太危险了
+{\fscx75\fscy75\1c&HFF8000&}Oh, my. Space travel sounds rather perilous.{\r}
+
+737
+00:54:23,886 --> 00:54:25,000
+跟你们说吧
+{\fscx75\fscy75\1c&HFF8000&}I can assure you,{\r}
+
+738
+00:54:25,007 --> 00:54:27,888
+他们别想把我弄上那些可怕的飞船
+{\fscx75\fscy75\1c&HFF8000&}they will never get me onto one of those dreadful starships.{\r}
+
+739
+00:54:28,013 --> 00:54:31,391
+真是奇才，安 我确信这次你会做到的
+{\fscx75\fscy75\1c&HFF8000&}This is so wizard, Ani. I'm sure you'll do it this time.{\r}
+
+740
+00:54:31,516 --> 00:54:32,603
+做什么？
+{\fscx75\fscy75\1c&HFF8000&}Do what?{\r}
+
+741
+00:54:32,727 --> 00:54:35,773
+当然是完成这次比赛啦
+{\fscx75\fscy75\1c&HFF8000&}Finish the race, of course.{\r}
+
+742
+00:54:35,898 --> 00:54:37,649
+你从来没有赢过比赛？
+{\fscx75\fscy75\1c&HFF8000&}You've never won a race?{\r}
+
+743
+00:54:37,774 --> 00:54:40,484
+我是没赢过
+{\fscx75\fscy75\1c&HFF8000&}Well, not exactly.{\r}
+
+744
+00:54:40,610 --> 00:54:42,611
+甚至没有跑完全程？
+{\fscx75\fscy75\1c&HFF8000&}Not even finished?{\r}
+
+745
+00:54:42,736 --> 00:54:45,197
+克斯特说的没错 这次我会跑完全程
+{\fscx75\fscy75\1c&HFF8000&}Kitster's right. I will this time.{\r}
+
+746
+00:54:45,322 --> 00:54:47,366
+你当然能行
+{\fscx75\fscy75\1c&HFF8000&}Of course you will.{\r}
+
+747
+00:55:14,833 --> 00:55:16,926
+极速飞梭大赛
+{\fscx75\fscy75\1c&HFF8000&}Podracers.{\r}
+
+748
+00:55:17,019 --> 00:55:18,852
+那可是绝对正确
+{\fscx75\fscy75\1c&HFF8000&}That's absolutely right.{\r}
+
+749
+00:55:18,978 --> 00:55:24,026
+很多来自银河系边缘的高手会聚到这里
+{\fscx75\fscy75\1c&HFF8000&}And a big turnout here from all corners of the outer rim territories.{\r}
+
+750
+00:55:24,152 --> 00:55:27,778
+我看见比赛选手移动到他们的起跑线
+{\fscx75\fscy75\1c&HFF8000&}I see the contestants are making their way out onto the starting grid.{\r}
+
+751
+00:55:29,864 --> 00:55:32,701
+我看见来自通德星系的本·奎迪纳斯
+{\fscx75\fscy75\1c&HFF8000&}Isee Ben Quadinaros from the Tund System.{\r}
+
+752
+00:55:38,371 --> 00:55:40,832
+还有两界冠军获得者博尔斯·威尔
+{\fscx75\fscy75\1c&HFF8000&}Two-time winner Boles Roor.{\r}
+
+753
+00:55:43,376 --> 00:55:45,171
+泽布巴！
+{\fscx75\fscy75\1c&HFF8000&}Sebulba!{\r}
+
+754
+00:55:55,596 --> 00:55:58,682
+在前一排，靠近起跑位置的是…
+{\fscx75\fscy75\1c&HFF8000&}And in the front row, nearside pole position...{\r}
+
+755
+00:55:58,807 --> 00:56:00,809
+马·霍力克！
+{\fscx75\fscy75\1c&HFF8000&}Ma whonic!{\r}
+
+756
+00:56:02,019 --> 00:56:04,062
+隆重介绍…
+{\fscx75\fscy75\1c&HFF8000&}A hearty hello...{\r}
+
+757
+00:56:04,188 --> 00:56:07,899
+克莱格·霍法斯特和他的KT9飞艇！
+{\fscx75\fscy75\1c&HFF8000&}to Clegg Holdfast and his Voltec KT9 Wasp!{\r}
+
+758
+00:56:10,902 --> 00:56:13,904
+再往后，是伟大的达德·波特…
+{\fscx75\fscy75\1c&HFF8000&}And back again, it's the mighty Dud Bolt...{\r}
+
+759
+00:56:14,030 --> 00:56:18,617
+和他那非凡的座驾，Vulptereen 327
+{\fscx75\fscy75\1c&HFF8000&}with that incredible racing machine, the Vulptereen 327.{\r}
+
+760
+00:56:21,954 --> 00:56:24,247
+有望成为今天的赢家是…
+{\fscx75\fscy75\1c&HFF8000&}And hoping for a big win today...{\r}
+
+761
+00:56:24,371 --> 00:56:28,793
+欧迪·曼德瑞尔，他曾取得过非凡的战绩
+{\fscx75\fscy75\1c&HFF8000&}Ody Mandrell, with his record-setting pit droid team.{\r}
+
+762
+00:56:33,674 --> 00:56:36,926
+还有最后参赛的年轻的安纳金·天行者…
+{\fscx75\fscy75\1c&HFF8000&}And a late entry, young Anakin Skywalker...{\r}
+
+763
+00:56:37,051 --> 00:56:38,345
+一个本地小子
+{\fscx75\fscy75\1c&HFF8000&}a local boy.{\r}
+
+764
+00:56:41,055 --> 00:56:43,308
+发令员正进入跑道
+{\fscx75\fscy75\1c&HFF8000&}I see the flags are moving out onto the track.{\r}
+
+765
+00:56:58,470 --> 00:57:00,495
+它放屁了！
+{\fscx75\fscy75\1c&HFF8000&}Pee yousa!{\r}
+
+766
+00:57:03,535 --> 00:57:05,078
+小心点
+{\fscx75\fscy75\1c&HFF8000&}Be safe.{\r}
+
+767
+00:57:05,203 --> 00:57:07,539
+我会赢的，妈妈，我答应你
+{\fscx75\fscy75\1c&HFF8000&}I will, Mom. I promise.{\r}
+
+768
+00:57:23,720 --> 00:57:26,391
+这次你死定了…
+{\fscx75\fscy75\1c&HFF8000&}You won't walk away from this one...{\r}
+
+769
+00:57:26,516 --> 00:57:28,768
+你这个小奴隶
+{\fscx75\fscy75\1c&HFF8000&}you slave scum.{\r}
+
+770
+00:57:28,893 --> 00:57:32,145
+你就等着瞧吧，烂泥球
+{\fscx75\fscy75\1c&HFF8000&}Don't count on it, slime ball.{\r}
+
+771
+00:57:32,270 --> 00:57:34,648
+你会死无葬身之地的！
+{\fscx75\fscy75\1c&HFF8000&}You're bantha fodder!{\r}
+
+772
+00:57:39,235 --> 00:57:41,447
+- 准备好了吗？ - 好了
+{\fscx75\fscy75\1c&HFF8000&}- You all set, Ani? - Yep.{\r}
+
+773
+00:57:41,572 --> 00:57:43,200
+好了，来
+{\fscx75\fscy75\1c&HFF8000&}Right.{\r}
+
+774
+00:57:47,326 --> 00:57:49,955
+记住，要集中精神
+{\fscx75\fscy75\1c&HFF8000&}Remember, concentrate on the moment.{\r}
+
+775
+00:57:50,080 --> 00:57:53,833
+凭感觉，别思考，利用本能的力量
+{\fscx75\fscy75\1c&HFF8000&}Feel, don't think. Use your instincts.{\r}
+
+776
+00:57:53,958 --> 00:57:55,582
+我会的
+{\fscx75\fscy75\1c&HFF8000&}I will.{\r}
+
+777
+00:57:55,709 --> 00:57:57,920
+原力与你同在
+{\fscx75\fscy75\1c&HFF8000&}May the Force be with you.{\r}
+
+778
+00:58:06,886 --> 00:58:08,890
+赫特人贾巴
+{\fscx75\fscy75\1c&HFF8000&}Jabba the Hutt.{\r}
+
+779
+00:58:19,104 --> 00:58:23,528
+欢迎大家
+{\fscx75\fscy75\1c&HFF8000&}Welcome.{\r}
+
+780
+00:58:24,487 --> 00:58:27,738
+我宣布比赛开始！
+{\fscx75\fscy75\1c&HFF8000&}Begin the race!{\r}
+
+781
+00:58:38,291 --> 00:58:41,461
+看起来他们已经各就各位了
+{\fscx75\fscy75\1c&HFF8000&}Hey, looks like they're clearing the grid.{\r}
+
+782
+00:58:42,671 --> 00:58:44,545
+- 他紧张吗？ - 他没事
+{\fscx75\fscy75\1c&HFF8000&}- Is he nervous? - He's fine.{\r}
+
+783
+00:58:46,171 --> 00:58:49,050
+你们绝地武士太鲁莽了，女王是不…
+{\fscx75\fscy75\1c&HFF8000&}You Jedi are far too reckless. The queen is not...{\r}
+
+784
+00:58:49,176 --> 00:58:52,052
+女王她信任我，年轻的女仆
+{\fscx75\fscy75\1c&HFF8000&}The queen trusts my judgment, young handmaiden.{\r}
+
+785
+00:58:52,177 --> 00:58:54,389
+你也该信任我
+{\fscx75\fscy75\1c&HFF8000&}You should too.{\r}
+
+786
+00:58:54,514 --> 00:58:56,599
+你太自以为是了
+{\fscx75\fscy75\1c&HFF8000&}You assume too much.{\r}
+
+787
+00:58:57,351 --> 00:58:59,770
+发动引擎
+{\fscx75\fscy75\1c&HFF8000&}Start your engines.{\r}
+
+788
+00:59:39,100 --> 00:59:42,435
+噢，肯定会撞得一塔糊涂，我看不下去了！
+{\fscx75\fscy75\1c&HFF8000&}Oh, dissen gonna be messy. Me no watch'n!{\r}
+
+789
+01:00:02,445 --> 01:00:03,736
+糟了！
+{\fscx75\fscy75\1c&HFF8000&}Oh, no!{\r}
+
+790
+01:00:09,364 --> 01:00:12,657
+不好，天行者的飞艇动不了啦
+{\fscx75\fscy75\1c&HFF8000&}Wait. Little Skywalker has stalled.{\r}
+
+791
+01:00:23,122 --> 01:00:27,330
+奎迪纳斯的引擎好像也出了问题
+{\fscx75\fscy75\1c&HFF8000&}It looks like Quadinaros is having engine trouble also.{\r}
+
+792
+01:00:28,915 --> 01:00:30,208
+加油啊，安
+{\fscx75\fscy75\1c&HFF8000&}Come on, Ani!{\r}
+
+793
+01:00:36,627 --> 01:00:38,212
+天行者飞起来了！
+{\fscx75\fscy75\1c&HFF8000&}And there goes Skywalker!{\r}
+
+794
+01:00:38,336 --> 01:00:39,795
+加油，安，加油！
+{\fscx75\fscy75\1c&HFF8000&}Go, Ani, go!{\r}
+
+795
+01:00:39,920 --> 01:00:42,045
+他得奋力而行才能追上前面的飞艇
+{\fscx75\fscy75\1c&HFF8000&}He will be hard-pressed to catch up with the leaders.{\r}
+
+796
+01:01:56,123 --> 01:01:59,041
+好像一帮塔斯肯袭击者驻扎在…
+{\fscx75\fscy75\1c&HFF8000&}Looks like a few Tusken Raiders are camped out...{\r}
+
+797
+01:01:59,166 --> 01:02:01,459
+峡谷拐弯角处
+{\fscx75\fscy75\1c&HFF8000&}on the canyon dune turn.{\r}
+
+798
+01:02:07,378 --> 01:02:10,404
+什么破东西！
+{\fscx75\fscy75\1c&HFF8000&}Doowat macroon!{\r}
+
+799
+01:02:12,673 --> 01:02:16,382
+奎迪纳斯的引擎给炸毁了
+{\fscx75\fscy75\1c&HFF8000&}There goes Quadinaros' power coupling.{\r}
+
+800
+01:02:18,123 --> 01:02:20,023
+{\fscx75\fscy75\1c&HFF8000&}Cheespa wata!{\r}
+
+801
+01:02:20,125 --> 01:02:21,717
+{\fscx75\fscy75\1c&HFF8000&}Ooh!{\r}
+
+802
+01:02:21,826 --> 01:02:25,728
+{\fscx75\fscy75\1c&HFF8000&}Chubba ni chees Sebulba! Paketa!{\r}
+
+803
+01:02:25,830 --> 01:02:27,525
+{\fscx75\fscy75\1c&HFF8000&}Kulkah meeka!{\r}
+
+804
+01:02:27,766 --> 01:02:32,260
+{\fscx75\fscy75\1c&HFF8000&}Ody Mandrell coona wa wunda dungo!{\r}
+
+805
+01:02:44,105 --> 01:02:46,313
+哦，不！
+{\fscx75\fscy75\1c&HFF8000&}Oh, no!{\r}
+
+806
+01:02:51,107 --> 01:02:52,984
+安纳金，师父在哪儿？
+{\fscx75\fscy75\1c&HFF8000&}Where is Master Anakin?{\r}
+
+807
+01:02:56,234 --> 01:02:58,444
+看，他来了
+{\fscx75\fscy75\1c&HFF8000&}Look. Here he comes.{\r}
+
+808
+01:03:01,320 --> 01:03:03,654
+天行者飞越了主赛场
+{\fscx75\fscy75\1c&HFF8000&}It looks like Skywalker is moving up in the field.{\r}
+
+809
+01:03:04,530 --> 01:03:05,948
+{\fscx75\fscy75\1c&HFF8000&}Yay! Yippee!{\r}
+
+810
+01:03:13,451 --> 01:03:17,036
+让他再跑两圈吧？天哪！
+{\fscx75\fscy75\1c&HFF8000&}He has to complete two more circuits? Oh, dear.{\r}
+
+811
+01:04:14,305 --> 01:04:17,206
+{\fscx75\fscy75\1c&HFF8000&}Arrr!{\r}
+
+812
+01:04:24,609 --> 01:04:26,486
+天行者引擎失控了
+{\fscx75\fscy75\1c&HFF8000&}Skywalker's spinning out of control!{\r}
+
+813
+01:05:24,387 --> 01:05:28,347
+不管你来自哪个星球，这一摔一定也够受的！
+{\fscx75\fscy75\1c&HFF8000&}I don't care what universe you're from. That's gotta hurt!{\r}
+
+814
+01:05:35,393 --> 01:05:37,102
+他来了！
+{\fscx75\fscy75\1c&HFF8000&}Here he comes!{\r}
+
+815
+01:05:37,228 --> 01:05:40,354
+在第三也是最后一圈的开始，萨布巴领先…
+{\fscx75\fscy75\1c&HFF8000&}At the start of the third and final lap, Sebulba's in the lead...{\r}
+
+816
+01:05:40,478 --> 01:05:42,979
+天行者紧随其后！
+{\fscx75\fscy75\1c&HFF8000&}followed closely by Skywalker!{\r}
+
+817
+01:05:43,104 --> 01:05:43,980
+加油，安！
+{\fscx75\fscy75\1c&HFF8000&}Go, Ani!{\r}
+
+818
+01:06:10,993 --> 01:06:13,327
+天行者要撞到服务站了！
+{\fscx75\fscy75\1c&HFF8000&}Skywalker's been forced onto the service ramp!{\r}
+
+819
+01:06:30,475 --> 01:06:32,272
+Huh？
+
+820
+01:06:35,316 --> 01:06:36,687
+是天行者！
+{\fscx75\fscy75\1c&HFF8000&}It's Skywalker!{\r}
+
+821
+01:06:37,644 --> 01:06:38,973
+萨布巴！
+{\fscx75\fscy75\1c&HFF8000&}Sebulba!{\r}
+
+822
+01:06:39,097 --> 01:06:43,336
+太精彩了！真精准的控制，他又飞回跑道上了！
+{\fscx75\fscy75\1c&HFF8000&}Amazing! A quick control thrust, and he's back on course!{\r}
+
+823
+01:06:43,460 --> 01:06:45,204
+他撞死了吗？
+{\fscx75\fscy75\1c&HFF8000&}Did he crash-ed?{\r}
+
+824
+01:07:26,006 --> 01:07:29,206
+天行者有麻烦了！泽布巴领先！
+{\fscx75\fscy75\1c&HFF8000&}Skywalker's in trouble! Sebulba takes the lead!{\r}
+
+825
+01:08:22,017 --> 01:08:23,678
+- 他在追赶泽布巴！ - 看来要追上了！
+{\fscx75\fscy75\1c&HFF8000&}- He's catching Sebulba! - Inkabunga!{\r}
+
+826
+01:08:24,801 --> 01:08:27,293
+当心，安，当心，安！
+{\fscx75\fscy75\1c&HFF8000&}Careful, Ani. Careful, Ani!{\r}
+
+827
+01:08:28,893 --> 01:08:30,986
+Wha-- Chuba da noya！
+
+828
+01:08:57,543 --> 01:08:59,912
+这个人类的小孩真是疯了！
+{\fscx75\fscy75\1c&HFF8000&}That little human being is out of his mind!{\r}
+
+829
+01:09:01,032 --> 01:09:02,194
+- 他们并排飞行！ - 不相上下！
+{\fscx75\fscy75\1c&HFF8000&}- They're side by side! - Bangu du bangu!{\r}
+
+830
+01:09:20,778 --> 01:09:22,678
+{\fscx75\fscy75\1c&HFF8000&}Aaah!{\r}
+
+831
+01:09:23,915 --> 01:09:25,815
+{\fscx75\fscy75\1c&HFF8000&}Poo doo!{\r}
+
+832
+01:09:31,222 --> 01:09:33,122
+{\fscx75\fscy75\1c&HFF8000&}- Yippee! - Yay!{\r}
+
+833
+01:09:33,224 --> 01:09:35,818
+{\fscx75\fscy75\1c&HFF8000&}Ya eeka buta!{\r}
+
+834
+01:09:37,660 --> 01:09:39,370
+真是难以置信
+{\fscx75\fscy75\1c&HFF8000&}I can't believe it.{\r}
+
+835
+01:09:39,495 --> 01:09:41,414
+观众都沸腾了！
+{\fscx75\fscy75\1c&HFF8000&}The crowds are going nuts!{\r}
+
+836
+01:09:50,341 --> 01:09:52,385
+好，安！
+{\fscx75\fscy75\1c&HFF8000&}Yay, Ani!{\r}
+
+837
+01:09:53,720 --> 01:09:56,765
+妈妈，我成功了！
+{\fscx75\fscy75\1c&HFF8000&}Mom, I did it! Yay!{\r}
+
+838
+01:10:07,277 --> 01:10:09,154
+你真棒，安！
+{\fscx75\fscy75\1c&HFF8000&}Good going, Ani!{\r}
+
+839
+01:10:13,534 --> 01:10:15,495
+你救了我们，安
+{\fscx75\fscy75\1c&HFF8000&}We owe you everything, Ani.{\r}
+
+840
+01:10:18,123 --> 01:10:20,250
+真是太好了，安
+{\fscx75\fscy75\1c&HFF8000&}It's so wonderful, Ani.{\r}
+
+841
+01:10:20,375 --> 01:10:23,087
+你给我们奴隶带来了希望
+{\fscx75\fscy75\1c&HFF8000&}You have brought hope to those who have none.{\r}
+
+842
+01:10:23,212 --> 01:10:25,423
+我真为你感到骄傲
+{\fscx75\fscy75\1c&HFF8000&}I'm so very proud of you.{\r}
+
+843
+01:10:29,180 --> 01:10:31,580
+库巴，不
+{\fscx75\fscy75\1c&HFF8000&}Oy chuba no.{\r}
+
+844
+01:10:35,892 --> 01:10:37,769
+你！
+{\fscx75\fscy75\1c&HFF8000&}You!{\r}
+
+845
+01:10:37,895 --> 01:10:40,189
+你骗了我
+{\fscx75\fscy75\1c&HFF8000&}You swindled me.{\r}
+
+846
+01:10:40,314 --> 01:10:44,110
+你早知道那孩子能赢，你肯定知道
+{\fscx75\fscy75\1c&HFF8000&}You knew the boy was going to win. Somehow you knew it.{\r}
+
+847
+01:10:44,235 --> 01:10:46,112
+我现在什么都没有了
+{\fscx75\fscy75\1c&HFF8000&}I lost everything.{\r}
+
+848
+01:10:46,238 --> 01:10:49,783
+只要你赌博，我的朋友，你就早晚会输
+{\fscx75\fscy75\1c&HFF8000&}Whenever you gamble, my friend, eventually you lose.{\r}
+
+849
+01:10:49,909 --> 01:10:52,370
+把零件送到飞船那儿去
+{\fscx75\fscy75\1c&HFF8000&}Bring the parts to the main hangar.{\r}
+
+850
+01:10:52,495 --> 01:10:55,582
+我等一会儿到店里去带走那孩子
+{\fscx75\fscy75\1c&HFF8000&}I'll come by your shop later on so you can release the boy.{\r}
+
+851
+01:10:55,707 --> 01:10:59,002
+你不能把他带走，这是一个不公平赌博
+{\fscx75\fscy75\1c&HFF8000&}You can't have him. It wasn't a fair bet.{\r}
+
+852
+01:11:01,756 --> 01:11:05,218
+你想去赫特人那儿去讲理吗？
+{\fscx75\fscy75\1c&HFF8000&}Would you like to discuss it with the Hutts?{\r}
+
+853
+01:11:05,343 --> 01:11:07,845
+我想他们会处理此事的
+{\fscx75\fscy75\1c&HFF8000&}I'm sure they can settle this.{\r}
+
+854
+01:11:09,347 --> 01:11:11,224
+带他走吧
+{\fscx75\fscy75\1c&HFF8000&}Take him.{\r}
+
+855
+01:11:18,190 --> 01:11:19,233
+你好！
+{\fscx75\fscy75\1c&HFF8000&}Hidoe!{\r}
+
+856
+01:11:20,860 --> 01:11:22,946
+好了，我们拿到所需要的零件了
+{\fscx75\fscy75\1c&HFF8000&}Well, we have all the essential parts we need.{\r}
+
+857
+01:11:23,071 --> 01:11:24,114
+马上回来
+{\fscx75\fscy75\1c&HFF8000&}I'm going back.{\r}
+
+858
+01:11:24,239 --> 01:11:26,325
+还有一些未完成的事情 我不会待太久
+{\fscx75\fscy75\1c&HFF8000&}Some unfinished business. I won't be long.{\r}
+
+859
+01:11:26,450 --> 01:11:29,912
+我怎么感觉到我们又要带上一个可怜的人了？
+{\fscx75\fscy75\1c&HFF8000&}Why do I sense we've picked up another pathetic life-form?{\r}
+
+860
+01:11:30,705 --> 01:11:33,834
+是那个帮我们弄到零件的孩子
+{\fscx75\fscy75\1c&HFF8000&}It's the boy who's responsible for getting us these parts.{\r}
+
+861
+01:11:33,959 --> 01:11:35,836
+快把超光影速引擎装上吧
+{\fscx75\fscy75\1c&HFF8000&}Get this hyperdrive generator installed.{\r}
+
+862
+01:11:35,961 --> 01:11:38,506
+是，师父，不要多长时间的
+{\fscx75\fscy75\1c&HFF8000&}Yes, Master. That shouldn't take long.{\r}
+
+863
+01:11:38,631 --> 01:11:40,800
+来吧
+{\fscx75\fscy75\1c&HFF8000&}Come on. Hup!{\r}
+
+864
+01:11:45,429 --> 01:11:47,307
+这些是你的
+{\fscx75\fscy75\1c&HFF8000&}Hey. These are yours.{\r}
+
+865
+01:11:48,292 --> 01:11:50,192
+好！
+{\fscx75\fscy75\1c&HFF8000&}Yes!{\r}
+
+866
+01:11:51,561 --> 01:11:54,315
+妈妈，我们把飞艇卖了！看看咱们有多少钱！
+{\fscx75\fscy75\1c&HFF8000&}Mom, we sold the pod! Look at all the money we have!{\r}
+
+867
+01:11:54,440 --> 01:11:56,818
+天哪！那真是太好了，安
+{\fscx75\fscy75\1c&HFF8000&}My goodness! But that's so wonderful, Ani.{\r}
+
+868
+01:11:56,943 --> 01:11:59,904
+- 而且他成自由之身了 - 什么？
+{\fscx75\fscy75\1c&HFF8000&}- And he has been freed. - What?{\r}
+
+869
+01:12:00,030 --> 01:12:01,823
+你不再是奴隶了
+{\fscx75\fscy75\1c&HFF8000&}You're no longer a slave.{\r}
+
+870
+01:12:03,742 --> 01:12:05,661
+你听到了吗？
+{\fscx75\fscy75\1c&HFF8000&}Did you hear that?{\r}
+
+871
+01:12:06,454 --> 01:12:08,915
+现在你能去实现你自己的梦想了，安
+{\fscx75\fscy75\1c&HFF8000&}Now you can make your dreams come true, Ani.{\r}
+
+872
+01:12:09,791 --> 01:12:11,710
+你自由了
+{\fscx75\fscy75\1c&HFF8000&}You are free.{\r}
+
+873
+01:12:15,297 --> 01:12:16,756
+你把他带走吗？
+{\fscx75\fscy75\1c&HFF8000&}Will you take him with you?{\r}
+
+874
+01:12:16,882 --> 01:12:18,508
+他会成会绝地武士吗？
+{\fscx75\fscy75\1c&HFF8000&}Is he to become a Jedi?{\r}
+
+875
+01:12:18,634 --> 01:12:21,178
+是的，我们相会并非是偶然的
+{\fscx75\fscy75\1c&HFF8000&}Yes. Our meeting was not a coincidence.{\r}
+
+876
+01:12:22,012 --> 01:12:23,681
+什么事都不是偶然发生的
+{\fscx75\fscy75\1c&HFF8000&}Nothing happens by accident.{\r}
+
+877
+01:12:23,806 --> 01:12:27,352
+你是说我可以跟你坐飞船离开这里吗？
+{\fscx75\fscy75\1c&HFF8000&}You mean I get to come with you in your starship?{\r}
+
+878
+01:12:27,477 --> 01:12:28,895
+安纳金…
+{\fscx75\fscy75\1c&HFF8000&}Anakin...{\r}
+
+879
+01:12:30,814 --> 01:12:34,110
+要成为绝地武士并不是容易的事
+{\fscx75\fscy75\1c&HFF8000&}training to become a Jedi is not an easy challenge...{\r}
+
+880
+01:12:34,235 --> 01:12:37,113
+绝地武士的生活是十分艰难的
+{\fscx75\fscy75\1c&HFF8000&}and even if you succeed, it's a hard life.{\r}
+
+881
+01:12:37,238 --> 01:12:40,409
+但是我想去，我一直梦想成为绝地武士
+{\fscx75\fscy75\1c&HFF8000&}But I wanna go. It's what I've always dreamed of doing.{\r}
+
+882
+01:12:41,243 --> 01:12:43,371
+我能去吗？
+{\fscx75\fscy75\1c&HFF8000&}Can I go, Mom?{\r}
+
+883
+01:12:44,330 --> 01:12:45,999
+安纳金…
+{\fscx75\fscy75\1c&HFF8000&}Anakin...{\r}
+
+884
+01:12:46,124 --> 01:12:49,044
+生活的道路已经在你脚下了
+{\fscx75\fscy75\1c&HFF8000&}this path has been placed before you.{\r}
+
+885
+01:12:49,169 --> 01:12:51,629
+应该由你自己决定
+{\fscx75\fscy75\1c&HFF8000&}The choice is yours alone.{\r}
+
+886
+01:12:55,300 --> 01:12:57,177
+我要去
+{\fscx75\fscy75\1c&HFF8000&}I wanna do it.{\r}
+
+887
+01:12:59,764 --> 01:13:01,975
+那就收拾好东西，我们的时间不多了
+{\fscx75\fscy75\1c&HFF8000&}Then pack your things. We haven't much time.{\r}
+
+888
+01:13:02,000 --> 01:13:03,317
+太好了！
+{\fscx75\fscy75\1c&HFF8000&}Yippee!{\r}
+
+889
+01:13:08,607 --> 01:13:10,192
+那妈妈呢？
+{\fscx75\fscy75\1c&HFF8000&}What about Mom?{\r}
+
+890
+01:13:13,321 --> 01:13:15,198
+她也自由了吗？
+{\fscx75\fscy75\1c&HFF8000&}Is she free too?{\r}
+
+891
+01:13:15,323 --> 01:13:18,827
+我也想解救你妈妈，可瓦图不同意
+{\fscx75\fscy75\1c&HFF8000&}I tried to free your mother, Ani, but Watto wouldn't have it.{\r}
+
+892
+01:13:19,870 --> 01:13:21,831
+你也和我们一起走吧，妈妈？
+{\fscx75\fscy75\1c&HFF8000&}You're coming with us, aren't you, Mom?{\r}
+
+893
+01:13:29,839 --> 01:13:33,176
+孩子，我只能留下，这是我的归宿
+{\fscx75\fscy75\1c&HFF8000&}Son, my place is here. My future is here.{\r}
+
+894
+01:13:33,302 --> 01:13:35,679
+是时候让你走了
+{\fscx75\fscy75\1c&HFF8000&}It is time for you to let go.{\r}
+
+895
+01:13:36,806 --> 01:13:38,933
+我不想就这么离开你
+{\fscx75\fscy75\1c&HFF8000&}I don't want things to change.{\r}
+
+896
+01:13:39,058 --> 01:13:41,436
+可这是命中注定的
+{\fscx75\fscy75\1c&HFF8000&}But you can't stop the change...{\r}
+
+897
+01:13:41,561 --> 01:13:44,648
+你改变不了就像太阳要落山一样
+{\fscx75\fscy75\1c&HFF8000&}any more than you can stop the suns from setting.{\r}
+
+898
+01:13:45,733 --> 01:13:47,652
+我爱你
+{\fscx75\fscy75\1c&HFF8000&}I love you.{\r}
+
+899
+01:13:53,325 --> 01:13:55,202
+好了，快走吧
+{\fscx75\fscy75\1c&HFF8000&}Now hurry.{\r}
+
+900
+01:14:00,750 --> 01:14:02,126
+谢谢你
+{\fscx75\fscy75\1c&HFF8000&}Thank you.{\r}
+
+901
+01:14:02,251 --> 01:14:05,171
+我会照顾他的，你放心吧
+{\fscx75\fscy75\1c&HFF8000&}I'll watch after him. You have my word .{\r}
+
+902
+01:14:07,424 --> 01:14:08,925
+你不会有事吧？
+{\fscx75\fscy75\1c&HFF8000&}Will you be all right?{\r}
+
+903
+01:14:10,385 --> 01:14:11,845
+不会
+{\fscx75\fscy75\1c&HFF8000&}Yeah.{\r}
+
+904
+01:14:16,893 --> 01:14:18,478
+你好，安纳金主人
+{\fscx75\fscy75\1c&HFF8000&}Hello, Master Anakin.{\r}
+
+905
+01:14:18,603 --> 01:14:20,689
+C-3PO，我自由了…
+{\fscx75\fscy75\1c&HFF8000&}Well, 3PO, I've been freed...{\r}
+
+906
+01:14:20,814 --> 01:14:23,192
+我要坐飞船离开这儿了
+{\fscx75\fscy75\1c&HFF8000&}and I'm going away in a starship.{\r}
+
+907
+01:14:23,317 --> 01:14:26,237
+安纳金主人，你造了我，我祝你平安
+{\fscx75\fscy75\1c&HFF8000&}Master Anakin, you are my maker and I wish you well.{\r}
+
+908
+01:14:26,362 --> 01:14:30,575
+不过我真希望你能给我装个外壳
+{\fscx75\fscy75\1c&HFF8000&}However, I should prefer it if I were a little more completed.{\r}
+
+909
+01:14:30,701 --> 01:14:33,829
+对不起，我没能把你做完，3PO…
+{\fscx75\fscy75\1c&HFF8000&}I'm sorry I wasn't able to finish you, 3PO...{\r}
+
+910
+01:14:33,954 --> 01:14:35,998
+本该给你装外壳的
+{\fscx75\fscy75\1c&HFF8000&}give you coverings and all.{\r}
+
+911
+01:14:36,124 --> 01:14:37,749
+我会想你的
+{\fscx75\fscy75\1c&HFF8000&}I'm gonna miss working on you.{\r}
+
+912
+01:14:37,875 --> 01:14:40,336
+你是个了不起的朋友
+{\fscx75\fscy75\1c&HFF8000&}You've been a great pal.{\r}
+
+913
+01:14:40,461 --> 01:14:43,089
+我会告诉妈妈别把你卖掉
+{\fscx75\fscy75\1c&HFF8000&}I'll make sure Mom doesn't sell you or anything.{\r}
+
+914
+01:14:43,882 --> 01:14:44,924
+卖掉我？
+{\fscx75\fscy75\1c&HFF8000&}Sell me?{\r}
+
+915
+01:14:45,050 --> 01:14:46,676
+再见
+{\fscx75\fscy75\1c&HFF8000&}Bye.{\r}
+
+916
+01:14:46,802 --> 01:14:48,178
+天哪
+{\fscx75\fscy75\1c&HFF8000&}Oh, my.{\r}
+
+917
+01:15:12,831 --> 01:15:15,042
+我不能走，妈妈，我真的不能
+{\fscx75\fscy75\1c&HFF8000&}I can't do it, Mom. I just can't do it.{\r}
+
+918
+01:15:15,292 --> 01:15:17,954
+安
+{\fscx75\fscy75\1c&HFF8000&}Ani.{\r}
+
+919
+01:15:19,338 --> 01:15:21,341
+我还能见到你吗？
+{\fscx75\fscy75\1c&HFF8000&}Will I ever see you again?{\r}
+
+920
+01:15:22,801 --> 01:15:25,679
+你的内心怎么说的？
+{\fscx75\fscy75\1c&HFF8000&}What does your heart tell you?{\r}
+
+921
+01:15:27,014 --> 01:15:28,933
+但愿能
+{\fscx75\fscy75\1c&HFF8000&}I hope so.{\r}
+
+922
+01:15:29,684 --> 01:15:31,561
+能
+{\fscx75\fscy75\1c&HFF8000&}Yes.{\r}
+
+923
+01:15:31,686 --> 01:15:33,271
+我想能
+{\fscx75\fscy75\1c&HFF8000&}I guess.{\r}
+
+924
+01:15:34,314 --> 01:15:36,900
+那我们就会再见面的
+{\fscx75\fscy75\1c&HFF8000&}Then we will see each other again.{\r}
+
+925
+01:15:39,612 --> 01:15:42,407
+我会回来解救你的，妈妈
+{\fscx75\fscy75\1c&HFF8000&}I will come back and free you, Mom.{\r}
+
+926
+01:15:42,532 --> 01:15:44,242
+我保证
+{\fscx75\fscy75\1c&HFF8000&}I promise.{\r}
+
+927
+01:15:52,501 --> 01:15:55,463
+好了，勇敢些…
+{\fscx75\fscy75\1c&HFF8000&}Now, be brave...{\r}
+
+928
+01:15:56,255 --> 01:15:58,258
+别回头看我
+{\fscx75\fscy75\1c&HFF8000&}and don't look back.{\r}
+
+929
+01:15:59,050 --> 01:16:00,927
+不要回头看我
+{\fscx75\fscy75\1c&HFF8000&}Don't look back.{\r}
+
+930
+01:16:45,520 --> 01:16:46,604
+奎刚先生，等等！
+{\fscx75\fscy75\1c&HFF8000&}Qui-Gon, sir, wait!{\r}
+
+931
+01:16:46,729 --> 01:16:48,482
+- 我累了！ - 安纳金！趴下！
+{\fscx75\fscy75\1c&HFF8000&}- I'm tired! - Anakin! Drop!{\r}
+
+932
+01:16:50,943 --> 01:16:51,902
+快跑！
+{\fscx75\fscy75\1c&HFF8000&}Go!{\r}
+
+933
+01:16:52,945 --> 01:16:54,864
+告诉他们起飞！
+{\fscx75\fscy75\1c&HFF8000&}Tell them to take off!{\r}
+
+934
+01:17:07,461 --> 01:17:08,921
+奎刚有麻烦了
+{\fscx75\fscy75\1c&HFF8000&}Qui-Gon's in trouble.{\r}
+
+935
+01:17:10,214 --> 01:17:11,591
+起飞
+{\fscx75\fscy75\1c&HFF8000&}Take off.{\r}
+
+936
+01:17:12,300 --> 01:17:14,052
+在那儿，飞低点
+{\fscx75\fscy75\1c&HFF8000&}Over there. Fly low.{\r}
+
+937
+01:17:35,659 --> 01:17:38,663
+- 你没受伤吧？ - 好像没有
+{\fscx75\fscy75\1c&HFF8000&}- Are you all right? - I think so.{\r}
+
+938
+01:17:38,788 --> 01:17:40,331
+是什么人？
+{\fscx75\fscy75\1c&HFF8000&}What was it?{\r}
+
+939
+01:17:40,457 --> 01:17:42,209
+还不清楚…
+{\fscx75\fscy75\1c&HFF8000&}I'm not sure...{\r}
+
+940
+01:17:42,334 --> 01:17:44,878
+不过他精通绝地技艺
+{\fscx75\fscy75\1c&HFF8000&}but it was well-trained in the Jedi arts.{\r}
+
+941
+01:17:45,129 --> 01:17:47,506
+好像是来抓女王的
+{\fscx75\fscy75\1c&HFF8000&}My guess is it was after the queen.{\r}
+
+942
+01:17:47,632 --> 01:17:50,134
+那我们该怎么办呢？
+{\fscx75\fscy75\1c&HFF8000&}What are we gonna do about it?{\r}
+
+943
+01:17:52,095 --> 01:17:53,722
+我们得耐心点
+{\fscx75\fscy75\1c&HFF8000&}We shall be patient.{\r}
+
+944
+01:17:53,847 --> 01:17:54,973
+安尼金·天行者…
+{\fscx75\fscy75\1c&HFF8000&}Anakin Skywalker...{\r}
+
+945
+01:17:55,099 --> 01:17:56,892
+认识一下欧比旺·肯诺比
+{\fscx75\fscy75\1c&HFF8000&}meet Obi-Wan Kenobi.{\r}
+
+946
+01:17:57,121 --> 01:17:59,300
+你好
+{\fscx75\fscy75\1c&HFF8000&}Hi.{\r}
+
+947
+01:17:59,312 --> 01:18:01,856
+你也是绝地武士？很高兴认识你
+{\fscx75\fscy75\1c&HFF8000&}You're a Jedi too? Pleased to meet you.{\r}
+
+948
+01:18:10,824 --> 01:18:13,369
+你们的女王不见了，你们的人民在挨饿…
+{\fscx75\fscy75\1c&HFF8000&}Your queen is lost, your people are starving...{\r}
+
+949
+01:18:13,494 --> 01:18:15,496
+而你，执政官，你会死…
+{\fscx75\fscy75\1c&HFF8000&}and you, Governor, are going to die...{\r}
+
+950
+01:18:15,621 --> 01:18:17,749
+在你们的人民之前，我害怕是
+{\fscx75\fscy75\1c&HFF8000&}much sooner than your people, I'm afraid.{\r}
+
+951
+01:18:17,874 --> 01:18:20,377
+你们入侵不会得逞
+{\fscx75\fscy75\1c&HFF8000&}This invasion will gain you nothing.{\r}
+
+952
+01:18:20,502 --> 01:18:23,506
+我们是民主星球，一切由人民决定
+{\fscx75\fscy75\1c&HFF8000&}We're a democracy. The people have decided.{\r}
+
+953
+01:18:23,631 --> 01:18:25,508
+把他带走
+{\fscx75\fscy75\1c&HFF8000&}Take him away.{\r}
+
+954
+01:18:28,970 --> 01:18:31,431
+我的军队正在开始搜索沼泽里…
+{\fscx75\fscy75\1c&HFF8000&}My troops are in position to begin searching the swamps...{\r}
+
+955
+01:18:31,557 --> 01:18:34,101
+那些传说中的水下村庄
+{\fscx75\fscy75\1c&HFF8000&}for these rumoured underwater villages.{\r}
+
+956
+01:18:34,226 --> 01:18:36,854
+他们藏不了多久了
+{\fscx75\fscy75\1c&HFF8000&}They will not stay hidden for long.{\r}
+
+957
+01:18:47,908 --> 01:18:50,619
+我们的人民死伤惨重
+{\fscx75\fscy75\1c&HFF8000&}The death toll is catastrophic.{\r}
+
+958
+01:18:50,744 --> 01:18:53,373
+我们还是让步吧
+{\fscx75\fscy75\1c&HFF8000&}We must bow to their wishes.{\r}
+
+959
+01:18:53,498 --> 01:18:55,709
+你们必须跟我取得联系
+{\fscx75\fscy75\1c&HFF8000&}You must contact me.{\r}
+
+960
+01:19:09,850 --> 01:19:11,769
+你怎么啦？
+{\fscx75\fscy75\1c&HFF8000&}You all right?{\r}
+
+961
+01:19:12,812 --> 01:19:14,731
+我特别冷
+{\fscx75\fscy75\1c&HFF8000&}It's very cold.{\r}
+
+962
+01:19:22,697 --> 01:19:25,450
+你来自一个温暖的星球，安
+{\fscx75\fscy75\1c&HFF8000&}You come from a warm planet, Ani.{\r}
+
+963
+01:19:25,576 --> 01:19:27,953
+对于我来说太温暖了
+{\fscx75\fscy75\1c&HFF8000&}A little too warm for my taste.{\r}
+
+964
+01:19:28,078 --> 01:19:30,331
+太空是冷的
+{\fscx75\fscy75\1c&HFF8000&}Space is cold.{\r}
+
+965
+01:19:30,456 --> 01:19:32,584
+你不太高兴
+{\fscx75\fscy75\1c&HFF8000&}You seem sad.{\r}
+
+966
+01:19:33,752 --> 01:19:36,004
+女王很着急
+{\fscx75\fscy75\1c&HFF8000&}The queen is worried.{\r}
+
+967
+01:19:36,130 --> 01:19:38,549
+.她的人民正面临死亡的威胁
+{\fscx75\fscy75\1c&HFF8000&}Her people are suffering, dying.{\r}
+
+968
+01:19:38,674 --> 01:19:42,178
+她必须说服国会出面干涉
+{\fscx75\fscy75\1c&HFF8000&}She must convince the senate to intervene or...{\r}
+
+969
+01:19:43,638 --> 01:19:45,933
+还不知道能不能成功
+{\fscx75\fscy75\1c&HFF8000&}I'm not sure what'll happen.{\r}
+
+970
+01:19:47,393 --> 01:19:49,437
+这是我为你做的…
+{\fscx75\fscy75\1c&HFF8000&}I made this for you...{\r}
+
+971
+01:19:50,938 --> 01:19:52,816
+希望你能记住我
+{\fscx75\fscy75\1c&HFF8000&}so you'd remember me.{\r}
+
+972
+01:19:53,525 --> 01:19:56,193
+是我用甲板木刻的
+{\fscx75\fscy75\1c&HFF8000&}I carved it out of a japor snippet.{\r}
+
+973
+01:19:56,319 --> 01:19:59,155
+它会给你带来好运的
+{\fscx75\fscy75\1c&HFF8000&}It'll bring you good fortune.{\r}
+
+974
+01:19:59,280 --> 01:20:01,158
+真漂亮
+{\fscx75\fscy75\1c&HFF8000&}It's beautiful.{\r}
+
+975
+01:20:01,283 --> 01:20:03,660
+不过我不带着它也会记得你
+{\fscx75\fscy75\1c&HFF8000&}But I don't need this to remember you by.{\r}
+
+976
+01:20:07,331 --> 01:20:10,710
+到了首府后会发生很多变化
+{\fscx75\fscy75\1c&HFF8000&}Many things will change when we reach the capital, Ani...{\r}
+
+977
+01:20:10,835 --> 01:20:13,380
+但我对你的关心不会变
+{\fscx75\fscy75\1c&HFF8000&}but my caring for you will remain.{\r}
+
+978
+01:20:16,092 --> 01:20:19,220
+我也会关心你的，只是我…
+{\fscx75\fscy75\1c&HFF8000&}I care for you, too, only l...{\r}
+
+979
+01:20:19,345 --> 01:20:21,515
+你想你妈妈？
+{\fscx75\fscy75\1c&HFF8000&}Miss your mother.{\r}
+
+980
+01:20:39,993 --> 01:20:44,165
+克罗肯特整个星球，就是一座大城市
+{\fscx75\fscy75\1c&HFF8000&}Coruscant. The entire planet is one big city.{\r}
+
+981
+01:20:44,290 --> 01:20:46,042
+那是首相飞船
+{\fscx75\fscy75\1c&HFF8000&}There's Chancellor Valorum's shuttle.{\r}
+
+982
+01:20:46,167 --> 01:20:49,421
+看那边，帕尔帕庭议员正等着我们
+{\fscx75\fscy75\1c&HFF8000&}And look over there. Senator Palpatine is waiting for us.{\r}
+
+983
+01:21:18,913 --> 01:21:21,958
+看到你安然无恙我就放心了，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}It is a great gift to see you alive, Your Majesty.{\r}
+
+984
+01:21:22,083 --> 01:21:25,045
+通讯中断了，我们都很为你担心，
+{\fscx75\fscy75\1c&HFF8000&}With the communications break down, we've been very concerned.{\r}
+
+985
+01:21:25,170 --> 01:21:27,631
+我很想听你带回的消息
+{\fscx75\fscy75\1c&HFF8000&}I'm anxious to hear your report on the situation.{\r}
+
+986
+01:21:27,756 --> 01:21:30,384
+我来介绍：这位是首相维罗伦先生
+{\fscx75\fscy75\1c&HFF8000&}May I present Supreme Chancellor Valorum.{\r}
+
+987
+01:21:30,509 --> 01:21:32,470
+欢迎你，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}Welcome, Your Highness.{\r}
+
+988
+01:21:32,595 --> 01:21:34,639
+很荣幸我终于见到你了
+{\fscx75\fscy75\1c&HFF8000&}It's an honour to finally meet you in person.{\r}
+
+989
+01:21:34,764 --> 01:21:36,224
+谢谢你，首相
+{\fscx75\fscy75\1c&HFF8000&}Thank you, Supreme Chancellor.{\r}
+
+990
+01:21:36,349 --> 01:21:39,852
+大家对目前的局势都感到忧心忡忡
+{\fscx75\fscy75\1c&HFF8000&}I must relay to you how distressed everyone is over the current situation.{\r}
+
+991
+01:21:39,978 --> 01:21:43,398
+我召集了国会特别会议听取你的意见
+{\fscx75\fscy75\1c&HFF8000&}I've called for a special session of the senate to hear your position.{\r}
+
+992
+01:21:44,566 --> 01:21:47,653
+让你多费心了，首相先生
+{\fscx75\fscy75\1c&HFF8000&}I'm grateful for your concern, Chancellor.{\r}
+
+993
+01:21:47,778 --> 01:21:49,656
+议程中有个问题…
+{\fscx75\fscy75\1c&HFF8000&}There is a question of procedure...{\r}
+
+994
+01:21:49,781 --> 01:21:52,284
+不过我还是相信能够解决的
+{\fscx75\fscy75\1c&HFF8000&}but I'm confident we can overcome it.{\r}
+
+995
+01:21:53,118 --> 01:21:55,287
+我现在得马上去绝地长老院
+{\fscx75\fscy75\1c&HFF8000&}I must speak with the Jedi Council immediately.{\r}
+
+996
+01:21:55,412 --> 01:21:58,207
+现在的情况变得越来越复杂了
+{\fscx75\fscy75\1c&HFF8000&}The situation has become much more complicated.{\r}
+
+997
+01:22:03,964 --> 01:22:05,883
+安，走吧
+{\fscx75\fscy75\1c&HFF8000&}Ani, come on.{\r}
+
+998
+01:22:17,103 --> 01:22:19,815
+女王心地不错，
+{\fscx75\fscy75\1c&HFF8000&}Da queen's a bein grossly nice, mesa tinks.{\r}
+
+999
+01:22:21,149 --> 01:22:23,110
+真热闹
+{\fscx75\fscy75\1c&HFF8000&}Pitty hot.{\r}
+
+1000
+01:22:51,016 --> 01:22:54,145
+根本没有正义可言，只有政治
+{\fscx75\fscy75\1c&HFF8000&}There is no civility, only politics.{\r}
+
+1001
+01:22:55,438 --> 01:22:59,318
+共和国已经不是从前的共和国了
+{\fscx75\fscy75\1c&HFF8000&}The Republic is not what it once was.{\r}
+
+1002
+01:22:59,443 --> 01:23:04,699
+国会中尽是那些贪得无厌的议员
+{\fscx75\fscy75\1c&HFF8000&}The senate is full of greedy, squabbling delegates.{\r}
+
+1003
+01:23:05,492 --> 01:23:08,912
+他们根本不关心人民的利益
+{\fscx75\fscy75\1c&HFF8000&}There is no interest in the common good.{\r}
+
+1004
+01:23:09,788 --> 01:23:11,415
+老实说女王陛下
+{\fscx75\fscy75\1c&HFF8000&}I must be frank, Your Majesty.{\r}
+
+1005
+01:23:11,540 --> 01:23:14,252
+国会很难阻止贸易联盟的入侵行动
+{\fscx75\fscy75\1c&HFF8000&}There is little chance the senate will act on the invasion.{\r}
+
+1006
+01:23:14,377 --> 01:23:17,088
+维罗伦首相认为还有希望
+{\fscx75\fscy75\1c&HFF8000&}Chancellor Valorum seems to think there is hope.{\r}
+
+1007
+01:23:17,214 --> 01:23:19,091
+我就明说了吧，女王陛下…
+{\fscx75\fscy75\1c&HFF8000&}If I may say so, Your Majesty...{\r}
+
+1008
+01:23:19,216 --> 01:23:21,427
+首相其实并没有什么实权
+{\fscx75\fscy75\1c&HFF8000&}the chancellor has little real power.{\r}
+
+1009
+01:23:21,552 --> 01:23:25,430
+他被毫无根据的贪污控告所困住
+{\fscx75\fscy75\1c&HFF8000&}He is mired by baseless accusations of corruption.{\r}
+
+1010
+01:23:25,556 --> 01:23:29,310
+- 官僚现在掌握大权  - 我们有什么办法吗？
+{\fscx75\fscy75\1c&HFF8000&}- The bureaucrats are in charge now. - What options have we?{\r}
+
+1011
+01:23:30,061 --> 01:23:32,939
+首先我们应该马上重新选举出…
+{\fscx75\fscy75\1c&HFF8000&}Our best choice would be to push for the election...{\r}
+
+1012
+01:23:33,064 --> 01:23:35,275
+一位强干的共和国首相…
+{\fscx75\fscy75\1c&HFF8000&}of a stronger supreme chancellor...{\r}
+
+1013
+01:23:35,400 --> 01:23:37,570
+能约束那些贪官污吏…
+{\fscx75\fscy75\1c&HFF8000&}one who could control the bureaucrats...{\r}
+
+1014
+01:23:37,695 --> 01:23:39,530
+主持公道
+{\fscx75\fscy75\1c&HFF8000&}and give us justice.{\r}
+
+1015
+01:23:40,406 --> 01:23:45,913
+你可对维罗伦首相任职期间的工作投不信任票
+{\fscx75\fscy75\1c&HFF8000&}You could call for a vote of no confidence in Chancellor Valorum.{\r}
+
+1016
+01:23:46,038 --> 01:23:48,541
+他一直是我们强有力的支持者
+{\fscx75\fscy75\1c&HFF8000&}He has been our strongest supporter.{\r}
+
+1017
+01:23:48,666 --> 01:23:53,880
+那另外一个办法就是只有向法院起诉了
+{\fscx75\fscy75\1c&HFF8000&}Our only other choice would be to submit a plea to the courts.{\r}
+
+1018
+01:23:54,005 --> 01:23:57,342
+上法院比国会争论更花时间
+{\fscx75\fscy75\1c&HFF8000&}The courts take even longer to decide things than the senate.{\r}
+
+1019
+01:23:58,260 --> 01:24:00,345
+我们的人民面临死亡，议员先生
+{\fscx75\fscy75\1c&HFF8000&}Our people are dying, Senator.{\r}
+
+1020
+01:24:01,138 --> 01:24:04,141
+我们必须想办法马上阻止联盟的入侵
+{\fscx75\fscy75\1c&HFF8000&}We must do something quickly to stop the Federation.{\r}
+
+1021
+01:24:04,266 --> 01:24:06,769
+看现在这局去势，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}To be realistic, Your Majesty...{\r}
+
+1022
+01:24:06,894 --> 01:24:09,397
+可我觉得还是接受联盟的控制…
+{\fscx75\fscy75\1c&HFF8000&}I think we're going to have to accept Federation control...{\r}
+
+1023
+01:24:09,522 --> 01:24:12,025
+就目前来说
+{\fscx75\fscy75\1c&HFF8000&}for the time being.{\r}
+
+1024
+01:24:13,777 --> 01:24:15,863
+这个我决不能接受
+{\fscx75\fscy75\1c&HFF8000&}That is something I cannot do.{\r}
+
+1025
+01:24:23,205 --> 01:24:25,791
+他的绝地技艺很好
+{\fscx75\fscy75\1c&HFF8000&}He was trained in the Jedi arts.{\r}
+
+1026
+01:24:25,916 --> 01:24:29,838
+他是个西斯人
+{\fscx75\fscy75\1c&HFF8000&}My only conclusion can be that it was a Sith lord .{\r}
+
+1027
+01:24:29,963 --> 01:24:31,339
+不可能
+{\fscx75\fscy75\1c&HFF8000&}Impossible.{\r}
+
+1028
+01:24:31,464 --> 01:24:34,134
+西斯人一千年前就灭绝了
+{\fscx75\fscy75\1c&HFF8000&}The Sith have been extinct for a millennium.{\r}
+
+1029
+01:24:34,259 --> 01:24:38,430
+我不相信，西斯人回来了我们会不知道？
+{\fscx75\fscy75\1c&HFF8000&}I do not believe the Sith could have returned without us knowing.{\r}
+
+1030
+01:24:39,431 --> 01:24:41,642
+那其中的阴暗面很难看到
+{\fscx75\fscy75\1c&HFF8000&}Hard to see, the dark side is.{\r}
+
+1031
+01:24:41,767 --> 01:24:44,645
+我们要尽全力解开这个谜
+{\fscx75\fscy75\1c&HFF8000&}We will use all our resources to unravel this mystery.{\r}
+
+1032
+01:24:44,771 --> 01:24:47,983
+我们要弄清那个武士的身份
+{\fscx75\fscy75\1c&HFF8000&}We will discover the identity of your attacker.{\r}
+
+1033
+01:24:48,108 --> 01:24:49,776
+愿力与你同在
+{\fscx75\fscy75\1c&HFF8000&}May the Force be with you.{\r}
+
+1034
+01:24:53,823 --> 01:24:55,283
+等一等，奎刚
+{\fscx75\fscy75\1c&HFF8000&}Master Qui-Gon.{\r}
+
+1035
+01:24:56,159 --> 01:24:57,952
+你还有什么要说的？
+{\fscx75\fscy75\1c&HFF8000&}More to say have you?{\r}
+
+1036
+01:25:00,080 --> 01:25:01,957
+请允许我说实话
+{\fscx75\fscy75\1c&HFF8000&}With your permission, my master...{\r}
+
+1037
+01:25:03,501 --> 01:25:06,504
+我发现原力在集结
+{\fscx75\fscy75\1c&HFF8000&}I have encountered a vergence in the Force.{\r}
+
+1038
+01:25:07,630 --> 01:25:09,633
+原力在集结？
+{\fscx75\fscy75\1c&HFF8000&}A vergence, you say.{\r}
+
+1039
+01:25:09,758 --> 01:25:11,884
+你是指在一个人的身上？
+{\fscx75\fscy75\1c&HFF8000&}Located around a person?{\r}
+
+1040
+01:25:12,009 --> 01:25:13,261
+是个孩子
+{\fscx75\fscy75\1c&HFF8000&}A boy.{\r}
+
+1041
+01:25:13,386 --> 01:25:15,889
+他的细胞中含有很高的超能素…
+{\fscx75\fscy75\1c&HFF8000&}His cells have the highest concentration of midi-chlorians...{\r}
+
+1042
+01:25:16,014 --> 01:25:17,808
+我以前从未见到过
+{\fscx75\fscy75\1c&HFF8000&}I have seen in a life-form.{\r}
+
+1043
+01:25:17,933 --> 01:25:20,811
+他也许就是由超能素孕育而生的
+{\fscx75\fscy75\1c&HFF8000&}It is possible he was conceived by the midi-chlorians.{\r}
+
+1044
+01:25:22,522 --> 01:25:26,401
+你提到那个大预言中说的那个给原力带来平衡的人
+{\fscx75\fscy75\1c&HFF8000&}You refer to the prophecy of the one who will bring balance to the Force.{\r}
+
+1045
+01:25:27,194 --> 01:25:29,321
+你相信就是这个孩子？
+{\fscx75\fscy75\1c&HFF8000&}You believe it's this boy?{\r}
+
+1046
+01:25:29,446 --> 01:25:32,033
+- 我并没有说… - 可你相信
+{\fscx75\fscy75\1c&HFF8000&}- I don't presume to... - But you do.{\r}
+
+1047
+01:25:32,784 --> 01:25:34,744
+你已经说得很明白
+{\fscx75\fscy75\1c&HFF8000&}Revealed your opinion is.{\r}
+
+1048
+01:25:34,869 --> 01:25:36,913
+请让他接受测试吧，师父
+{\fscx75\fscy75\1c&HFF8000&}I request the boy be tested, Master.{\r}
+
+1049
+01:25:39,041 --> 01:25:42,253
+你想把他训练成一个绝地武士吗？
+{\fscx75\fscy75\1c&HFF8000&}Trained as a Jedi you request for him, hmm?{\r}
+
+1050
+01:25:42,378 --> 01:25:44,756
+是原力让我找到他的
+{\fscx75\fscy75\1c&HFF8000&}Finding him was the will of the Force.{\r}
+
+1051
+01:25:44,881 --> 01:25:47,133
+我绝不怀疑的
+{\fscx75\fscy75\1c&HFF8000&}I have no doubt of that.{\r}
+
+1052
+01:25:53,807 --> 01:25:55,851
+那就把他带来吧
+{\fscx75\fscy75\1c&HFF8000&}Bring him before us, then.{\r}
+
+1053
+01:26:06,947 --> 01:26:08,824
+这个孩子要见帕德梅
+{\fscx75\fscy75\1c&HFF8000&}The boy's here to see Padme{\r}
+
+1054
+01:26:08,950 --> 01:26:10,535
+让他进来
+{\fscx75\fscy75\1c&HFF8000&}Let him in.{\r}
+
+1055
+01:26:13,747 --> 01:26:17,626
+对不起，安，但帕德梅现在不在
+{\fscx75\fscy75\1c&HFF8000&}I'm sorry, Ani, but Padmes not here right now.{\r}
+
+1056
+01:26:17,751 --> 01:26:19,420
+是谁？
+{\fscx75\fscy75\1c&HFF8000&}Who is it?{\r}
+
+1057
+01:26:20,213 --> 01:26:23,215
+安纳金·天行者来见帕德梅，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}Anakin Skywalker to see Padme Your Highness.{\r}
+
+1058
+01:26:23,340 --> 01:26:25,134
+帕德梅为我办事去
+{\fscx75\fscy75\1c&HFF8000&}I've sent Padme on an errand.{\r}
+
+1059
+01:26:25,259 --> 01:26:27,136
+我现在要去绝地圣堂…
+{\fscx75\fscy75\1c&HFF8000&}I'm on my way to the Jedi temple...{\r}
+
+1060
+01:26:27,262 --> 01:26:29,514
+开始我的训练，但愿是吧
+{\fscx75\fscy75\1c&HFF8000&}to start my training, I hope.{\r}
+
+1061
+01:26:30,348 --> 01:26:34,186
+也许我再也见不到她了，所以来向她告别
+{\fscx75\fscy75\1c&HFF8000&}I may never see her again, so I came to say goodbye.{\r}
+
+1062
+01:26:35,271 --> 01:26:38,900
+我们会转达的 她一定会为你祝福
+{\fscx75\fscy75\1c&HFF8000&}We will tell her for you. We are sure her heart goes with you.{\r}
+
+1063
+01:26:40,026 --> 01:26:41,069
+谢谢您，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}Thank you, Your Highness.{\r}
+
+1064
+01:26:55,085 --> 01:26:59,173
+主席认可这位来自纳布星球的议员
+{\fscx75\fscy75\1c&HFF8000&}The chair recognizes the senator from the sovereign system of Naboo.{\r}
+
+1065
+01:27:05,972 --> 01:27:09,351
+共和国首相，国会议员们…
+{\fscx75\fscy75\1c&HFF8000&}Supreme Chancellor, delegates of the senate...{\r}
+
+1066
+01:27:10,477 --> 01:27:12,855
+一场悲剧发生了…
+{\fscx75\fscy75\1c&HFF8000&}a tragedy has occurred...{\r}
+
+1067
+01:27:12,980 --> 01:27:16,484
+起因就是国会在贸易通道上征税…
+{\fscx75\fscy75\1c&HFF8000&}which started right here with the taxation of trade routes...{\r}
+
+1068
+01:27:16,609 --> 01:27:19,613
+并且现在吞并了我们整个星球…
+{\fscx75\fscy75\1c&HFF8000&}and has now engulfed our entire planet...{\r}
+
+1069
+01:27:19,738 --> 01:27:21,740
+在贸易联盟的巨大压力之下
+{\fscx75\fscy75\1c&HFF8000&}in the oppression of the Trade Federation.{\r}
+
+1070
+01:27:22,616 --> 01:27:24,035
+这么说太过分了！
+{\fscx75\fscy75\1c&HFF8000&}This is outrageous!{\r}
+
+1071
+01:27:24,160 --> 01:27:26,705
+我们反对这位议员的说法
+{\fscx75\fscy75\1c&HFF8000&}I object to the senator's statements.{\r}
+
+1072
+01:27:26,830 --> 01:27:30,876
+本主席现在还没允许贸易联盟的议员发言
+{\fscx75\fscy75\1c&HFF8000&}The chair does not recognize the senator from the Trade Federation at this time.{\r}
+
+1073
+01:27:31,001 --> 01:27:34,880
+为了表明我们的主张，我提出由阿米达拉女王…
+{\fscx75\fscy75\1c&HFF8000&}To state our allegations, I present Queen Amidala...{\r}
+
+1074
+01:27:35,005 --> 01:27:37,007
+她最近当选为纳布星的最高统治者…
+{\fscx75\fscy75\1c&HFF8000&}recently elected ruler of the Naboo...{\r}
+
+1075
+01:27:37,132 --> 01:27:39,009
+她的讲话代表了我方
+{\fscx75\fscy75\1c&HFF8000&}who speaks on our behalf.{\r}
+
+1076
+01:27:45,016 --> 01:27:47,770
+各位尊敬的共和国议员…
+{\fscx75\fscy75\1c&HFF8000&}Honourable representatives of the Republic...{\r}
+
+1077
+01:27:48,521 --> 01:27:50,982
+我是冒着生命危险来见各位的
+{\fscx75\fscy75\1c&HFF8000&}I come to you under the gravest of circumstances.{\r}
+
+1078
+01:27:51,107 --> 01:27:53,985
+纳布星球遭到了贸易联盟的入侵…
+{\fscx75\fscy75\1c&HFF8000&}The Naboo system has been invaded by the droid armies of the Trade...{\r}
+
+1079
+01:27:54,110 --> 01:27:57,656
+我反对！这话没有依据！
+{\fscx75\fscy75\1c&HFF8000&}I object! There is no proof!{\r}
+
+1080
+01:27:57,781 --> 01:27:59,658
+这是不可能的
+{\fscx75\fscy75\1c&HFF8000&}This is incredible.{\r}
+
+1081
+01:27:59,784 --> 01:28:03,747
+我们建议派代表团到纳布星去查明真相
+{\fscx75\fscy75\1c&HFF8000&}We recommend a commission be sent to Naboo to ascertain the truth.{\r}
+
+1082
+01:28:03,872 --> 01:28:05,165
+马拉斯代尔星球国会…
+{\fscx75\fscy75\1c&HFF8000&}The Congress of Malastare...{\r}
+
+1083
+01:28:05,290 --> 01:28:08,292
+同意尊敬的贸易联盟代表的意见
+{\fscx75\fscy75\1c&HFF8000&}concurs with the honourable delegate from the Trade Federation.{\r}
+
+1084
+01:28:08,418 --> 01:28:10,462
+应该派代表团去
+{\fscx75\fscy75\1c&HFF8000&}A commission must be appointed.{\r}
+
+1085
+01:28:10,587 --> 01:28:13,090
+- 问题是…  - 对不起，首相
+{\fscx75\fscy75\1c&HFF8000&}- The point... - Excuse me, Chancellor.{\r}
+
+1086
+01:28:13,215 --> 01:28:14,842
+就是这些官僚
+{\fscx75\fscy75\1c&HFF8000&}Enter the bureaucrat.{\r}
+
+1087
+01:28:14,967 --> 01:28:17,595
+他们在幕后操纵着国会
+{\fscx75\fscy75\1c&HFF8000&}The true rulers of the Republic.{\r}
+
+1088
+01:28:17,720 --> 01:28:21,892
+贸易联盟已经把他们都收买了
+{\fscx75\fscy75\1c&HFF8000&}And on the payroll of the Trade Federation, I might add.{\r}
+
+1089
+01:28:22,017 --> 01:28:26,230
+维罗伦首相拿这帮家伙一点办法也没有
+{\fscx75\fscy75\1c&HFF8000&}This is where Chancellor Valorum's strength will disappear.{\r}
+
+1090
+01:28:27,815 --> 01:28:30,109
+提议被采纳
+{\fscx75\fscy75\1c&HFF8000&}The point is conceded.{\r}
+
+1091
+01:28:30,235 --> 01:28:32,863
+等代表团查明真相以后
+{\fscx75\fscy75\1c&HFF8000&}Will you defer your motion to allow a commission...{\r}
+
+1092
+01:28:32,988 --> 01:28:35,783
+你也许会改变你的陈述
+{\fscx75\fscy75\1c&HFF8000&}to explore the validity of your accusations?{\r}
+
+1093
+01:28:35,908 --> 01:28:37,785
+我是不会改变的
+{\fscx75\fscy75\1c&HFF8000&}I will not defer.{\r}
+
+1094
+01:28:37,910 --> 01:28:41,414
+我是来请你们阻止他们的入侵行动的
+{\fscx75\fscy75\1c&HFF8000&}I've come before you to resolve this attack on our sovereignty now.{\r}
+
+1095
+01:28:41,539 --> 01:28:44,542
+我眼看着我的人民在受苦
+{\fscx75\fscy75\1c&HFF8000&}I was not elected to watch my people suffer and die...{\r}
+
+1096
+01:28:44,667 --> 01:28:47,337
+而你却在谈论什么代表团
+{\fscx75\fscy75\1c&HFF8000&}while you discuss this invasion in a committee.{\r}
+
+1097
+01:28:50,299 --> 01:28:52,635
+如果国会无力处理此事…
+{\fscx75\fscy75\1c&HFF8000&}If this body is not capable of action...{\r}
+
+1098
+01:28:52,760 --> 01:28:54,804
+我建议重选一位共和国首相
+{\fscx75\fscy75\1c&HFF8000&}I suggest new leadership is needed.{\r}
+
+1099
+01:28:58,224 --> 01:29:00,435
+我把完全不信任票投给…
+{\fscx75\fscy75\1c&HFF8000&}I move for a vote of no confidence...{\r}
+
+1100
+01:29:00,561 --> 01:29:02,563
+维罗伦首相的领导能力
+{\fscx75\fscy75\1c&HFF8000&}in Chancellor Valorum's leadership.{\r}
+
+1101
+01:29:09,613 --> 01:29:11,782
+立即投票！立即投票！
+{\fscx75\fscy75\1c&HFF8000&}Vote now! Vote now!{\r}
+
+1102
+01:29:15,578 --> 01:29:17,496
+秩序！
+{\fscx75\fscy75\1c&HFF8000&}Order!{\r}
+
+1103
+01:29:17,621 --> 01:29:20,499
+现在他们要选出一位新首相
+{\fscx75\fscy75\1c&HFF8000&}Now they will elect a new chancellor...{\r}
+
+1104
+01:29:20,624 --> 01:29:22,502
+一位能干的首相
+{\fscx75\fscy75\1c&HFF8000&}a strong chancellor...{\r}
+
+1105
+01:29:22,627 --> 01:29:25,547
+他应该能结束我们的悲剧
+{\fscx75\fscy75\1c&HFF8000&}one who will not let our tragedy continue.{\r}
+
+1106
+01:29:27,257 --> 01:29:31,512
+安纳金没能通过长老院的测试，他年龄太大了
+{\fscx75\fscy75\1c&HFF8000&}The boy will not pass the council's test, Master. He's too old.{\r}
+
+1107
+01:29:31,637 --> 01:29:34,766
+他会成为绝地武士的，我敢肯定
+{\fscx75\fscy75\1c&HFF8000&}Anakin will become a Jedi, I promise you.{\r}
+
+1108
+01:29:34,891 --> 01:29:37,603
+别再违背长老们的意愿了，
+{\fscx75\fscy75\1c&HFF8000&}Do not defy the council, Master, not again.{\r}
+
+1109
+01:29:37,728 --> 01:29:40,439
+有些事我必须做，欧比旺
+{\fscx75\fscy75\1c&HFF8000&}I shall do what I must, Obi-Wan.{\r}
+
+1110
+01:29:42,358 --> 01:29:46,112
+要是你守规矩，你早就已经当长老了
+{\fscx75\fscy75\1c&HFF8000&}If you would just follow the code, you would be on the council.{\r}
+
+1111
+01:29:46,238 --> 01:29:48,282
+他们这次是不会答应的
+{\fscx75\fscy75\1c&HFF8000&}They will not go along with you this time.{\r}
+
+1112
+01:29:49,783 --> 01:29:52,369
+你要学的东西还多着呐，你太年轻了
+{\fscx75\fscy75\1c&HFF8000&}You still have much to learn, my young apprentice.{\r}
+
+1113
+01:29:55,664 --> 01:29:57,041
+一艘船
+{\fscx75\fscy75\1c&HFF8000&}A ship.{\r}
+
+1114
+01:29:58,668 --> 01:30:00,628
+杯子
+{\fscx75\fscy75\1c&HFF8000&}A cup.{\r}
+
+1115
+01:30:00,753 --> 01:30:02,547
+是船
+{\fscx75\fscy75\1c&HFF8000&}A ship.{\r}
+
+1116
+01:30:03,673 --> 01:30:05,133
+摩托艇
+{\fscx75\fscy75\1c&HFF8000&}A speeder.{\r}
+
+1117
+01:30:12,684 --> 01:30:14,603
+有什么感觉？
+{\fscx75\fscy75\1c&HFF8000&}How feel you?{\r}
+
+1118
+01:30:15,187 --> 01:30:16,855
+感到冷
+{\fscx75\fscy75\1c&HFF8000&}Cold, sir.{\r}
+
+1119
+01:30:18,524 --> 01:30:20,693
+- 你害怕吗？ - 不害怕
+{\fscx75\fscy75\1c&HFF8000&}- Afraid are you? - No, sir.{\r}
+
+1120
+01:30:21,861 --> 01:30:24,489
+我们能看透你
+{\fscx75\fscy75\1c&HFF8000&}See through you we can.{\r}
+
+1121
+01:30:24,614 --> 01:30:26,492
+注意你自己的感觉
+{\fscx75\fscy75\1c&HFF8000&}Be mindful of your feelings.{\r}
+
+1122
+01:30:26,617 --> 01:30:29,369
+你的思想集中在你妈妈身上
+{\fscx75\fscy75\1c&HFF8000&}Your thoughts dwell on your mother.{\r}
+
+1123
+01:30:31,038 --> 01:30:32,456
+我很想她
+{\fscx75\fscy75\1c&HFF8000&}I miss her.{\r}
+
+1124
+01:30:33,707 --> 01:30:36,169
+害怕失去她，对吧？
+{\fscx75\fscy75\1c&HFF8000&}Afraid to lose her, I think, mmm?{\r}
+
+1125
+01:30:36,294 --> 01:30:38,421
+这和你们的测试有什么关系？
+{\fscx75\fscy75\1c&HFF8000&}What has that got to do with anything?{\r}
+
+1126
+01:30:38,546 --> 01:30:40,882
+当然有
+{\fscx75\fscy75\1c&HFF8000&}Everything.{\r}
+
+1127
+01:30:41,007 --> 01:30:44,053
+恐惧是原力的阴暗面
+{\fscx75\fscy75\1c&HFF8000&}Fear is the path to the dark side.{\r}
+
+1128
+01:30:44,178 --> 01:30:47,056
+恐惧导致愤怒，愤怒导致仇恨
+{\fscx75\fscy75\1c&HFF8000&}Fear leads to anger. Anger leads to hate.{\r}
+
+1129
+01:30:47,181 --> 01:30:50,519
+仇恨带来痛苦
+{\fscx75\fscy75\1c&HFF8000&}Hate leads to suffering.{\r}
+
+1130
+01:30:57,068 --> 01:30:59,988
+我感觉到你很恐惧
+{\fscx75\fscy75\1c&HFF8000&}I sense much fear in you.{\r}
+
+1131
+01:31:12,919 --> 01:31:16,297
+你觉得你的人民会面临死亡吗？
+{\fscx75\fscy75\1c&HFF8000&}Yousa tinking yousa people ganna die?{\r}
+
+1132
+01:31:16,423 --> 01:31:17,757
+不知道
+{\fscx75\fscy75\1c&HFF8000&}I don't know.{\r}
+
+1133
+01:31:19,092 --> 01:31:20,970
+冈根人也会被杀死吗？
+{\fscx75\fscy75\1c&HFF8000&}Gungans get pasted too, eh?{\r}
+
+1134
+01:31:23,431 --> 01:31:25,475
+但愿不会
+{\fscx75\fscy75\1c&HFF8000&}I hope not.{\r}
+
+1135
+01:31:26,267 --> 01:31:28,478
+冈根人是绝不会坐以待毙的
+{\fscx75\fscy75\1c&HFF8000&}Gungans no die'n without a fight.{\r}
+
+1136
+01:31:28,603 --> 01:31:30,481
+我们都是战土
+{\fscx75\fscy75\1c&HFF8000&}Wesa warriors.{\r}
+
+1137
+01:31:30,606 --> 01:31:33,859
+我们有庞大的军队
+{\fscx75\fscy75\1c&HFF8000&}Wesa got a grand army.{\r}
+
+1138
+01:31:33,985 --> 01:31:37,197
+所以他们都喜欢我们，陛下
+{\fscx75\fscy75\1c&HFF8000&}Dat's why you no liken us, mesa tinks.{\r}
+
+1139
+01:31:37,322 --> 01:31:38,656
+女王陛下？
+{\fscx75\fscy75\1c&HFF8000&}Your Highness?{\r}
+
+1140
+01:31:41,325 --> 01:31:43,453
+女王陛下…
+{\fscx75\fscy75\1c&HFF8000&}Your Highness...{\r}
+
+1141
+01:31:43,578 --> 01:31:46,665
+帕尔帕庭议员被提名参加…
+{\fscx75\fscy75\1c&HFF8000&}Senator Palpatine has been nominated to succeed Valorum...{\r}
+
+1142
+01:31:46,790 --> 01:31:48,167
+下一任首相的选举
+{\fscx75\fscy75\1c&HFF8000&}as supreme chancellor.{\r}
+
+1143
+01:31:48,292 --> 01:31:52,171
+真没想到，不过的确是个好消息
+{\fscx75\fscy75\1c&HFF8000&}A surprise, to be sure, but a welcome one.{\r}
+
+1144
+01:31:52,297 --> 01:31:54,487
+女王陛下，如果我当选
+{\fscx75\fscy75\1c&HFF8000&}Your Majesty, if I am elected,{\r}
+
+1145
+01:31:54,487 --> 01:31:56,677
+我保证一定要惩治腐败
+{\fscx75\fscy75\1c&HFF8000&}I promise to put an end to corruption.{\r}
+
+1146
+01:31:56,802 --> 01:31:58,470
+被提名的还有谁？
+{\fscx75\fscy75\1c&HFF8000&}Who else has been nominated?{\r}
+
+1147
+01:31:58,596 --> 01:32:00,744
+奥德兰星的贝尔·安德烈斯
+{\fscx75\fscy75\1c&HFF8000&}Bail Antilles of Alderaan {\r}
+
+1148
+01:32:00,744 --> 01:32:02,892
+和马拉斯代尔星的安利·蒂姆
+{\fscx75\fscy75\1c&HFF8000&}and Ainlee Teem of Malastare.{\r}
+
+1149
+01:32:03,017 --> 01:32:07,940
+我确信我们的处境将会得到大量的同情票
+{\fscx75\fscy75\1c&HFF8000&}I feel confident our situation will create a strong sympathy vote for us.{\r}
+
+1150
+01:32:09,650 --> 01:32:11,652
+我会成为首相的
+{\fscx75\fscy75\1c&HFF8000&}I will be chancellor.{\r}
+
+1151
+01:32:11,778 --> 01:32:14,363
+我担心等到你掌握国会大权的时候
+{\fscx75\fscy75\1c&HFF8000&}I fear by the time you have control of the bureaucrats, Senator...{\r}
+
+1152
+01:32:14,488 --> 01:32:17,700
+我们纳布星的人民已经惨遭灭绝了
+{\fscx75\fscy75\1c&HFF8000&}there'll be nothing left of our people, our way of life.{\r}
+
+1153
+01:32:17,825 --> 01:32:19,702
+你的担心我很理解
+{\fscx75\fscy75\1c&HFF8000&}I understand your concern, Your Majesty.{\r}
+
+1154
+01:32:19,828 --> 01:32:23,373
+不幸的是联盟已经控制了纳布星
+{\fscx75\fscy75\1c&HFF8000&}Unfortunately, the Federation has possession of our planet.{\r}
+
+1155
+01:32:25,167 --> 01:32:28,963
+这里是你的战场
+{\fscx75\fscy75\1c&HFF8000&}Senator, this is your arena.{\r}
+
+1156
+01:32:29,339 --> 01:32:31,257
+我觉得我还是回去我的
+{\fscx75\fscy75\1c&HFF8000&}I feel I must return to mine.{\r}
+
+1157
+01:32:34,511 --> 01:32:36,806
+我决定回纳布星去
+{\fscx75\fscy75\1c&HFF8000&}I've decided to go back to Naboo.{\r}
+
+1158
+01:32:36,931 --> 01:32:37,807
+回去？
+{\fscx75\fscy75\1c&HFF8000&}Go back?{\r}
+
+1159
+01:32:37,932 --> 01:32:40,894
+陛下，现实一点，贸易联盟的人会强迫你签协议的
+{\fscx75\fscy75\1c&HFF8000&}But, Your Majesty, be realistic. They'll force you to sign the treaty.{\r}
+
+1160
+01:32:41,019 --> 01:32:43,397
+我什么协议也不会签
+{\fscx75\fscy75\1c&HFF8000&}I will sign no treaty, Senator.{\r}
+
+1161
+01:32:43,522 --> 01:32:46,317
+我要和我的人民生死与共
+{\fscx75\fscy75\1c&HFF8000&}My fate will be no different than that of our people.{\r}
+
+1162
+01:32:46,442 --> 01:32:48,027
+- 船长 - 女王陛下
+{\fscx75\fscy75\1c&HFF8000&}- Captain. - Your Highness.{\r}
+
+1163
+01:32:48,152 --> 01:32:50,445
+- 备好我的飞船 - 求你了，陛下
+{\fscx75\fscy75\1c&HFF8000&}- Ready my ship. - Please, Your Majesty.{\r}
+
+1164
+01:32:50,571 --> 01:32:52,448
+请你留下来，这里才安全
+{\fscx75\fscy75\1c&HFF8000&}Stay here where it's safe.{\r}
+
+1165
+01:32:53,949 --> 01:32:57,120
+很明显，国会已经失去它的作用了
+{\fscx75\fscy75\1c&HFF8000&}It is clear to me now that the Republic no longer functions.{\r}
+
+1166
+01:32:57,871 --> 01:33:02,000
+希望你能重新唤起国会的理智和同情心
+{\fscx75\fscy75\1c&HFF8000&}I pray you will bring sanity and compassion back to the senate.{\r}
+
+1167
+01:33:11,720 --> 01:33:14,306
+他体内的原力很强
+{\fscx75\fscy75\1c&HFF8000&}The Force is strong with him.{\r}
+
+1168
+01:33:14,432 --> 01:33:16,350
+那他可以受训了，是吗？
+{\fscx75\fscy75\1c&HFF8000&}He is to be trained, then?{\r}
+
+1169
+01:33:18,478 --> 01:33:20,856
+不，他不能接受训练
+{\fscx75\fscy75\1c&HFF8000&}No, he will not be trained.{\r}
+
+1170
+01:33:20,981 --> 01:33:22,649
+为什么？
+{\fscx75\fscy75\1c&HFF8000&}No?{\r}
+
+1171
+01:33:24,693 --> 01:33:26,737
+他年龄太大
+{\fscx75\fscy75\1c&HFF8000&}He is too old.{\r}
+
+1172
+01:33:26,862 --> 01:33:30,658
+他是命中注定的，这你应该知道
+{\fscx75\fscy75\1c&HFF8000&}He is the chosen one. You must see it.{\r}
+
+1173
+01:33:31,826 --> 01:33:35,372
+这孩子的未来乌云密布
+{\fscx75\fscy75\1c&HFF8000&}Clouded this boy's future is.{\r}
+
+1174
+01:33:37,582 --> 01:33:39,418
+我要训练他
+{\fscx75\fscy75\1c&HFF8000&}I will train him, then.{\r}
+
+1175
+01:33:43,756 --> 01:33:46,593
+我要收安纳金肯做我的徒弟
+{\fscx75\fscy75\1c&HFF8000&}I take Anakin as my Padawan learner.{\r}
+
+1176
+01:33:46,718 --> 01:33:49,638
+你已经有一个徒弟了，奎刚
+{\fscx75\fscy75\1c&HFF8000&}An apprentice you have, Qui-Gon.{\r}
+
+1177
+01:33:49,763 --> 01:33:52,141
+不能再收第二个了
+{\fscx75\fscy75\1c&HFF8000&}Impossible to take on a second.{\r}
+
+1178
+01:33:52,266 --> 01:33:53,935
+这不合规矩
+{\fscx75\fscy75\1c&HFF8000&}The code forbids it.{\r}
+
+1179
+01:33:54,060 --> 01:33:57,439
+- 欧比旺已经准备好了 - 我己准备好接受考验了
+{\fscx75\fscy75\1c&HFF8000&}- Obi-Wan is ready. - I am ready to face the trials.{\r}
+
+1180
+01:33:57,564 --> 01:34:01,192
+我们长老院将自己安排谁该接受考验
+{\fscx75\fscy75\1c&HFF8000&}Our own counsel we will keep on who is ready.{\r}
+
+1181
+01:34:02,193 --> 01:34:04,821
+他虽然脾气倔，关于原力还有很多要学的…
+{\fscx75\fscy75\1c&HFF8000&}He is headstrong and he has much to learn of the living Force...{\r}
+
+1182
+01:34:04,947 --> 01:34:06,657
+但他很有能力
+{\fscx75\fscy75\1c&HFF8000&}but he is capable.{\r}
+
+1183
+01:34:06,782 --> 01:34:08,784
+我已经没有什么可教他的了
+{\fscx75\fscy75\1c&HFF8000&}There is little more he can learn from me.{\r}
+
+1184
+01:34:11,371 --> 01:34:15,167
+小天行者的命运以后再做决定吧
+{\fscx75\fscy75\1c&HFF8000&}Young Skywalker's fate will be decided later.{\r}
+
+1185
+01:34:15,292 --> 01:34:17,878
+现在不是时候
+{\fscx75\fscy75\1c&HFF8000&}Now is not the time for this.{\r}
+
+1186
+01:34:18,671 --> 01:34:20,631
+国会正在选举新的首相
+{\fscx75\fscy75\1c&HFF8000&}The senate is voting for a new supreme chancellor...{\r}
+
+1187
+01:34:20,757 --> 01:34:23,426
+阿米达拉女王准备返回纳布星…
+{\fscx75\fscy75\1c&HFF8000&}and Queen Amidala is returning home...{\r}
+
+1188
+01:34:23,552 --> 01:34:26,764
+这会对联盟产生压力，冲突可能会扩大
+{\fscx75\fscy75\1c&HFF8000&}which puts pressure on the Federation and could widen the confrontation.{\r}
+
+1189
+01:34:26,889 --> 01:34:29,183
+并且可能把那个武士引出来
+{\fscx75\fscy75\1c&HFF8000&}And draw out the queen's attacker.{\r}
+
+1190
+01:34:29,308 --> 01:34:33,688
+和女王一起去纳布星，查明那位神秘武士的身份
+{\fscx75\fscy75\1c&HFF8000&}Go with the queen to Naboo and discover the identity of this dark warrior.{\r}
+
+1191
+01:34:34,980 --> 01:34:36,524
+这是我们揭开西斯人
+{\fscx75\fscy75\1c&HFF8000&}This is the clue we need...{\r}
+
+1192
+01:34:36,649 --> 01:34:39,235
+神秘面纱的重要线索
+{\fscx75\fscy75\1c&HFF8000&}to unravel the mystery of the Sith.{\r}
+
+1193
+01:34:39,945 --> 01:34:42,155
+原动力与你同在
+{\fscx75\fscy75\1c&HFF8000&}May the Force be with you.{\r}
+
+1194
+01:34:55,337 --> 01:34:58,216
+这不是不尊重你，师父，这是事实
+{\fscx75\fscy75\1c&HFF8000&}It's not disrespect, Master. It's the truth.{\r}
+
+1195
+01:34:58,341 --> 01:35:00,218
+你是你的看法
+{\fscx75\fscy75\1c&HFF8000&}From your point of view.{\r}
+
+1196
+01:35:00,343 --> 01:35:03,722
+那孩子很危险，他们都感觉到了，你怎么就不能？
+{\fscx75\fscy75\1c&HFF8000&}The boy is dangerous. They all sense it. Why can't you?{\r}
+
+1197
+01:35:03,847 --> 01:35:06,726
+他的命运还没有决定，他并不危险
+{\fscx75\fscy75\1c&HFF8000&}His fate is uncertain. He's not dangerous.{\r}
+
+1198
+01:35:06,851 --> 01:35:09,228
+长老院要决定那孩子的命运
+{\fscx75\fscy75\1c&HFF8000&}The council will decide Anakin's future.{\r}
+
+1199
+01:35:09,353 --> 01:35:12,273
+这你满意了吧，好了，上船吧
+{\fscx75\fscy75\1c&HFF8000&}That should be enough for you. Now get on board .{\r}
+
+1200
+01:35:17,946 --> 01:35:21,700
+奎刚先生，我真的不想给你添麻烦
+{\fscx75\fscy75\1c&HFF8000&}Qui-Gon, sir, I don't want to be a problem.{\r}
+
+1201
+01:35:21,826 --> 01:35:24,036
+你没有，安
+{\fscx75\fscy75\1c&HFF8000&}You won't be, Ani.{\r}
+
+1202
+01:35:24,162 --> 01:35:26,080
+他们不想让我训练你…
+{\fscx75\fscy75\1c&HFF8000&}I'm not allowed to train you...{\r}
+
+1203
+01:35:26,206 --> 01:35:28,250
+你可以看我怎么做
+{\fscx75\fscy75\1c&HFF8000&}so I want you to watch me and be mindful.{\r}
+
+1204
+01:35:28,375 --> 01:35:30,461
+永远记住:
+{\fscx75\fscy75\1c&HFF8000&}Always remember:{\r}
+
+1205
+01:35:31,378 --> 01:35:34,006
+专注程度决定了一切
+{\fscx75\fscy75\1c&HFF8000&}Your focus determines your reality.{\r}
+
+1206
+01:35:34,131 --> 01:35:37,719
+紧跟着我，你不会有危险的
+{\fscx75\fscy75\1c&HFF8000&}Stay close to me and you'll be safe.{\r}
+
+1207
+01:35:37,844 --> 01:35:39,221
+奎刚师父
+{\fscx75\fscy75\1c&HFF8000&}Master, sir...{\r}
+
+1208
+01:35:39,346 --> 01:35:42,933
+我听见尤达师父在说什么超能素
+{\fscx75\fscy75\1c&HFF8000&}I heard Yoda talking about midi-chlorians.{\r}
+
+1209
+01:35:43,058 --> 01:35:46,562
+我一直想知道… 什么是超能素？
+{\fscx75\fscy75\1c&HFF8000&}I've been wondering... What are midi-chlorians?{\r}
+
+1210
+01:35:47,855 --> 01:35:50,232
+所谓超能素是指生活在…
+{\fscx75\fscy75\1c&HFF8000&}Midi-chlorians are a microscopic life-form...{\r}
+
+1211
+01:35:50,358 --> 01:35:52,610
+生命细胞中的一种微生物体
+{\fscx75\fscy75\1c&HFF8000&}that resides within all living cells.{\r}
+
+1212
+01:35:54,070 --> 01:35:56,949
+- 它们在我身体里吗？ - 对，在你的细胞里
+{\fscx75\fscy75\1c&HFF8000&}- They live inside me? - Inside your cells, yes.{\r}
+
+1213
+01:35:57,074 --> 01:36:00,536
+- 我们和它是共生关系 - 共生关系？
+{\fscx75\fscy75\1c&HFF8000&}- And we are symbionts with them. - Symbionts?{\r}
+
+1214
+01:36:00,661 --> 01:36:04,541
+也就是共同生存互相利用的生命体
+{\fscx75\fscy75\1c&HFF8000&}Life-forms living together for mutual advantage.{\r}
+
+1215
+01:36:04,666 --> 01:36:07,544
+没有超能素，生命就不存在了…
+{\fscx75\fscy75\1c&HFF8000&}Without the midi-chlorians, life could not exist...{\r}
+
+1216
+01:36:07,669 --> 01:36:10,464
+我们也就就失去了原力
+{\fscx75\fscy75\1c&HFF8000&}and we would have no knowledge of the Force.{\r}
+
+1217
+01:36:10,589 --> 01:36:12,467
+是超能素源源不断的
+{\fscx75\fscy75\1c&HFF8000&}They continually speak to us...{\r}
+
+1218
+01:36:12,592 --> 01:36:15,262
+给我们提供的原力
+{\fscx75\fscy75\1c&HFF8000&}telling us the will of the Force.{\r}
+
+1219
+01:36:15,387 --> 01:36:17,472
+只要你静下心来
+{\fscx75\fscy75\1c&HFF8000&}When you learn to quiet your mind...{\r}
+
+1220
+01:36:17,598 --> 01:36:19,475
+你就能感觉到它们
+{\fscx75\fscy75\1c&HFF8000&}you'll hear them speaking to you.{\r}
+
+1221
+01:36:19,599 --> 01:36:21,476
+我还是不明白
+{\fscx75\fscy75\1c&HFF8000&}I don't understand.{\r}
+
+1222
+01:36:21,601 --> 01:36:25,105
+训练一段时间后，你就明白了
+{\fscx75\fscy75\1c&HFF8000&}With time and training, Ani, you will. You will.{\r}
+
+1223
+01:36:29,152 --> 01:36:32,906
+女王陛下，我们很荣幸能为你继续保驾护航
+{\fscx75\fscy75\1c&HFF8000&}Your Majesty, it is our pleasure to continue to serve and protect you.{\r}
+
+1224
+01:36:33,615 --> 01:36:35,034
+谢谢你的帮助
+{\fscx75\fscy75\1c&HFF8000&}I welcome your help.{\r}
+
+1225
+01:36:35,159 --> 01:36:38,871
+帕尔帕庭议员担心贸易联盟企图杀死我
+{\fscx75\fscy75\1c&HFF8000&}Senator Palpatine fears that the Federation means to destroy me.{\r}
+
+1226
+01:36:38,996 --> 01:36:42,000
+我不会让他们得逞的
+{\fscx75\fscy75\1c&HFF8000&}I assure you I will not allow that to happen.{\r}
+
+1227
+01:36:42,125 --> 01:36:45,003
+要回家了！
+{\fscx75\fscy75\1c&HFF8000&}Wesa goin' home!{\r}
+
+1228
+01:36:45,129 --> 01:36:47,006
+走吧，R2
+{\fscx75\fscy75\1c&HFF8000&}Come on, R2.{\r}
+
+1229
+01:36:57,267 --> 01:36:59,644
+占领纳布星了吗？
+{\fscx75\fscy75\1c&HFF8000&}Is the planet secure?{\r}
+
+1230
+01:36:59,770 --> 01:37:03,649
+我们刚刚占领了最后几个土着人的聚居点
+{\fscx75\fscy75\1c&HFF8000&}We have taken over the last pockets of primitive life-forms.{\r}
+
+1231
+01:37:03,774 --> 01:37:06,861
+我们已经完全控制了纳布星
+{\fscx75\fscy75\1c&HFF8000&}We are in complete control of the planet now.{\r}
+
+1232
+01:37:06,986 --> 01:37:10,157
+很好 还要保证继续让国会…
+{\fscx75\fscy75\1c&HFF8000&}Good. I will see to it that in the senate...{\r}
+
+1233
+01:37:10,282 --> 01:37:13,202
+受我们的操纵…
+{\fscx75\fscy75\1c&HFF8000&}things stay as they are.{\r}
+
+1234
+01:37:13,327 --> 01:37:16,831
+我会派我的徒弟，达斯·摩尔，跟你们一起去
+{\fscx75\fscy75\1c&HFF8000&}I am sending my apprentice, Darth Maul, to join you.{\r}
+
+1235
+01:37:16,956 --> 01:37:18,833
+是，大人
+{\fscx75\fscy75\1c&HFF8000&}Yes, my lord .{\r}
+
+1236
+01:37:18,958 --> 01:37:20,836
+西斯人要来？
+{\fscx75\fscy75\1c&HFF8000&}A Sith here?{\r}
+
+1237
+01:37:26,259 --> 01:37:28,720
+那些是前进稳定器
+{\fscx75\fscy75\1c&HFF8000&}Those are the forward stabilizers.{\r}
+
+1238
+01:37:28,845 --> 01:37:31,222
+那两个是控制高度的？
+{\fscx75\fscy75\1c&HFF8000&}And those two control the pitch?{\r}
+
+1239
+01:37:32,807 --> 01:37:34,684
+你学得可真快
+{\fscx75\fscy75\1c&HFF8000&}You catch on pretty quick.{\r}
+
+1240
+01:37:34,809 --> 01:37:36,561
+我们一着陆…
+{\fscx75\fscy75\1c&HFF8000&}As soon as we land...{\r}
+
+1241
+01:37:36,686 --> 01:37:39,314
+贸易联盟的人就会强迫你在他们的协议上签字的
+{\fscx75\fscy75\1c&HFF8000&}the Federation will arrest you and force you to sign the treaty.{\r}
+
+1242
+01:37:39,440 --> 01:37:40,482
+是的
+{\fscx75\fscy75\1c&HFF8000&}I agree.{\r}
+
+1243
+01:37:40,608 --> 01:37:43,361
+我不知道你这样做有什么意义
+{\fscx75\fscy75\1c&HFF8000&}I'm not sure what you wish to accomplish by this.{\r}
+
+1244
+01:37:43,486 --> 01:37:45,947
+我要回去收复失地
+{\fscx75\fscy75\1c&HFF8000&}I will take back what's ours.{\r}
+
+1245
+01:37:46,740 --> 01:37:48,909
+我们的人太少，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}There are too few of us, Your Highness.{\r}
+
+1246
+01:37:49,034 --> 01:37:50,911
+而且我们又没有军队
+{\fscx75\fscy75\1c&HFF8000&}We have no army.{\r}
+
+1247
+01:37:51,036 --> 01:37:52,413
+我仅能保护你的人生安全
+{\fscx75\fscy75\1c&HFF8000&}And I can only protect you.{\r}
+
+1248
+01:37:52,538 --> 01:37:54,582
+但我不能为你去打仗
+{\fscx75\fscy75\1c&HFF8000&}I can't fight a war for you.{\r}
+
+1249
+01:37:55,625 --> 01:37:56,668
+加加·宾克斯
+{\fscx75\fscy75\1c&HFF8000&}Jar Jar Binks.{\r}
+
+1250
+01:37:57,586 --> 01:37:59,755
+叫我吗，女王陛下？
+{\fscx75\fscy75\1c&HFF8000&}Mesa, Your Highness?{\r}
+
+1251
+01:37:59,880 --> 01:38:02,800
+是的，我需要你的帮助
+{\fscx75\fscy75\1c&HFF8000&}Yes. I need your help.{\r}
+
+1252
+01:38:08,055 --> 01:38:10,266
+发现了一艘战舰
+{\fscx75\fscy75\1c&HFF8000&}I have one battleship on my scope.{\r}
+
+1253
+01:38:10,391 --> 01:38:12,435
+是由机器人驾驶的
+{\fscx75\fscy75\1c&HFF8000&}It's a droid control ship.{\r}
+
+1254
+01:38:12,560 --> 01:38:14,771
+他们可能已经发现我们了
+{\fscx75\fscy75\1c&HFF8000&}They've probably spotted us.{\r}
+
+1255
+01:38:14,896 --> 01:38:16,607
+我们的时间不多了
+{\fscx75\fscy75\1c&HFF8000&}We haven't much time.{\r}
+
+1256
+01:38:28,329 --> 01:38:30,998
+加加正在赶往冈根城，师父
+{\fscx75\fscy75\1c&HFF8000&}Jar Jar is on his way to the Gungan city, Master.{\r}
+
+1257
+01:38:31,124 --> 01:38:32,417
+很好
+{\fscx75\fscy75\1c&HFF8000&}Good.{\r}
+
+1258
+01:38:32,542 --> 01:38:34,795
+你觉得女王的计划能行吗？
+{\fscx75\fscy75\1c&HFF8000&}Do you think the queen's idea will work?{\r}
+
+1259
+01:38:34,920 --> 01:38:36,547
+冈根人不是那么好动摇的
+{\fscx75\fscy75\1c&HFF8000&}The Gungans will not be easily swayed.{\r}
+
+1260
+01:38:38,632 --> 01:38:40,967
+我们也不能用我们的力量帮助她
+{\fscx75\fscy75\1c&HFF8000&}And we cannot use our power to help her.{\r}
+
+1261
+01:38:42,761 --> 01:38:45,848
+我… 我向你道歉，师父
+{\fscx75\fscy75\1c&HFF8000&}I'm sorry for my behaviour, Master.{\r}
+
+1262
+01:38:45,973 --> 01:38:49,686
+关于那孩子我不该对你的意见表示异议
+{\fscx75\fscy75\1c&HFF8000&}It's not my place to disagree with you about the boy.{\r}
+
+1263
+01:38:51,605 --> 01:38:54,900
+你觉我可以接受考验了，我很感激
+{\fscx75\fscy75\1c&HFF8000&}And I am grateful you think I'm ready to take the trials.{\r}
+
+1264
+01:38:56,068 --> 01:38:57,945
+你是个好徒弟，欧比旺
+{\fscx75\fscy75\1c&HFF8000&}You've been a good apprentice, Obi-Wan.{\r}
+
+1265
+01:38:59,405 --> 01:39:02,075
+你的智慧已经超过我了
+{\fscx75\fscy75\1c&HFF8000&}And you're a much wiser man than I am.{\r}
+
+1266
+01:39:02,784 --> 01:39:06,122
+你会成会一个伟大的绝地武士
+{\fscx75\fscy75\1c&HFF8000&}I foresee you will become a great Jedi knight.{\r}
+
+1267
+01:39:19,136 --> 01:39:21,513
+那儿一个人也没有
+{\fscx75\fscy75\1c&HFF8000&}Desa nobody dare!{\r}
+
+1268
+01:39:21,639 --> 01:39:23,808
+冈根城是空的
+{\fscx75\fscy75\1c&HFF8000&}The Gungan city is deserted!{\r}
+
+1269
+01:39:23,933 --> 01:39:26,478
+我看是打过仗了
+{\fscx75\fscy75\1c&HFF8000&}Some kinda fight, mesa tinks.{\r}
+
+1270
+01:39:26,603 --> 01:39:29,690
+他们是被送到集中营去了吧？
+{\fscx75\fscy75\1c&HFF8000&}Do you think they have been taken to the camps?{\r}
+
+1271
+01:39:29,815 --> 01:39:32,151
+也可能是被消灭了
+{\fscx75\fscy75\1c&HFF8000&}More likely they were wiped out.{\r}
+
+1272
+01:39:32,276 --> 01:39:35,321
+- 我可不这么看 - 知道他们在哪儿，扎扎？
+{\fscx75\fscy75\1c&HFF8000&}- Mesa no tink so. - Do you know where they are, Jar Jar?{\r}
+
+1273
+01:39:35,446 --> 01:39:38,867
+有危险的时候冈根人就会去圣地
+{\fscx75\fscy75\1c&HFF8000&}When in trouble, Gungans go to sacred place.{\r}
+
+1274
+01:39:38,992 --> 01:39:41,870
+我带你们去，走啊，跟我来
+{\fscx75\fscy75\1c&HFF8000&}Mesa show you. Come on. Mesa show you!{\r}
+
+1275
+01:40:00,224 --> 01:40:03,812
+首领大人，纳布星的阿米达拉女王到
+{\fscx75\fscy75\1c&HFF8000&}Your Honour, Queen Amidala of the Naboo.{\r}
+
+1276
+01:40:10,486 --> 01:40:13,823
+你好啊，纳斯大首领，我的大人
+{\fscx75\fscy75\1c&HFF8000&}Heyo dadee Big Boss Nass, Your Honour.{\r}
+
+1277
+01:40:14,616 --> 01:40:17,035
+加加宾克斯
+{\fscx75\fscy75\1c&HFF8000&}Jar Jar Binks.{\r}
+
+1278
+01:40:17,536 --> 01:40:20,790
+这些都是些什么人啦？
+{\fscx75\fscy75\1c&HFF8000&}Who's da uss-en uthers?{\r}
+
+1279
+01:40:21,374 --> 01:40:23,668
+我是纳布星的阿米达拉女王
+{\fscx75\fscy75\1c&HFF8000&}I am Queen Amidala of the Naboo.{\r}
+
+1280
+01:40:24,502 --> 01:40:26,921
+我们到这儿来没有敌意
+{\fscx75\fscy75\1c&HFF8000&}I come before you in peace.{\r}
+
+1281
+01:40:27,046 --> 01:40:29,883
+纳布大人物
+{\fscx75\fscy75\1c&HFF8000&}Ah, Naboo biggen.{\r}
+
+1282
+01:40:30,008 --> 01:40:33,178
+是你们把机器人部队带来的
+{\fscx75\fscy75\1c&HFF8000&}Yousa bringen da Mackineeks.{\r}
+
+1283
+01:40:33,303 --> 01:40:37,016
+自以为了不起吗？
+{\fscx75\fscy75\1c&HFF8000&}Yousa all bombad.{\r}
+
+1284
+01:40:37,892 --> 01:40:40,728
+我们找到这儿来是想和你结盟的
+{\fscx75\fscy75\1c&HFF8000&}We have searched you out because we wish to form an alliance.{\r}
+
+1285
+01:40:40,854 --> 01:40:42,230
+首领大人
+{\fscx75\fscy75\1c&HFF8000&}Your Honour.{\r}
+
+1286
+01:40:44,399 --> 01:40:47,361
+你是谁？
+{\fscx75\fscy75\1c&HFF8000&}Whosa dis?{\r}
+
+1287
+01:40:47,486 --> 01:40:49,697
+我是阿米达拉女王
+{\fscx75\fscy75\1c&HFF8000&}I am Queen Amidala.{\r}
+
+1288
+01:40:51,366 --> 01:40:52,951
+她是我的替身…
+{\fscx75\fscy75\1c&HFF8000&}This is my decoy...{\r}
+
+1289
+01:40:53,076 --> 01:40:56,705
+是保护我的，她是我忠诚的保镖
+{\fscx75\fscy75\1c&HFF8000&}my protection, my loyal bodyguard.{\r}
+
+1290
+01:40:56,830 --> 01:41:01,127
+很抱歉欺骗你，但这是保护我自己的必要手段
+{\fscx75\fscy75\1c&HFF8000&}I'm sorry for my deception, but it was necessary to protect myself.{\r}
+
+1291
+01:41:01,251 --> 01:41:03,796
+虽然我们之间也有分歧，首领大人…
+{\fscx75\fscy75\1c&HFF8000&}Although we do not always agree, Your Honour...{\r}
+
+1292
+01:41:03,921 --> 01:41:06,466
+但我们之间一直是相安无事的
+{\fscx75\fscy75\1c&HFF8000&}our two great societies have always lived in peace.{\r}
+
+1293
+01:41:08,259 --> 01:41:11,430
+贸易联盟毁灭了我们所有辛苦工作的成果
+{\fscx75\fscy75\1c&HFF8000&}The Trade Federation has destroyed all that we have worked so hard to build.{\r}
+
+1294
+01:41:11,555 --> 01:41:14,809
+如果不马上采取行动，后果将不堪设想
+{\fscx75\fscy75\1c&HFF8000&}If we do not act quickly, all will be lost forever.{\r}
+
+1295
+01:41:14,934 --> 01:41:17,145
+我请你帮助我们
+{\fscx75\fscy75\1c&HFF8000&}I ask you to help us.{\r}
+
+1296
+01:41:17,270 --> 01:41:19,981
+不，我求你帮助我们
+{\fscx75\fscy75\1c&HFF8000&}No, I beg you to help us.{\r}
+
+1297
+01:41:20,106 --> 01:41:22,484
+我们是你卑下的奴仆
+{\fscx75\fscy75\1c&HFF8000&}We are your humble servants.{\r}
+
+1298
+01:41:25,738 --> 01:41:28,533
+我们的命运掌握在你手里
+{\fscx75\fscy75\1c&HFF8000&}Our fate is in your hands.{\r}
+
+1299
+01:41:45,760 --> 01:41:50,015
+你们不觉得你们自己比我们冈根人优越了？
+{\fscx75\fscy75\1c&HFF8000&}Yousa no tinken yousa greater den da Gungans?{\r}
+
+1300
+01:41:52,476 --> 01:41:56,398
+这我很高兴！
+{\fscx75\fscy75\1c&HFF8000&}Mesa lika dis!{\r}
+
+1301
+01:41:57,440 --> 01:41:58,317
+也许…
+{\fscx75\fscy75\1c&HFF8000&}Maybe...{\r}
+
+1302
+01:41:58,442 --> 01:42:00,986
+我们…
+{\fscx75\fscy75\1c&HFF8000&}wesa...{\r}
+
+1303
+01:42:01,111 --> 01:42:02,989
+能成为朋友
+{\fscx75\fscy75\1c&HFF8000&}being friends.{\r}
+
+1304
+01:42:11,706 --> 01:42:13,500
+我们派出了巡逻艇
+{\fscx75\fscy75\1c&HFF8000&}We've sent our patrols.{\r}
+
+1305
+01:42:13,625 --> 01:42:17,087
+在沼泽地发现了他们的飞船
+{\fscx75\fscy75\1c&HFF8000&}We already located their starship in the swamp.{\r}
+
+1306
+01:42:17,212 --> 01:42:19,382
+就要找到他们了，大人
+{\fscx75\fscy75\1c&HFF8000&}It won't be long, my lord .{\r}
+
+1307
+01:42:19,507 --> 01:42:22,635
+没想到她会回纳布星
+{\fscx75\fscy75\1c&HFF8000&}This is an unexpected move for her.{\r}
+
+1308
+01:42:22,761 --> 01:42:24,763
+这也太冒险了
+{\fscx75\fscy75\1c&HFF8000&}It 's too aggressive.{\r}
+
+1309
+01:42:24,888 --> 01:42:27,308
+达斯摩罗，你要当心
+{\fscx75\fscy75\1c&HFF8000&}Lord Maul, be mindful.{\r}
+
+1310
+01:42:27,433 --> 01:42:29,977
+让他们先动手
+{\fscx75\fscy75\1c&HFF8000&}Let them make the first move.{\r}
+
+1311
+01:42:30,102 --> 01:42:31,980
+是的，大人
+{\fscx75\fscy75\1c&HFF8000&}Yes, my master.{\r}
+
+1312
+01:42:35,525 --> 01:42:37,194
+他们来了！
+{\fscx75\fscy75\1c&HFF8000&}Deysa comin!{\r}
+
+1313
+01:42:37,319 --> 01:42:38,654
+知道了！
+{\fscx75\fscy75\1c&HFF8000&}All right!{\r}
+
+1314
+01:42:42,242 --> 01:42:43,952
+他们来了！
+{\fscx75\fscy75\1c&HFF8000&}They're here!{\r}
+
+1315
+01:42:44,077 --> 01:42:45,454
+很好，他们到了
+{\fscx75\fscy75\1c&HFF8000&}Good. They made it.{\r}
+
+1316
+01:42:50,041 --> 01:42:52,711
+你干得真不错
+{\fscx75\fscy75\1c&HFF8000&}Yousa doen grand.{\r}
+
+1317
+01:42:52,836 --> 01:42:55,923
+加加让我们和纳布人结成同盟
+{\fscx75\fscy75\1c&HFF8000&}Jar Jar bring uss-en and da Naboo together.{\r}
+
+1318
+01:42:56,048 --> 01:42:57,925
+不，不，不，不
+{\fscx75\fscy75\1c&HFF8000&}Oh, no, no, no.{\r}
+
+1319
+01:42:58,051 --> 01:43:01,012
+所以，现在我任命你为…
+{\fscx75\fscy75\1c&HFF8000&}So, wesa make you...{\r}
+
+1320
+01:43:01,137 --> 01:43:03,640
+冈根的大将军
+{\fscx75\fscy75\1c&HFF8000&}bombad general.{\r}
+
+1321
+01:43:03,766 --> 01:43:05,184
+将军？
+{\fscx75\fscy75\1c&HFF8000&}General?{\r}
+
+1322
+01:43:08,271 --> 01:43:09,731
+船长
+{\fscx75\fscy75\1c&HFF8000&}Captain.{\r}
+
+1323
+01:43:09,856 --> 01:43:12,442
+- 女王陛下 - 情况怎么样？
+{\fscx75\fscy75\1c&HFF8000&}- Your Highness. - What is the situation?{\r}
+
+1324
+01:43:12,567 --> 01:43:14,445
+人们都被关在集中营里
+{\fscx75\fscy75\1c&HFF8000&}Almost everyone's in camps.{\r}
+
+1325
+01:43:14,570 --> 01:43:17,782
+一些警察和卫兵秘密组成了地下抵抗抵抗组织
+{\fscx75\fscy75\1c&HFF8000&}A few hundred police and guards formed an underground resistance movement.{\r}
+
+1326
+01:43:17,907 --> 01:43:20,452
+我尽量把抵抗组职的头领带来了
+{\fscx75\fscy75\1c&HFF8000&}I brought back as many of the leaders as I could.{\r}
+
+1327
+01:43:20,577 --> 01:43:23,454
+贸易联盟的军队比我想像的…
+{\fscx75\fscy75\1c&HFF8000&}The Federation army's also much larger than we thought...{\r}
+
+1328
+01:43:23,579 --> 01:43:25,248
+强大得多
+{\fscx75\fscy75\1c&HFF8000&}and much stronger.{\r}
+
+1329
+01:43:26,541 --> 01:43:29,628
+女王陛下，这场战斗我们很难取胜
+{\fscx75\fscy75\1c&HFF8000&}Your Highness, this is a battle I do not think that we can win.{\r}
+
+1330
+01:43:29,753 --> 01:43:31,964
+战斗只是个幌子
+{\fscx75\fscy75\1c&HFF8000&}The battle is a diversion.{\r}
+
+1331
+01:43:32,089 --> 01:43:34,967
+冈根人会把机器人部队引到城外
+{\fscx75\fscy75\1c&HFF8000&}The Gungans must draw the droid army away from the cities.{\r}
+
+1332
+01:43:35,093 --> 01:43:36,636
+Ｒ２
+{\fscx75\fscy75\1c&HFF8000&}R2.{\r}
+
+1333
+01:43:37,762 --> 01:43:41,225
+我们可以通过瀑布下面的秘密通道进到城里
+{\fscx75\fscy75\1c&HFF8000&}We can enter the city using the secret passages on the waterfall side.{\r}
+
+1334
+01:43:41,350 --> 01:43:43,060
+我们一到主要入口…
+{\fscx75\fscy75\1c&HFF8000&}Once we get to the main entrance...{\r}
+
+1335
+01:43:43,185 --> 01:43:46,272
+船长就开始进行佯政
+{\fscx75\fscy75\1c&HFF8000&}Captain Panaka will create a diversion.{\r}
+
+1336
+01:43:46,397 --> 01:43:49,317
+之后我们就进入宫殿抓住总督
+{\fscx75\fscy75\1c&HFF8000&}Then we can enter the palace and capture the viceroy.{\r}
+
+1337
+01:43:50,068 --> 01:43:52,863
+没有了总督，他们就会乱作一团
+{\fscx75\fscy75\1c&HFF8000&}Without the viceroy, they will be lost and confused.{\r}
+
+1338
+01:43:52,988 --> 01:43:54,657
+你怎么看的，绝地大师？
+{\fscx75\fscy75\1c&HFF8000&}What do you think, Master Jedi?{\r}
+
+1339
+01:43:54,782 --> 01:43:56,951
+宫殿一定会戒备森严的
+{\fscx75\fscy75\1c&HFF8000&}The viceroy will be well-guarded.{\r}
+
+1340
+01:43:57,076 --> 01:43:59,578
+我们得想办法进入正殿
+{\fscx75\fscy75\1c&HFF8000&}The difficulty is getting into the throne room.{\r}
+
+1341
+01:43:59,703 --> 01:44:01,998
+只要一进去，就不会有什么问题了
+{\fscx75\fscy75\1c&HFF8000&}Once we're inside, we shouldn't have a problem.{\r}
+
+1342
+01:44:02,123 --> 01:44:06,837
+进行佯攻损失会很大，很多冈根人可能会战死
+{\fscx75\fscy75\1c&HFF8000&}There is a possibility, with this diversion, many Gungans will be killed.{\r}
+
+1343
+01:44:06,962 --> 01:44:10,257
+我们冈根人是不怕牺牲的
+{\fscx75\fscy75\1c&HFF8000&}Wesa ready to do our-san part.{\r}
+
+1344
+01:44:10,383 --> 01:44:13,511
+我们有一个计划，可以瓦解机器人部队
+{\fscx75\fscy75\1c&HFF8000&}We have a plan which should immobilize the droid army.{\r}
+
+1345
+01:44:13,636 --> 01:44:15,513
+我们要派战斗机
+{\fscx75\fscy75\1c&HFF8000&}We will send what pilots we have...{\r}
+
+1346
+01:44:15,639 --> 01:44:18,684
+去摧毁控制机器人部队的指挥舰
+{\fscx75\fscy75\1c&HFF8000&}to knock out the droid control ship orbiting the planet.{\r}
+
+1347
+01:44:18,809 --> 01:44:21,854
+计划倒是不错，可那太冒险了
+{\fscx75\fscy75\1c&HFF8000&}A well-conceived plan. However, there's great risk.{\r}
+
+1348
+01:44:21,979 --> 01:44:25,108
+你们的武器很难穿透他们的防护罩
+{\fscx75\fscy75\1c&HFF8000&}The weapons on your fighters may not penetrate the shields.{\r}
+
+1349
+01:44:25,233 --> 01:44:26,860
+还有一个更大的危险
+{\fscx75\fscy75\1c&HFF8000&}There's an even bigger danger.{\r}
+
+1350
+01:44:26,985 --> 01:44:28,862
+如果总督逃脱了，女王陛下…
+{\fscx75\fscy75\1c&HFF8000&}If the viceroy escapes, Your Highness...{\r}
+
+1351
+01:44:28,987 --> 01:44:31,198
+他会带更多的机器人部队来这里的
+{\fscx75\fscy75\1c&HFF8000&}he will return with another droid army.{\r}
+
+1352
+01:44:31,323 --> 01:44:34,535
+所以我们抓捕总督的行动，一定要成功
+{\fscx75\fscy75\1c&HFF8000&}Well, that is why we must not fail to get the viceroy.{\r}
+
+1353
+01:44:34,660 --> 01:44:36,579
+这是我们成败的关键
+{\fscx75\fscy75\1c&HFF8000&}Everything depends on it.{\r}
+
+1354
+01:44:41,918 --> 01:44:44,546
+女王比我想像的还要傻
+{\fscx75\fscy75\1c&HFF8000&}She is more foolish than I thought.{\r}
+
+1355
+01:44:44,671 --> 01:44:46,632
+我们派出了所有部队…
+{\fscx75\fscy75\1c&HFF8000&}We are sending all troops...{\r}
+
+1356
+01:44:46,757 --> 01:44:49,635
+到沼泽地集结，准备迎敌
+{\fscx75\fscy75\1c&HFF8000&}to meet this army assembling near the swamp.{\r}
+
+1357
+01:44:49,761 --> 01:44:52,389
+他们的军队似乎都是土着人
+{\fscx75\fscy75\1c&HFF8000&}It appears to be made up of primitives.{\r}
+
+1358
+01:44:52,514 --> 01:44:55,058
+这对我们十分有利
+{\fscx75\fscy75\1c&HFF8000&}This will work to our advantage.{\r}
+
+1359
+01:44:55,184 --> 01:44:57,978
+同意我对他们发起进攻吗？
+{\fscx75\fscy75\1c&HFF8000&}I have your approval to proceed, then, my lord ?{\r}
+
+1360
+01:44:58,771 --> 01:45:00,481
+消灭他们
+{\fscx75\fscy75\1c&HFF8000&}Wipe them out.{\r}
+
+1361
+01:45:02,192 --> 01:45:04,069
+一个不留
+{\fscx75\fscy75\1c&HFF8000&}All of them.{\r}
+
+1362
+01:45:34,979 --> 01:45:36,355
+听着
+{\fscx75\fscy75\1c&HFF8000&}Halt!{\r}
+
+1363
+01:45:39,818 --> 01:45:42,070
+启动防护罩
+{\fscx75\fscy75\1c&HFF8000&}Starting up the shield.{\r}
+
+1364
+01:46:11,604 --> 01:46:12,813
+开火
+{\fscx75\fscy75\1c&HFF8000&}Open fire.{\r}
+
+1365
+01:46:28,914 --> 01:46:32,126
+等我们一进去，你就找个安全的地方躲起来
+{\fscx75\fscy75\1c&HFF8000&}Once we get inside, you find a safe place to hide and stay there.{\r}
+
+1366
+01:46:32,252 --> 01:46:34,170
+- 好的 - 别乱跑
+{\fscx75\fscy75\1c&HFF8000&}- Sure. - Stay there.{\r}
+
+1367
+01:46:50,147 --> 01:46:52,191
+开火，开火
+{\fscx75\fscy75\1c&HFF8000&}Roger, roger.{\r}
+
+1368
+01:47:00,241 --> 01:47:03,370
+我以为战场会离这儿很远呐
+{\fscx75\fscy75\1c&HFF8000&}I thought the battle was going to take place far from here.{\r}
+
+1369
+01:47:04,455 --> 01:47:05,956
+这也太近了
+{\fscx75\fscy75\1c&HFF8000&}This is too close.{\r}
+
+1370
+01:47:11,922 --> 01:47:14,299
+安，快躲起来
+{\fscx75\fscy75\1c&HFF8000&}Ani, find cover.{\r}
+
+1371
+01:47:14,425 --> 01:47:16,719
+- 快！ - 快上飞艇！
+{\fscx75\fscy75\1c&HFF8000&}- Quick! - Get to your ships!{\r}
+
+1372
+01:48:15,493 --> 01:48:16,620
+注意前方敌机
+{\fscx75\fscy75\1c&HFF8000&}Fighters straight ahead.{\r}
+
+1373
+01:48:16,745 --> 01:48:17,871
+收到，2号明白
+{\fscx75\fscy75\1c&HFF8000&}Roger, Bravo Leader.{\r}
+
+1374
+01:48:17,996 --> 01:48:19,206
+收到，2号明白
+{\fscx75\fscy75\1c&HFF8000&}Roger, Bravo Leader.{\r}
+
+1375
+01:48:27,883 --> 01:48:28,967
+停火
+{\fscx75\fscy75\1c&HFF8000&}Cease fire.{\r}
+
+1376
+01:48:36,518 --> 01:48:38,936
+稳住，稳住
+{\fscx75\fscy75\1c&HFF8000&}Steady. Steady.{\r}
+
+1377
+01:49:12,058 --> 01:49:15,269
+- 启动机器人 - 是，长官
+{\fscx75\fscy75\1c&HFF8000&}- Activate the droids. - Yes, sir.{\r}
+
+1378
+01:49:31,788 --> 01:49:33,707
+噢，天哪
+{\fscx75\fscy75\1c&HFF8000&}Ouch time.{\r}
+
+1379
+01:49:47,807 --> 01:49:48,892
+开火
+{\fscx75\fscy75\1c&HFF8000&}Fire!{\r}
+
+1380
+01:50:11,166 --> 01:50:13,002
+我猜总督就在正殿里
+{\fscx75\fscy75\1c&HFF8000&}My guess is the viceroy's in the throne room.{\r}
+
+1381
+01:50:13,127 --> 01:50:14,587
+红队！蓝队！
+{\fscx75\fscy75\1c&HFF8000&}Red group! Blue group!{\r}
+
+1382
+01:50:14,712 --> 01:50:16,506
+大家都到这边来！
+{\fscx75\fscy75\1c&HFF8000&}Everybody, this way!{\r}
+
+1383
+01:50:16,631 --> 01:50:18,675
+喂，等等我
+{\fscx75\fscy75\1c&HFF8000&}Hey, wait for me!{\r}
+
+1384
+01:50:18,800 --> 01:50:21,178
+安，别出来，呆在座舱里
+{\fscx75\fscy75\1c&HFF8000&}Anakin, stay where you are. You'll be safe there.{\r}
+
+1385
+01:50:21,303 --> 01:50:23,305
+- 可是我…  - 那儿很安全
+{\fscx75\fscy75\1c&HFF8000&}- But I... - Stay in that cockpit.{\r}
+
+1386
+01:50:35,485 --> 01:50:38,697
+- 我们来对付他 - 我们绕道过去
+{\fscx75\fscy75\1c&HFF8000&}- We'll handle this. - We'll take the long way.{\r}
+
+1387
+01:50:58,887 --> 01:51:00,805
+我也可以干点什么，对吧，R2
+{\fscx75\fscy75\1c&HFF8000&}We gotta do something, R2.{\r}
+
+1388
+01:51:23,624 --> 01:51:26,627
+我找了，可我找不到开关
+{\fscx75\fscy75\1c&HFF8000&}I'm trying to! I don't know where the trigger is!{\r}
+
+1389
+01:51:30,089 --> 01:51:33,135
+噢，不是那个，也许是这个
+{\fscx75\fscy75\1c&HFF8000&}Oops, wrong one. Maybe it's this one.{\r}
+
+1390
+01:51:34,511 --> 01:51:36,596
+不，等等，是这个
+{\fscx75\fscy75\1c&HFF8000&}Nope. Wait. Here it is.{\r}
+
+1391
+01:51:45,148 --> 01:51:46,649
+快走
+{\fscx75\fscy75\1c&HFF8000&}Let's go!{\r}
+
+1392
+01:51:47,734 --> 01:51:49,986
+噢，是自动驾驶的
+{\fscx75\fscy75\1c&HFF8000&}It's on automatic pilot.{\r}
+
+1393
+01:51:59,080 --> 01:52:00,958
+我想自己驾驶
+{\fscx75\fscy75\1c&HFF8000&}Try to override it.{\r}
+
+1394
+01:53:01,025 --> 01:53:02,944
+不能在这耽搁太久，船长
+{\fscx75\fscy75\1c&HFF8000&}We don't have time for this, Captain.{\r}
+
+1395
+01:53:09,076 --> 01:53:10,912
+看，他们在那儿
+{\fscx75\fscy75\1c&HFF8000&}Look, there they are.{\r}
+
+1396
+01:53:11,037 --> 01:53:13,415
+所以他就自动飞到这儿来了
+{\fscx75\fscy75\1c&HFF8000&}That's where the autopilot's taking us.{\r}
+
+1397
+01:53:30,433 --> 01:53:33,061
+蠢机器人，我踢死你！
+{\fscx75\fscy75\1c&HFF8000&}Dumb droid. Take that!{\r}
+
+1398
+01:53:33,187 --> 01:53:35,106
+走开！走开！走开！
+{\fscx75\fscy75\1c&HFF8000&}Get off! Get off! Get off!{\r}
+
+1399
+01:53:35,231 --> 01:53:36,399
+走开！
+{\fscx75\fscy75\1c&HFF8000&}Get off!{\r}
+
+1400
+01:53:46,452 --> 01:53:48,830
+他们的导向防护罩很坚固
+{\fscx75\fscy75\1c&HFF8000&}The deflector shield is too strong.{\r}
+
+1401
+01:53:58,131 --> 01:53:59,800
+真够紧张的啊！
+{\fscx75\fscy75\1c&HFF8000&}This is tense!{\r}
+
+1402
+01:54:02,094 --> 01:54:04,097
+R2，别让他自动驾驶了
+{\fscx75\fscy75\1c&HFF8000&}R2, get us off this autopilot.{\r}
+
+1403
+01:54:04,222 --> 01:54:06,099
+那样我门都会把命送掉的
+{\fscx75\fscy75\1c&HFF8000&}It's gonna get us both killed.{\r}
+
+1404
+01:54:07,767 --> 01:54:10,187
+你做到了，R2！
+{\fscx75\fscy75\1c&HFF8000&}You did it, R2!{\r}
+
+1405
+01:54:10,312 --> 01:54:11,522
+好，咱们往左飞
+{\fscx75\fscy75\1c&HFF8000&}Let's go left.{\r}
+
+1406
+01:54:16,736 --> 01:54:17,862
+回去？
+{\fscx75\fscy75\1c&HFF8000&}Go back?{\r}
+
+1407
+01:54:17,988 --> 01:54:22,284
+奎刚让我呆在座舱里，我也没出去呀
+{\fscx75\fscy75\1c&HFF8000&}Qui-Gon told me to stay in this cockpit, so that's what I'm gonna do.{\r}
+
+1408
+01:54:29,167 --> 01:54:31,627
+我转一圈 晃他们一下
+{\fscx75\fscy75\1c&HFF8000&}I'll try spinning. That's a good trick.{\r}
+
+1409
+01:54:37,301 --> 01:54:39,845
+我知道很危险，坐稳了
+{\fscx75\fscy75\1c&HFF8000&}I know we're in trouble. Just hang on.{\r}
+
+1410
+01:54:46,687 --> 01:54:47,688
+走！
+{\fscx75\fscy75\1c&HFF8000&}Go!{\r}
+
+1411
+01:54:52,527 --> 01:54:54,237
+换钩枪！
+{\fscx75\fscy75\1c&HFF8000&}Ascension guns!{\r}
+
+1412
+01:57:00,421 --> 01:57:02,048
+撤退！快跑！
+{\fscx75\fscy75\1c&HFF8000&}Retreat! Retreat!{\r}
+
+1413
+01:57:03,800 --> 01:57:05,719
+这下糟了
+{\fscx75\fscy75\1c&HFF8000&}Dis is nutsen.{\r}
+
+1414
+01:57:15,606 --> 01:57:17,566
+超大的能源球
+{\fscx75\fscy75\1c&HFF8000&}Uh-oh. Big boomers.{\r}
+
+1415
+01:57:38,298 --> 01:57:40,717
+拉兄弟一把！
+{\fscx75\fscy75\1c&HFF8000&}Give me a lift!{\r}
+
+1416
+01:57:47,975 --> 01:57:49,561
+加加，用能源球！
+{\fscx75\fscy75\1c&HFF8000&}Jar Jar, usen da booma!{\r}
+
+1417
+01:57:49,686 --> 01:57:51,605
+什么？没有能源球！
+{\fscx75\fscy75\1c&HFF8000&}What? Mesa no have a booma!{\r}
+
+1418
+01:57:51,730 --> 01:57:53,690
+给你，用这个
+{\fscx75\fscy75\1c&HFF8000&}Here. Taken dis one.{\r}
+
+1419
+01:58:10,125 --> 01:58:11,210
+加加！
+{\fscx75\fscy75\1c&HFF8000&}Jar Jar!{\r}
+
+1420
+01:58:11,335 --> 01:58:13,296
+快跳，加加，快跳！
+{\fscx75\fscy75\1c&HFF8000&}Jump, Jar Jar, jump!{\r}
+
+1421
+01:58:23,474 --> 01:58:26,269
+放下武器吧 这一仗他们赢了
+{\fscx75\fscy75\1c&HFF8000&}Put down your weapons. They win this round.{\r}
+
+1422
+01:58:39,200 --> 01:58:41,327
+我们被打中了
+{\fscx75\fscy75\1c&HFF8000&}We're hit, R2!{\r}
+
+1423
+01:58:54,551 --> 01:58:57,513
+快停下来，快停下来
+{\fscx75\fscy75\1c&HFF8000&}I'm trying to stop! I'm trying to stop!{\r}
+
+1424
+01:59:04,729 --> 01:59:06,273
+发动机过热了
+{\fscx75\fscy75\1c&HFF8000&}Everything's overheated.{\r}
+
+1425
+01:59:07,733 --> 01:59:09,693
+不 这可不太妙
+{\fscx75\fscy75\1c&HFF8000&}Oops. This is not good.{\r}
+
+1426
+02:00:22,150 --> 02:00:24,360
+别投降，大将军
+{\fscx75\fscy75\1c&HFF8000&}No giben up, General Jar Jar.{\r}
+
+1427
+02:00:24,485 --> 02:00:26,363
+我正在想办法
+{\fscx75\fscy75\1c&HFF8000&}Mesa think of something.{\r}
+
+1428
+02:00:26,488 --> 02:00:27,864
+举起手来，我投降了
+{\fscx75\fscy75\1c&HFF8000&}Hands up.{\r}
+
+1429
+02:00:27,990 --> 02:00:30,868
+我投降了 我投降了
+{\fscx75\fscy75\1c&HFF8000&}My give up. My give up.{\r}
+
+1430
+02:00:39,586 --> 02:00:42,715
+你的小暴动该结束了，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}Your little insurrection is at an end, Your Highness.{\r}
+
+1431
+02:00:42,840 --> 02:00:44,717
+是该你签署协议的时候了
+{\fscx75\fscy75\1c&HFF8000&}Time for you to sign the treaty{\r}
+
+1432
+02:00:44,842 --> 02:00:46,720
+并结束国会里那些毫无意义的争论
+{\fscx75\fscy75\1c&HFF8000&}and end this pointless debate in the senate.{\r}
+
+1433
+02:00:46,845 --> 02:00:48,597
+总督！
+{\fscx75\fscy75\1c&HFF8000&}Viceroy!{\r}
+
+1434
+02:00:48,722 --> 02:00:50,641
+你的任职到期了
+{\fscx75\fscy75\1c&HFF8000&}Your occupation here has ended.{\r}
+
+1435
+02:00:52,226 --> 02:00:55,605
+抓住她，这个女王是假的
+{\fscx75\fscy75\1c&HFF8000&}After her. This one's a decoy.{\r}
+
+1436
+02:01:02,195 --> 02:01:03,655
+船长
+{\fscx75\fscy75\1c&HFF8000&}Captain!{\r}
+
+1437
+02:01:12,916 --> 02:01:14,960
+关上大门
+{\fscx75\fscy75\1c&HFF8000&}Jam the doors.{\r}
+
+1438
+02:01:18,422 --> 02:01:21,300
+总督，我们现在该签署一个新协议了
+{\fscx75\fscy75\1c&HFF8000&}Now, Viceroy, we will discuss a new treaty.{\r}
+
+1439
+02:02:24,497 --> 02:02:27,000
+好了！有能源了，启动防护罩
+{\fscx75\fscy75\1c&HFF8000&}Yes! We have power. Shields up.{\r}
+
+1440
+02:02:30,295 --> 02:02:31,338
+尝尝这个！
+{\fscx75\fscy75\1c&HFF8000&}Take this!{\r}
+
+1441
+02:02:33,340 --> 02:02:34,425
+还有这个！
+{\fscx75\fscy75\1c&HFF8000&}And this!{\r}
+
+1442
+02:02:42,309 --> 02:02:44,060
+- 不 - 我们正在失去能源
+{\fscx75\fscy75\1c&HFF8000&}- Oops. - We're losing power.{\r}
+
+1443
+02:02:44,185 --> 02:02:46,021
+主反应堆好像有问题
+{\fscx75\fscy75\1c&HFF8000&}There seems to be a problem with the main reactor.{\r}
+
+1444
+02:02:46,146 --> 02:02:47,523
+不可能！
+{\fscx75\fscy75\1c&HFF8000&}Impossible!{\r}
+
+1445
+02:02:47,648 --> 02:02:49,525
+我们的防护罩是坚不可摧的
+{\fscx75\fscy75\1c&HFF8000&}Nothing can get through our shield.{\r}
+
+1446
+02:02:50,818 --> 02:02:52,612
+咱们赶快离开这儿
+{\fscx75\fscy75\1c&HFF8000&}Let's get outta here.{\r}
+
+1447
+02:03:00,663 --> 02:03:03,291
+怎么回事？ 好像是里边爆炸了！
+{\fscx75\fscy75\1c&HFF8000&}What's that? It's blowing up from the inside!{\r}
+
+1448
+02:03:06,336 --> 02:03:07,921
+不是我们打中的
+{\fscx75\fscy75\1c&HFF8000&}We didn't hit it.{\r}
+
+1449
+02:03:11,008 --> 02:03:13,052
+这比赛艇还要过瘾
+{\fscx75\fscy75\1c&HFF8000&}Now, this is Podracing.{\r}
+
+1450
+02:03:14,679 --> 02:03:16,389
+看，一艘我们的飞艇，在主货舱外面！
+{\fscx75\fscy75\1c&HFF8000&}Look, one of ours, out of the main hold!{\r}
+
+1451
+02:03:37,788 --> 02:03:39,248
+怎么回事？
+{\fscx75\fscy75\1c&HFF8000&}What the...{\r}
+
+1452
+02:03:39,373 --> 02:03:41,584
+他们怎么啦？
+{\fscx75\fscy75\1c&HFF8000&}Was'n they doing?{\r}
+
+1453
+02:03:41,709 --> 02:03:45,297
+他们的指挥舰被炸毁了 看！
+{\fscx75\fscy75\1c&HFF8000&}The control ship has been destroyed. Look!{\r}
+
+1454
+02:03:47,007 --> 02:03:49,343
+他们都死了
+{\fscx75\fscy75\1c&HFF8000&}They all broke-ed.{\r}
+
+1455
+02:04:37,773 --> 02:04:41,151
+不，已经太晚了
+{\fscx75\fscy75\1c&HFF8000&}No, it's too late.{\r}
+
+1456
+02:04:41,277 --> 02:04:43,571
+- 不 - 欧比旺
+{\fscx75\fscy75\1c&HFF8000&}- No. - Obi-Wan.{\r}
+
+1457
+02:04:44,864 --> 02:04:46,741
+答应我…
+{\fscx75\fscy75\1c&HFF8000&}Promise...{\r}
+
+1458
+02:04:46,866 --> 02:04:49,411
+答应我训练这个孩子
+{\fscx75\fscy75\1c&HFF8000&}Promise me you will train the boy.{\r}
+
+1459
+02:04:49,536 --> 02:04:51,080
+是的，师父
+{\fscx75\fscy75\1c&HFF8000&}Yes, Master.{\r}
+
+1460
+02:04:55,168 --> 02:04:57,754
+他是被选中的
+{\fscx75\fscy75\1c&HFF8000&}He is the chosen one.{\r}
+
+1461
+02:04:57,879 --> 02:05:01,091
+他会带来平衡
+{\fscx75\fscy75\1c&HFF8000&}He will bring balance.{\r}
+
+1462
+02:05:02,301 --> 02:05:03,719
+训练他
+{\fscx75\fscy75\1c&HFF8000&}Train him.{\r}
+
+1463
+02:05:31,250 --> 02:05:33,044
+总督先生…
+{\fscx75\fscy75\1c&HFF8000&}Now, Viceroy...{\r}
+
+1464
+02:05:33,169 --> 02:05:36,590
+现在你该回去向国会去解释这一切了
+{\fscx75\fscy75\1c&HFF8000&}you're going to have to go back to the senate and explain all this.{\r}
+
+1465
+02:05:38,342 --> 02:05:41,636
+我想你也该和你的贸易特权说再见了
+{\fscx75\fscy75\1c&HFF8000&}I think you can kiss your trade franchise goodbye.{\r}
+
+1466
+02:05:55,361 --> 02:05:58,906
+你是个好徒弟，欧比旺
+{\fscx75\fscy75\1c&HFF8000&}You've been a good apprentice, Obi-Wan.{\r}
+
+1467
+02:05:59,032 --> 02:06:00,909
+还有你，小天行者
+{\fscx75\fscy75\1c&HFF8000&}And you, young Skywalker.{\r}
+
+1468
+02:06:01,701 --> 02:06:04,997
+你们的技艺和勇气令人折服
+{\fscx75\fscy75\1c&HFF8000&}We will watch your career with great interest.{\r}
+
+1469
+02:06:11,546 --> 02:06:14,091
+祝贺你当选为共和国首相
+{\fscx75\fscy75\1c&HFF8000&}Congratulations on your election, Chancellor.{\r}
+
+1470
+02:06:14,216 --> 02:06:17,636
+是你救了我们的人民，女王陛下
+{\fscx75\fscy75\1c&HFF8000&}Your boldness has saved our people, Your Majesty.{\r}
+
+1471
+02:06:17,761 --> 02:06:20,138
+我应该向你表示祝贺
+{\fscx75\fscy75\1c&HFF8000&}It's you who should be congratulated.{\r}
+
+1472
+02:06:20,264 --> 02:06:24,185
+让我们携手为共和国带来和平与繁荣
+{\fscx75\fscy75\1c&HFF8000&}Together we shall bring peace and prosperity to the Republic.{\r}
+
+1473
+02:06:29,232 --> 02:06:33,654
+要长老院授予你绝地武士称号这不成问题
+{\fscx75\fscy75\1c&HFF8000&}Confer on you the level of Jedi knight the council does.{\r}
+
+1474
+02:06:33,779 --> 02:06:38,493
+可是你要我同意你收那个孩子做徒弟…
+{\fscx75\fscy75\1c&HFF8000&}But agree with your taking this boy as your Padawan learner...{\r}
+
+1475
+02:06:38,618 --> 02:06:40,495
+这个绝对不成
+{\fscx75\fscy75\1c&HFF8000&}I do not.{\r}
+
+1476
+02:06:40,621 --> 02:06:42,706
+他是奎刚看中的
+{\fscx75\fscy75\1c&HFF8000&}Qui-Gon believed in him.{\r}
+
+1477
+02:06:45,626 --> 02:06:48,296
+他也许是大预言中所说的人
+{\fscx75\fscy75\1c&HFF8000&}The chosen one the boy may be.{\r}
+
+1478
+02:06:48,421 --> 02:06:50,048
+不管怎样
+{\fscx75\fscy75\1c&HFF8000&}Nevertheless...{\r}
+
+1479
+02:06:50,173 --> 02:06:53,051
+可是训练他我认为是很危险的
+{\fscx75\fscy75\1c&HFF8000&}grave danger I fear in his training.{\r}
+
+1480
+02:06:53,176 --> 02:06:57,306
+尤达大师，我向奎刚保证过
+{\fscx75\fscy75\1c&HFF8000&}Master Yoda, I gave Qui-Gon my word .{\r}
+
+1481
+02:06:57,431 --> 02:06:59,350
+我要训练安纳金
+{\fscx75\fscy75\1c&HFF8000&}I will train Anakin.{\r}
+
+1482
+02:07:01,602 --> 02:07:03,938
+不管长老院同意还是不同意
+{\fscx75\fscy75\1c&HFF8000&}Without the approval of the council, if I must.{\r}
+
+1483
+02:07:04,063 --> 02:07:06,525
+你跟你师父奎刚一样固执
+{\fscx75\fscy75\1c&HFF8000&}Qui-Gon's defiance I sense in you.{\r}
+
+1484
+02:07:06,650 --> 02:07:08,569
+你没必要这样做
+{\fscx75\fscy75\1c&HFF8000&}Need that you do not.{\r}
+
+1485
+02:07:10,821 --> 02:07:14,075
+长老院同意你的请求
+{\fscx75\fscy75\1c&HFF8000&}Agree with you the council does.{\r}
+
+1486
+02:07:15,201 --> 02:07:18,497
+天行者是你的徒弟了
+{\fscx75\fscy75\1c&HFF8000&}Your apprentice Skywalker will be.{\r}
+
+1487
+02:07:46,320 --> 02:07:48,072
+现在这是要干什么？
+{\fscx75\fscy75\1c&HFF8000&}What will happen to me now?{\r}
+
+1488
+02:07:48,197 --> 02:07:51,242
+长老院已经同意我训练你
+{\fscx75\fscy75\1c&HFF8000&}The council have granted me permission to train you.{\r}
+
+1489
+02:07:51,367 --> 02:07:54,788
+你会成为一名绝地武士
+{\fscx75\fscy75\1c&HFF8000&}You will be a Jedi, I promise.{\r}
+
+1490
+02:08:04,215 --> 02:08:07,594
+毫无疑问，神秘武士是个西斯人
+{\fscx75\fscy75\1c&HFF8000&}There's no doubt the mysterious warrior was a Sith.{\r}
+
+1491
+02:08:07,719 --> 02:08:10,180
+他们总是有两个人
+{\fscx75\fscy75\1c&HFF8000&}Always two there are.{\r}
+
+1492
+02:08:10,305 --> 02:08:13,517
+不多，也不少
+{\fscx75\fscy75\1c&HFF8000&}No more, no less.{\r}
+
+1493
+02:08:13,642 --> 02:08:16,562
+一个师父和一个徒弟
+{\fscx75\fscy75\1c&HFF8000&}A master and an apprentice.{\r}
+
+1494
+02:08:16,687 --> 02:08:18,231
+可是被毁掉的是谁呢？
+{\fscx75\fscy75\1c&HFF8000&}But which was destroyed?{\r}
+
+1495
+02:08:18,356 --> 02:08:21,318
+师父还是徒弟？
+{\fscx75\fscy75\1c&HFF8000&}The master or the apprentice?{\r}
+
+1496
+02:08:46,574 --> 02:08:48,633
+你们好，各位！
+{\fscx75\fscy75\1c&HFF8000&}Hello, everybody!{\r}
+
+1497
+02:09:35,295 --> 02:09:37,230
+和平！
+{\fscx75\fscy75\1c&HFF8000&}Peace!{\r}
+
+1498
+02:09:37,331 --> 02:09:40,164
+我靠！
+{\fscx75\fscy75\1c&HFF8000&}Ya-hoo!{\r}
+
